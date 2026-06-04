@@ -1,57 +1,122 @@
 import sys
+import re
+import ipaddress
 
-def minimize_domains(file_paths, output_path):
+
+# ── 域名合法性校验 ──
+DOMAIN_RE = re.compile(
+    r'^(?:[a-zA-Z0-9](?:[a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}$'
+)
+
+
+def is_valid_ip(s: str) -> bool:
+    """检查是否为合法 IPv4 或 IPv6 地址"""
+    try:
+        ipaddress.ip_address(s)
+        return True
+    except ValueError:
+        return False
+
+
+def parse_line(line: str) -> tuple[str, str] | None:
+    """
+    解析一行，返回 (类型, 值)：
+      - ('domain', 'ads.example.com')
+      - ('ip', '212.117.186.252')
+      - None（无效行）
+    """
+    line = line.strip().lower()
+    if not line or line.startswith('#') or line.startswith('!'):
+        return None
+
+    # 去除末尾的点和可能的通配符
+    cleaned = line.strip('*|.').rstrip('.')
+
+    # 先检查是否为 IP 地址
+    if is_valid_ip(cleaned):
+        return ('ip', cleaned)
+
+    # 再检查是否为合法域名
+    if DOMAIN_RE.match(cleaned):
+        return ('domain', cleaned)
+
+    return None
+
+
+def minimize_domains(file_paths: list[str], output_path: str):
     domains = set()
-    
-    # 1. 读取所有文件，过滤注释和空行
+    ips = set()
+    source_stats = {}
+
+    # ── 1. 读取所有输入文件 ──
     for path in file_paths:
+        d_count = 0
+        ip_count = 0
+        skipped = 0
         try:
             with open(path, 'r', encoding='utf-8') as f:
                 for line in f:
-                    line = line.strip()
-                    if not line or line.startswith('#'):
+                    result = parse_line(line)
+                    if result is None:
+                        skipped += 1
                         continue
-                    # 统一转小写，去除末尾可能存在的点
-                    domain = line.lower().rstrip('.')
-                    if domain:
-                        domains.add(domain)
+                    typ, val = result
+                    if typ == 'domain':
+                        domains.add(val)
+                        d_count += 1
+                    else:
+                        ips.add(val)
+                        ip_count += 1
+            source_stats[path] = (d_count, ip_count, skipped)
         except FileNotFoundError:
-            print(f"Warning: File not found: {path}")
+            print(f"⚠️  Warning: File not found: {path}")
 
-    original_count = len(domains)
-    print(f"Total unique domains before minimizing: {original_count}")
+    # ── 打印统计 ──
+    print("📊 Source statistics:")
+    for path, (d, ip, s) in source_stats.items():
+        print(f"   {path}: {d:,} domains, {ip:,} IPs, {s:,} skipped")
 
-    # 2. 核心算法：反转域名并排序
-    # 例如: example.com -> moc.elpmaxe
-    #      ads.example.com -> moc.elpmaxe.sda
-    # 排序后，父域名会紧挨着排在子域名前面
-    reversed_domains = sorted([d[::-1] for d in domains])
-    
-    # 3. 遍历并剔除子域名
+    total_unique = len(domains) + len(ips)
+    print(f"\n📦 Unique domains: {len(domains):,}  |  Unique IPs: {len(ips):,}  |  Total: {total_unique:,}")
+
+    # ── 2. 子域名去冗余（仅域名） ──
+    reversed_domains = sorted(d[::-1] for d in domains)
+
     minimized_reversed = []
     prev = None
     for rev_d in reversed_domains:
-        # 如果当前域名以 "上一个域名 + ." 开头，说明它是上一个域名的子域名
         if prev is not None and rev_d.startswith(prev + '.'):
-            continue
+            continue  # 子域名，跳过
         minimized_reversed.append(rev_d)
         prev = rev_d
-        
-    # 4. 将结果反转回来并保存
-    final_domains = [d[::-1] for d in minimized_reversed]
-    
+
+    final_domains = sorted(d[::-1] for d in minimized_reversed)
+    final_ips = sorted(ips)
+
+    removed = len(domains) - len(final_domains)
+    pct = (removed / len(domains) * 100) if domains else 0
+    print(f"✅ Minimized domains: {len(final_domains):,} (removed {removed:,} subdomains, {pct:.1f}%)")
+    print(f"✅ IPs kept: {len(final_ips):,}")
+    print(f"📝 Final output: {len(final_domains) + len(final_ips):,} lines\n")
+
+    # ── 3. 写入输出文件 ──
+    # 注意：文件头不含时间戳，避免 git diff 每次都检测到变化
     with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(f"# Merged & Minimized Adblock List\n")
+        f.write(f"# Domains: {len(final_domains):,} (removed {removed:,} subdomains)\n")
+        f.write(f"# IPs: {len(final_ips):,}\n")
+        f.write(f"# Total: {len(final_domains) + len(final_ips):,}\n")
         for d in final_domains:
             f.write(d + '\n')
-            
-    print(f"Final minimized domains: {len(final_domains)}")
-    print(f"Removed {original_count - len(final_domains)} redundant subdomains.")
+        for ip in final_ips:
+            f.write(ip + '\n')
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
         print("Usage: python minimize.py <output_file> <input_file1> [input_file2] ...")
         sys.exit(1)
-        
+
     out_file = sys.argv[1]
     in_files = sys.argv[2:]
     minimize_domains(in_files, out_file)
