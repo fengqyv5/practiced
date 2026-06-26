@@ -1,11 +1,14 @@
-# Removed Subdomains Report (5,800 total)
+# Removed Subdomains Report (4,835 total)
 # Format: [Parent Domain] -> Removed Subdomains
 
-[0073a85a5d.com] (1 removed)
-  - c2c4aecf0a.0073a85a5d.com
+[012dadaa06.com] (1 removed)
+  - 0db65504c2.012dadaa06.com
 
 [01955ad1f7.com] (1 removed)
   - da6e6963b8.01955ad1f7.com
+
+[02075cc3d5.com] (1 removed)
+  - 52c98b42b0.02075cc3d5.com
 
 [022022.net] (1 removed)
   - cname-aa.022022.net
@@ -13,20 +16,38 @@
 [02672653a1.com] (1 removed)
   - 5636bc7886.02672653a1.com
 
-[02a30fd4b8.com] (1 removed)
-  - f220e81bc1.02a30fd4b8.com
-
 [031dcf857c.com] (1 removed)
   - c8d9e11a82.031dcf857c.com
 
 [03c4e4cc73.com] (1 removed)
   - d55b071143.03c4e4cc73.com
 
-[04e8c7346f.com] (1 removed)
-  - c30dc8d0f7.04e8c7346f.com
+[05cb34d5f9.com] (1 removed)
+  - ccc354db8e.05cb34d5f9.com
+
+[0737ebd153.com] (1 removed)
+  - e91a3a5039.0737ebd153.com
+
+[07a243cfe3.com] (1 removed)
+  - 42a95337ac.07a243cfe3.com
+
+[0860c7aadf.com] (1 removed)
+  - bbcb71c053.0860c7aadf.com
 
 [0dayporno.com] (1 removed)
   - s3.0dayporno.com
+
+[0fbee846c6.com] (1 removed)
+  - a6f50f55d7.0fbee846c6.com
+
+[0to1code.com] (1 removed)
+  - www.0to1code.com
+
+[1000bulbs.com] (1 removed)
+  - sapot.1000bulbs.com
+
+[106778d1a7.com] (1 removed)
+  - fcfa9c85a8.106778d1a7.com
 
 [114central.com] (1 removed)
   - 1.114central.com
@@ -34,11 +55,8 @@
 [1230165f1b.com] (1 removed)
   - da8b600d65.1230165f1b.com
 
-[13b1e60d7e.com] (1 removed)
-  - ab208fce17.13b1e60d7e.com
-
-[140proof.com] (1 removed)
-  - api.140proof.com
+[15537cf1f5.com] (1 removed)
+  - bbe3e16f85.15537cf1f5.com
 
 [19626fc3d0.com] (1 removed)
   - d6f37ffb47.19626fc3d0.com
@@ -55,8 +73,11 @@
 [1f2c6ca393.com] (1 removed)
   - 3da400e3ed.1f2c6ca393.com
 
-[22101be88a.com] (1 removed)
-  - 360f939bba.22101be88a.com
+[1k3.com] (1 removed)
+  - ad.1k3.com
+
+[2038.pro] (1 removed)
+  - go.2038.pro
 
 [2217ce7adf.com] (1 removed)
   - d1f157f959.2217ce7adf.com
@@ -64,25 +85,16 @@
 [223001ca2c.com] (1 removed)
   - 4ef8c1bbed.223001ca2c.com
 
-[2345.com] (1 removed)
-  - ggcode.2345.com
+[233af38553.com] (1 removed)
+  - bb78c9691d.233af38553.com
 
-[26a840907b.com] (1 removed)
-  - 9c998d0309.26a840907b.com
+[23f30d7ca1.com] (1 removed)
+  - 4c4710bfc9.23f30d7ca1.com
 
-[286608243d.com] (1 removed)
-  - cfff1708fa.286608243d.com
+[26664d7709.com] (1 removed)
+  - 0225083fd4.26664d7709.com
 
-[28dafd89fb.com] (1 removed)
-  - c317acaa11.28dafd89fb.com
-
-[291cf7aa0b.com] (1 removed)
-  - e2a0595802.291cf7aa0b.com
-
-[2f7f58d605.com] (1 removed)
-  - 6bcc158a9d.2f7f58d605.com
-
-[2o7.net] (287 removed)
+[2o7.net] (290 removed)
   - 102.112.2o7.net
   - 1und1drillisch.112.2o7.net
   - 4imprintcom.112.2o7.net
@@ -98,6 +110,7 @@
   - ana.112.2o7.net
   - anaplanglobal.112.2o7.net
   - and.co.uk.122.2o7.net
+  - apartments.com.112.2o7.net
   - apl.112.2o7.net
   - atiprod.112.2o7.net
   - atlanticmedia.122.2o7.net
@@ -144,11 +157,9 @@
   - citinaconsumer.122.2o7.net
   - cnn.122.2o7.net
   - cnn.com.102.122.2o7.net
-  - com.112.2o7.net
   - com.122.2o7.net
   - communityworkdayprodd8.112.2o7.net
   - concursolutionseudatacenter.112.2o7.net
-  - concursolutionstripitusdatacenter.112.2o7.net
   - concursolutionsusdatacenter.112.2o7.net
   - conduentfornewjerseyezpassnj.112.2o7.net
   - conduentnyweb.112.2o7.net
@@ -244,6 +255,7 @@
   - meijer.com.102.122.2o7.net
   - microntechnologydfprod.112.2o7.net
   - millerbrewingcompany.122.2o7.net
+  - mlbiosatbatnewimplementation.112.2o7.net
   - mmclageingworksprod.112.2o7.net
   - mmdmakemydealcom.112.2o7.net
   - mmtquesttotraveldev.112.2o7.net
@@ -333,10 +345,12 @@
   - toyotaeuropelexglobalprod.112.2o7.net
   - toyotaeuropetoyglobaldev.112.2o7.net
   - toyotaeuropetoyglobalprod.112.2o7.net
+  - toysrus.com.112.2o7.net
   - traderjoes.112.2o7.net
   - trane.112.2o7.net
   - tranetranetechnologies.112.2o7.net
   - transunionprod.112.2o7.net
+  - trutv.com.112.2o7.net
   - tuiinteractive.122.2o7.net
   - ulta.com.102.122.2o7.net
   - ultacom.112.2o7.net
@@ -360,6 +374,7 @@
   - vodafoneuk.122.2o7.net
   - vuduweb.112.2o7.net
   - vuduwebprod.112.2o7.net
+  - vulture.com.112.2o7.net
   - warnerbros.112.2o7.net
   - wdgepsilonperkswebprod.112.2o7.net
   - webmdglobal.122.2o7.net
@@ -371,17 +386,17 @@
   - www.112.2o7.net
   - yamahayca.122.2o7.net
 
+[30c69e6975.com] (1 removed)
+  - 9db4da6d9f.30c69e6975.com
+
 [3163ba76f7.com] (1 removed)
   - eca1311030.3163ba76f7.com
 
 [3387b76be8.com] (1 removed)
   - 3f955df762.3387b76be8.com
 
-[36a1652b0f.com] (1 removed)
-  - 392b00bfff.36a1652b0f.com
-
-[36dc612c23.com] (1 removed)
-  - b3c733588e.36dc612c23.com
+[339fee097c.com] (1 removed)
+  - 8c217a925a.339fee097c.com
 
 [36f822ca84.com] (1 removed)
   - 10f01c5188.36f822ca84.com
@@ -389,29 +404,27 @@
 [388826bd9d.com] (1 removed)
   - 9c2d7cdbd5.388826bd9d.com
 
+[396d8aaa17.com] (1 removed)
+  - 5e56217cd5.396d8aaa17.com
+
 [3a1362b385.com] (1 removed)
   - d99ec2324b.3a1362b385.com
 
 [3a1ebd5d26.com] (1 removed)
   - 00ef400e98.3a1ebd5d26.com
 
-[3d6a6c3707.com] (1 removed)
-  - 3cd1290174.3d6a6c3707.com
+[3bfff8a34d.com] (1 removed)
+  - 01a3500ed0.3bfff8a34d.com
 
-[3gu.com] (1 removed)
-  - uu1.3gu.com
+[403dee4b16.com] (1 removed)
+  - 203a382a60.403dee4b16.com
 
-[40e192673a.com] (1 removed)
-  - f1d432e793.40e192673a.com
+[4buy.net] (2 removed)
+  - dl-test.4buy.net
+  - dl.4buy.net
 
-[44m4.net] (1 removed)
-  - sns.44m4.net
-
-[4b1eec4734.com] (1 removed)
-  - aaf6a9ea84.4b1eec4734.com
-
-[4c8b0c080b.com] (1 removed)
-  - db27652f6f.4c8b0c080b.com
+[4c4a520279.com] (1 removed)
+  - 565ddd0acd.4c4a520279.com
 
 [4chan-ads.org] (1 removed)
   - static.4chan-ads.org
@@ -419,20 +432,17 @@
 [4def6b5c7a.com] (1 removed)
   - 41df071f8e.4def6b5c7a.com
 
-[4e47af880e.com] (1 removed)
-  - a962171d52.4e47af880e.com
-
 [5170064c2d.com] (1 removed)
   - 0f64a1335d.5170064c2d.com
 
-[54653cc53d.com] (1 removed)
-  - 6c062330ce.54653cc53d.com
+[52cd1a4545.com] (1 removed)
+  - e53d4be454.52cd1a4545.com
 
-[54a73dbcb6.com] (1 removed)
-  - 9fa67c2dc3.54a73dbcb6.com
+[57fafe08ba.com] (1 removed)
+  - 460c0f8786.57fafe08ba.com
 
-[5adde1db4b.com] (1 removed)
-  - 707361e48f.5adde1db4b.com
+[5813e74b18.com] (1 removed)
+  - 06b36b4508.5813e74b18.com
 
 [5c2b54416a.com] (1 removed)
   - 9ad9d37bec.5c2b54416a.com
@@ -446,20 +456,20 @@
 [60recheiosincriveis.com] (1 removed)
   - server.60recheiosincriveis.com
 
-[60sk.ru] (1 removed)
-  - o.60sk.ru
+[618856e0bb.com] (1 removed)
+  - da8715ad2d.618856e0bb.com
 
-[61e564cc00.com] (1 removed)
-  - f08a153e6e.61e564cc00.com
+[6a1e09565a.com] (1 removed)
+  - e43ef7f183.6a1e09565a.com
 
-[61yes.com] (1 removed)
-  - cdn.61yes.com
+[6cde8b5544.com] (1 removed)
+  - 44fc0648ef.6cde8b5544.com
 
-[64980aaffd.com] (1 removed)
-  - 066b0fa5eb.64980aaffd.com
+[6e5e20f3c0.com] (1 removed)
+  - 5a925ced55.6e5e20f3c0.com
 
-[6c9c74ad54.com] (1 removed)
-  - a9e74b3b02.6c9c74ad54.com
+[6fbce8ec59.com] (1 removed)
+  - 586bc20f97.6fbce8ec59.com
 
 [6sc.co] (2 removed)
   - b.6sc.co
@@ -468,26 +478,17 @@
 [720df8c8c9.com] (1 removed)
   - 00cae06d30.720df8c8c9.com
 
-[7345dc0372.com] (1 removed)
-  - dbb8b55e45.7345dc0372.com
+[753fceba29.com] (1 removed)
+  - 60ef1c3dd9.753fceba29.com
 
-[7a416c3a61.com] (1 removed)
-  - f0700b9a77.7a416c3a61.com
+[7951504c8b.com] (1 removed)
+  - 51ff617b32.7951504c8b.com
 
-[7d909fb540.com] (1 removed)
-  - 963a45e65f.7d909fb540.com
+[7a28c1843f.com] (1 removed)
+  - 05867500b2.7a28c1843f.com
 
 [7d9d50ada1.com] (1 removed)
   - 485bd96db9.7d9d50ada1.com
-
-[7ed58b948f.com] (1 removed)
-  - f9dc3c3b5e.7ed58b948f.com
-
-[7fa28aad94.com] (1 removed)
-  - b257c1d0e9.7fa28aad94.com
-
-[7fae5b3e9c.com] (1 removed)
-  - f0e3622a7e.7fae5b3e9c.com
 
 [7figuredojo.com] (1 removed)
   - stape.7figuredojo.com
@@ -495,17 +496,14 @@
 [7figureofferformula.com] (1 removed)
   - st.7figureofferformula.com
 
-[80494f40b6.com] (1 removed)
-  - b50c1772be.80494f40b6.com
+[8111f7e70e.com] (1 removed)
+  - e9093193fa.8111f7e70e.com
 
-[84fa5dcb33.com] (1 removed)
-  - db978dc6d0.84fa5dcb33.com
+[82067251a6.com] (1 removed)
+  - 6093ac4972.82067251a6.com
 
-[856d79ad49.com] (1 removed)
-  - a0de95822c.856d79ad49.com
-
-[8f05eeda67.com] (1 removed)
-  - 95b16b661b.8f05eeda67.com
+[8dc714cafe.com] (1 removed)
+  - 64f14dbf1b.8dc714cafe.com
 
 [91b20f7c8f.com] (1 removed)
   - ad81b5514f.91b20f7c8f.com
@@ -513,17 +511,14 @@
 [91d02a6a8c.com] (1 removed)
   - d34d3e1bba.91d02a6a8c.com
 
-[9334fb3562.com] (1 removed)
-  - 38710f41e0.9334fb3562.com
+[947e33602e.com] (1 removed)
+  - 6003ed4af4.947e33602e.com
 
-[9357f4ba72.com] (1 removed)
-  - f0fdae6be7.9357f4ba72.com
+[97f477047f.com] (1 removed)
+  - 0f85bcb09c.97f477047f.com
 
-[95ce9fb0ff.com] (1 removed)
-  - 37ccf2671e.95ce9fb0ff.com
-
-[9823df.com] (1 removed)
-  - cdn.9823df.com
+[98ab3242f8.com] (1 removed)
+  - 6446fb7d55.98ab3242f8.com
 
 [9a131ab3ce.com] (1 removed)
   - 01ca03c5d7.9a131ab3ce.com
@@ -531,23 +526,11 @@
 [9a57160d5c.com] (1 removed)
   - 055479b29b.9a57160d5c.com
 
-[9b6aa87a81.com] (1 removed)
-  - 8fdfafe8ad.9b6aa87a81.com
+[a.market.xiaomi.com] (1 removed)
+  - t1.a.market.xiaomi.com
 
-[9c36d51a22.com] (1 removed)
-  - dce07e9d53.9c36d51a22.com
-
-[9cd47096ab1495d8d3b18667f6a52b9c.com] (1 removed)
-  - geoloc2.9cd47096ab1495d8d3b18667f6a52b9c.com
-
-[9dotsmedia.com] (1 removed)
-  - xml.9dotsmedia.com
-
-[a-spy.com] (1 removed)
-  - www.a-spy.com
-
-[a.klaviyo.com] (1 removed)
-  - fast.a.klaviyo.com
+[a0948db4ee.com] (1 removed)
+  - 7a1d2e7b26.a0948db4ee.com
 
 [a0d3dd0c89.com] (1 removed)
   - c92a8a2de1.a0d3dd0c89.com
@@ -560,6 +543,9 @@
 
 [a54a8ff97b.com] (1 removed)
   - ef6f055a34.a54a8ff97b.com
+
+[a567dda4c2.com] (1 removed)
+  - 0eab70c429.a567dda4c2.com
 
 [a8.net] (17 removed)
   - ad-verification.a8.net
@@ -582,15 +568,6 @@
 
 [a910d264c4.com] (1 removed)
   - 3b30612d89.a910d264c4.com
-
-[a970dc123c.com] (1 removed)
-  - 6c7cd0e530.a970dc123c.com
-
-[aagofwi.com] (1 removed)
-  - www.aagofwi.com
-
-[ab0fbb66ba.com] (1 removed)
-  - c31b92c368.ab0fbb66ba.com
 
 [ablyft.com] (1 removed)
   - log.ablyft.com
@@ -690,27 +667,26 @@
   - otalliance.actonsoftware.com
   - poly.actonsoftware.com
 
-[ad.logic-prod.viasat.io] (4 removed)
-  - api.ad.logic-prod.viasat.io
+[ad.10010.com] (1 removed)
+  - m1.ad.10010.com
+
+[ad.logic-prod.viasat.io] (3 removed)
   - console.ad.logic-prod.viasat.io
   - server.ad.logic-prod.viasat.io
   - static.ad.logic-prod.viasat.io
 
-[ad.playstation.net] (1 removed)
-  - a.ad.playstation.net
+[adasgxsp.cc] (2 removed)
+  - bn.adasgxsp.cc
+  - ppu.adasgxsp.cc
 
-[adamfreediver.com] (1 removed)
-  - www.adamfreediver.com
+[adating.link] (1 removed)
+  - t.adating.link
 
-[adbert.com.tw] (1 removed)
-  - www.adbert.com.tw
-
-[adbility-media.com] (1 removed)
-  - www.adbility-media.com
-
-[adconclave.com] (2 removed)
+[adconclave.com] (1 removed)
   - static.adconclave.com
-  - xml.adconclave.com
+
+[adconnect.vn] (1 removed)
+  - static.adconnect.vn
 
 [addthis.com] (5 removed)
   - api.addthis.com
@@ -720,11 +696,23 @@
   - q.addthis.com
 
 [adflores.com] (2 removed)
+  - filter.adflores.com
   - login.adflores.com
-  - xml.adflores.com
 
-[adfootmedia.com] (1 removed)
-  - xml.adfootmedia.com
+[adfonic.net] (1 removed)
+  - as.adfonic.net
+
+[adfootmedia.com] (2 removed)
+  - filter-eu.adfootmedia.com
+  - filter.adfootmedia.com
+
+[adform.com] (6 removed)
+  - blog.adform.com
+  - creative.adform.com
+  - flow.adform.com
+  - getcertified.adform.com
+  - join.adform.com
+  - site.adform.com
 
 [adform.net] (12 removed)
   - a2.adform.net
@@ -740,11 +728,13 @@
   - server.adform.net
   - track-eu.adform.net
 
-[adianjing.com] (1 removed)
-  - ozga.adianjing.com
+[adfox.ru] (2 removed)
+  - ads.adfox.ru
+  - banners.adfox.ru
 
-[adjarabet.com] (1 removed)
-  - bms1.adjarabet.com
+[adjust.cn] (2 removed)
+  - analytics.adjust.cn
+  - s2s.adjust.cn
 
 [adjust.com] (7 removed)
   - analytics.adjust.com
@@ -764,16 +754,11 @@
 [adjust.world] (1 removed)
   - analytics.adjust.world
 
-[adlandpro.com] (3 removed)
-  - community.adlandpro.com
-  - te.adlandpro.com
-  - www.adlandpro.com
-
 [admitad.com] (1 removed)
   - cdn.admitad.com
 
-[admixer.academy] (1 removed)
-  - blog.admixer.academy
+[adnetmedia.lt] (1 removed)
+  - banners.adnetmedia.lt
 
 [adocean.pl] (30 removed)
   - b92rs.adocean.pl
@@ -807,48 +792,31 @@
   - tvn2.adocean.pl
   - vbbg.adocean.pl
 
-[adolphcoors.org] (1 removed)
-  - www.adolphcoors.org
+[adperfect.com] (1 removed)
+  - nationalpost.adperfect.com
 
-[adorika.net] (1 removed)
-  - a.adorika.net
-
-[adpix.online] (2 removed)
-  - rtb2-useast.adpix.online
+[adpix.online] (1 removed)
   - static-rtb2.adpix.online
 
-[adplan7.com] (1 removed)
-  - tracker.adplan7.com
-
-[adplogger.no] (1 removed)
-  - collect.adplogger.no
-
-[ads.heytapmobi.com] (3 removed)
+[ads.heytapmobi.com] (7 removed)
+  - adx-f.ads.heytapmobi.com
+  - adx-id.ads.heytapmobi.com
+  - adx-sg.ads.heytapmobi.com
   - darvin-ec.ads.heytapmobi.com
+  - data.ads.heytapmobi.com
   - ssp-adx.ads.heytapmobi.com
-  - uapi.ads.heytapmobi.com
+  - stg-data-in.ads.heytapmobi.com
 
-[ads.ramsalt.com] (2 removed)
-  - canariajournalen.ads.ramsalt.com
-  - expo.ads.ramsalt.com
+[ads.oveeo.com] (1 removed)
+  - sync.ads.oveeo.com
 
-[adsafety.net] (4 removed)
-  - cm.adsafety.net
-  - tracking-i2.adsafety.net
-  - tracking-stvde.adsafety.net
-  - tracking.adsafety.net
-
-[adservicemedia.dk] (1 removed)
-  - impr.adservicemedia.dk
+[adserverhd.com] (1 removed)
+  - as2.adserverhd.com
 
 [adsimpact.nl] (1 removed)
   - load.gtm.adsimpact.nl
 
-[adsmeasurement.com] (1 removed)
-  - samsungads.adsmeasurement.com
-
-[adsmediaextensions.com] (2 removed)
-  - audio-recorder.adsmediaextensions.com
+[adsmediaextensions.com] (1 removed)
   - what-the-font.adsmediaextensions.com
 
 [adspeed.net] (1 removed)
@@ -860,38 +828,20 @@
 [adspower.net] (1 removed)
   - logger.adspower.net
 
-[adsventure.de] (1 removed)
-  - gtm.adsventure.de
+[adsudo.com] (3 removed)
+  - rtb-eu-v4.adsudo.com
+  - rtb-eu.adsudo.com
+  - rtb-useast-v4.adsudo.com
 
 [adsync.global] (1 removed)
   - win-rtb2-useast.adsync.global
-
-[adt523.net] (1 removed)
-  - cdn.adt523.net
-
-[adtechus.com] (4 removed)
-  - adserver.adtechus.com
-  - aka-cdn-ns.adtechus.com
-  - aka-cdn.adtechus.com
-  - ums.adtechus.com
 
 [adtonos.com] (2 removed)
   - play.adtonos.com
   - vast.adtonos.com
 
-[adtraction.com] (2 removed)
-  - advertiser.adtraction.com
-  - secure.adtraction.com
-
-[adtriba.com] (1 removed)
-  - d.adtriba.com
-
-[adultcash.com] (2 removed)
-  - exits.adultcash.com
-  - www.adultcash.com
-
-[adultdatelink.com] (1 removed)
-  - www.adultdatelink.com
+[adultcash.com] (1 removed)
+  - popfree.adultcash.com
 
 [adultfriendfinder.com] (5 removed)
   - ads.adultfriendfinder.com
@@ -900,29 +850,22 @@
   - geobanner.adultfriendfinder.com
   - iframe.adultfriendfinder.com
 
-[adups.com] (4 removed)
-  - ap.adups.com
-  - clean.adups.com
-  - iotapi.adups.com
-  - push5.adups.com
-
-[advertpro.com] (1 removed)
-  - www.advertpro.com
-
 [advertrek.com] (2 removed)
   - a.advertrek.com
-  - s.advertrek.com
+  - rtb.advertrek.com
 
-[adx.io] (2 removed)
-  - d.adx.io
-  - s.adx.io
+[adxnow.com] (2 removed)
+  - admin.adxnow.com
+  - management.adxnow.com
 
 [adzerk.net] (3 removed)
   - engine.adzerk.net
   - engine2.adzerk.net
   - static.adzerk.net
 
-[adzinx.com] (1 removed)
+[adzinx.com] (3 removed)
+  - filter-eu.adzinx.com
+  - filter.adzinx.com
   - login.adzinx.com
 
 [affiliatefuture.com] (1 removed)
@@ -931,17 +874,14 @@
 [affiliatly.com] (1 removed)
   - static.affiliatly.com
 
-[affilimate.io] (1 removed)
-  - snippet.affilimate.io
-
 [afftrack001.com] (1 removed)
   - popups.afftrack001.com
 
-[afmndx.com] (1 removed)
-  - icon.eu.afmndx.com
-
 [agent.56.com] (1 removed)
-  - bill.agent.56.com
+  - acs.agent.56.com
+
+[agile-company-365.com] (1 removed)
+  - www.agile-company-365.com
 
 [agile-enterprise-365.com] (1 removed)
   - www.agile-enterprise-365.com
@@ -954,9 +894,6 @@
   - fid.agkn.com
   - js.agkn.com
   - static.agkn.com
-
-[ahnenforschung.de] (1 removed)
-  - www.ahnenforschung.de
 
 [aimatch.com] (9 removed)
   - bclays-ads.aimatch.com
@@ -972,31 +909,29 @@
 [aio.media] (1 removed)
   - static.aio.media
 
-[airbridge.io] (4 removed)
-  - attribution.airbridge.io
+[airbridge.io] (5 removed)
   - config.airbridge.io
-  - custom-domain.airbridge.io
+  - core.airbridge.io
+  - event-track.airbridge.io
+  - event.airbridge.io
   - static.airbridge.io
-
-[ak2yy.com] (1 removed)
-  - cdn.ak2yy.com
-
-[akasztofa.com] (1 removed)
-  - www.akasztofa.com
-
-[akick.com] (1 removed)
-  - www.akick.com
 
 [alarmrisk.com] (1 removed)
   - www.alarmrisk.com
 
-[alimama.cn] (2 removed)
+[algoos.com] (1 removed)
+  - www.algoos.com
+
+[alimama.cn] (3 removed)
   - a.alimama.cn
+  - cb.alimama.cn
   - img.alimama.cn
 
-[alt.com] (2 removed)
-  - adserver.alt.com
-  - geobanner.alt.com
+[all-usanomination.com] (1 removed)
+  - chuchle.all-usanomination.com
+
+[alt.com] (1 removed)
+  - banners.alt.com
 
 [amazon-adsystem.com] (185 removed)
   - 3px.axp.amazon-adsystem.com
@@ -1185,16 +1120,15 @@
   - z-in.amazon-adsystem.com
   - z-na.amazon-adsystem.com
 
-[amplitude.com] (9 removed)
-  - api-sr.amplitude.com
-  - api.lab.amplitude.com
-  - api.lab.eu.amplitude.com
-  - api2.amplitude.com
-  - cdn.amplitude.com
-  - flag.lab.amplitude.com
-  - flag.lab.eu.amplitude.com
-  - regionconfig.amplitude.com
+[amplitude.com] (2 removed)
+  - analytics.eu.amplitude.com
   - static.amplitude.com
+
+[analytics.holidayinn.com] (1 removed)
+  - secure.analytics.holidayinn.com
+
+[angel-live.com] (1 removed)
+  - ad.angel-live.com
 
 [aniview.com] (17 removed)
   - go1.aniview.com
@@ -1215,35 +1149,29 @@
   - wltrack.aniview.com
   - wlvast.aniview.com
 
-[aniview.com.edgekey.net] (2 removed)
-  - wl.aniview.com.edgekey.net
-  - wlvast.aniview.com.edgekey.net
-
-[api.useinsider.com] (7 removed)
-  - eitri.api.useinsider.com
+[api.useinsider.com] (14 removed)
+  - arabam.api.useinsider.com
+  - assets.api.useinsider.com
+  - epttavm.api.useinsider.com
   - lgecokr.api.useinsider.com
   - location.api.useinsider.com
   - locationv2.api.useinsider.com
   - log.api.useinsider.com
-  - recommendation.api.useinsider.com
+  - pegasus.api.useinsider.com
+  - samsungau.api.useinsider.com
+  - samsungca.api.useinsider.com
+  - samsungid.api.useinsider.com
+  - samsungseda.api.useinsider.com
+  - samsungusa.api.useinsider.com
   - turkcell.api.useinsider.com
 
 [app-shake.com] (1 removed)
   - static.app-shake.com
 
-[appier.com] (1 removed)
-  - mktgpage.appier.com
-
 [appmetrica.yango.com] (1 removed)
   - startup.appmetrica.yango.com
 
-[appne.uk] (1 removed)
-  - www.appne.uk
-
-[apponic.com] (1 removed)
-  - www.apponic.com
-
-[appsflyer.com] (58 removed)
+[appsflyer.com] (59 removed)
   - adrevenue.appsflyer.com
   - api.appsflyer.com
   - api2.appsflyer.com
@@ -1271,6 +1199,7 @@
   - gcd-s2s.appsflyer.com
   - gcdsdk.appsflyer.com
   - go.appsflyer.com
+  - h73l7.espclicks.appsflyer.com
   - hq1.appsflyer.com
   - hubs.appsflyer.com
   - impression.appsflyer.com
@@ -1310,26 +1239,33 @@
   - static.aprod.scopely.io
 
 [arabtoons.net] (1 removed)
-  - spa.arabtoons.net
+  - apple.arabtoons.net
 
-[arabxforum.com] (1 removed)
+[arabxforum.com] (2 removed)
+  - arabs.arabxforum.com
   - nope.arabxforum.com
+
+[arabxn.org] (2 removed)
+  - arabs.arabxn.org
+  - arabss.arabxn.org
 
 [arbocontext.ro] (1 removed)
   - ad2.arbocontext.ro
 
+[arianelab.com] (1 removed)
+  - t.arianelab.com
+
 [ascontentcloud.com] (1 removed)
   - img.ascontentcloud.com
 
-[asvsm.com] (2 removed)
-  - a.asvsm.com
-  - s.asvsm.com
+[atm.youku.com] (3 removed)
+  - ipm.atm.youku.com
+  - m.atm.youku.com
+  - val.atm.youku.com
 
-[atpanel.com] (1 removed)
+[atpanel.com] (2 removed)
   - ac.atpanel.com
-
-[atrem.site] (1 removed)
-  - a.atrem.site
+  - t.atpanel.com
 
 [austrittausderkirche.de] (1 removed)
   - tjn.austrittausderkirche.de
@@ -1348,39 +1284,35 @@
   - tracking.autoads.asia
   - xacthuc.autoads.asia
 
-[awin1.com] (1 removed)
-  - a1.awin1.com
+[avnxt.site] (1 removed)
+  - go.avnxt.site
+
+[avred.online] (1 removed)
+  - go.avred.online
+
+[b0ff04e647.com] (1 removed)
+  - 50e57be19a.b0ff04e647.com
 
 [b173280abe.com] (1 removed)
   - 01466b626e.b173280abe.com
 
-[b3bdc7e743.com] (1 removed)
-  - a0be2a7d71.b3bdc7e743.com
-
-[b4a03471a7.com] (1 removed)
-  - 708ec1c33c.b4a03471a7.com
-
-[b4b00ff6ab.com] (1 removed)
-  - b6ed49d650.b4b00ff6ab.com
-
-[b73f89c4ab.com] (1 removed)
-  - 6fa14d5b18.b73f89c4ab.com
+[b42fb8d81e.com] (1 removed)
+  - 05845192a8.b42fb8d81e.com
 
 [b84f93087e.com] (1 removed)
   - 0f614c737e.b84f93087e.com
 
-[badb5refl.com] (1 removed)
-  - secure.badb5refl.com
+[backtrace.io] (1 removed)
+  - events.backtrace.io
 
-[bali6nora.com] (1 removed)
-  - secure.bali6nora.com
+[baminw.cn] (1 removed)
+  - j.baminw.cn
 
 [bannerhost.ru] (1 removed)
   - ad2.bannerhost.ru
 
-[barcelona-backlinks.es] (2 removed)
+[barcelona-backlinks.es] (1 removed)
   - static.barcelona-backlinks.es
-  - xml-v4.barcelona-backlinks.es
 
 [basketrot.com] (1 removed)
   - bog.basketrot.com
@@ -1391,80 +1323,63 @@
 [bbmedia.cz] (1 removed)
   - adarbo2.bbmedia.cz
 
-[bcovery.com] (1 removed)
-  - analyse.bcovery.com
-
-[bdg.com] (1 removed)
-  - geo.bdg.com
+[bdg.com] (2 removed)
+  - ev.api.bdg.com
+  - ev2.api.bdg.com
 
 [beaf5f1f17.com] (1 removed)
   - 534aad2a3a.beaf5f1f17.com
 
-[betrad.com] (2 removed)
-  - c.betrad.com
-  - cdn.betrad.com
-
 [betterinstaller.com] (1 removed)
-  - downloadcdn.betterinstaller.com
+  - installer.betterinstaller.com
 
 [bfoprtc-a.online] (1 removed)
-  - xml-v4.bfoprtc-a.online
+  - tq-eu.bfoprtc-a.online
 
-[bhgfinancial.com] (1 removed)
-  - metrics.bhgfinancial.com
-
-[bidease.com] (2 removed)
+[bidease.com] (3 removed)
+  - ntus.bidease.com
+  - ping4-us.bidease.com
   - ssp-track-us.bidease.com
-  - track-us.bidease.com
 
-[bidmachine.io] (1 removed)
-  - api-us.bidmachine.io
-
-[bidmyads.com] (2 removed)
+[bidmyads.com] (3 removed)
+  - filter.bidmyads.com
   - login.bidmyads.com
   - static.bidmyads.com
 
-[bighappy.co] (1 removed)
-  - analytics.bighappy.co
+[bisrv.com] (1 removed)
+  - nsis.bisrv.com
 
 [bizrate.com] (2 removed)
   - insights.bizrate.com
   - medals.bizrate.com
 
-[blasti.download] (1 removed)
-  - xml-eu.blasti.download
-
-[blisspointmedia.com] (1 removed)
-  - cdn.blisspointmedia.com
+[blasti.download] (2 removed)
+  - filter-eu.blasti.download
+  - filter.blasti.download
 
 [blockdetector.org] (1 removed)
   - c.blockdetector.org
 
 [blog-koukoku.com] (1 removed)
-  - pv.blog-koukoku.com
+  - img.blog-koukoku.com
 
 [bluecore.com] (2 removed)
   - api.bluecore.com
   - onsitestats.bluecore.com
 
-[bluekai.com] (1 removed)
-  - tags.bluekai.com
+[bocdos-4.online] (2 removed)
+  - tq-eu.bocdos-4.online
+  - tq.bocdos-4.online
 
-[bluodpa-c.online] (1 removed)
-  - xml-eu.bluodpa-c.online
-
-[bocdos-4.online] (1 removed)
-  - xml-eu-v4.bocdos-4.online
-
-[boclinkads.com] (1 removed)
-  - api2.boclinkads.com
+[bokunenjin.com] (1 removed)
+  - x8.bokunenjin.com
 
 [bonanza.com] (2 removed)
   - static-rtb2.ak.bonanza.com
   - static.ak.bonanza.com
 
-[bondagevalley.cc] (1 removed)
-  - mtm.bondagevalley.cc
+[bongacams.com] (1 removed)
+  - tools.bongacams.com
 
 [boomtrain.com] (1 removed)
   - api.boomtrain.com
@@ -1482,1136 +1397,85 @@
   - fra-02.braze.eu
   - p-euc-1.braze.eu
 
-[brilmaver.com] (2 removed)
+[brightline.tv] (3 removed)
+  - cdn-media.brightline.tv
+  - events.brightline.tv
+  - services.brightline.tv
+
+[brilmaver.com] (1 removed)
   - a.brilmaver.com
-  - s.brilmaver.com
 
-[bringthewaves.xyz] (1 removed)
-  - xml-eu-v4.bringthewaves.xyz
+[budapestconcerts.com] (1 removed)
+  - www.budapestconcerts.com
 
-[browser.miui.com] (2 removed)
-  - httpdns.browser.miui.com
-  - r.browser.miui.com
-
-[btrem.site] (1 removed)
-  - a.btrem.site
-
-[bugfender.com] (1 removed)
+[bugfender.com] (2 removed)
+  - api.bugfender.com
   - app.bugfender.com
 
-[bugsnag.com] (2 removed)
+[buglife.com] (1 removed)
+  - www.buglife.com
+
+[bugsnag.com] (4 removed)
+  - api.bugsnag.com
   - app.bugsnag.com
   - notify.bugsnag.com
+  - sessions.bugsnag.com
+
+[buildtraffic.com] (1 removed)
+  - www.buildtraffic.com
+
+[buzzvil.com] (2 removed)
+  - api.buzzvil.com
+  - insight.buzzvil.com
+
+[c.pl] (3 removed)
+  - portalrandkowy.c.pl
+  - powiekszgo.c.pl
+  - zebywybielanie.c.pl
+
+[c63b91ca50.com] (1 removed)
+  - a1db6a0384.c63b91ca50.com
 
 [ca23853210.com] (1 removed)
   - d04f398540.ca23853210.com
 
-[cafecomdeuspai.com] (1 removed)
-  - gtm.cafecomdeuspai.com
+[caf44f3d39.com] (1 removed)
+  - 36bd0d2ae3.caf44f3d39.com
+
+[camsoda.com] (3 removed)
+  - metrics.camsoda.com
+  - promos.camsoda.com
+  - xmetrics.camsoda.com
 
 [capturly.com] (1 removed)
   - collector.capturly.com
 
-[cavai.com] (1 removed)
-  - analytics-1.cavai.com
+[caramail.com] (1 removed)
+  - www.caramail.com
 
-[cd6b9b5aa4.com] (1 removed)
-  - a05fda840b.cd6b9b5aa4.com
+[cartegriseminute.fr] (1 removed)
+  - nvinab.cartegriseminute.fr
 
-[cda84af905.com] (1 removed)
-  - f373c4c8d6.cda84af905.com
+[cashsurfers.com] (1 removed)
+  - www.cashsurfers.com
 
-[cdn.optimizely.com] (1078 removed)
-  - a10083930701.cdn.optimizely.com
-  - a1010542634.cdn.optimizely.com
-  - a10135402646.cdn.optimizely.com
-  - a10188973578.cdn.optimizely.com
-  - a10192582728.cdn.optimizely.com
-  - a10196690105.cdn.optimizely.com
-  - a10198241005.cdn.optimizely.com
-  - a10304029299.cdn.optimizely.com
-  - a10370800528.cdn.optimizely.com
-  - a1040888755.cdn.optimizely.com
-  - a10453949094.cdn.optimizely.com
-  - a10471338148.cdn.optimizely.com
-  - a10487563282.cdn.optimizely.com
-  - a10494072270.cdn.optimizely.com
-  - a10650703775.cdn.optimizely.com
-  - a106541357.cdn.optimizely.com
-  - a10654255723.cdn.optimizely.com
-  - a10681260716.cdn.optimizely.com
-  - a10682170820.cdn.optimizely.com
-  - a10683441301.cdn.optimizely.com
-  - a10732733166.cdn.optimizely.com
-  - a10819474327.cdn.optimizely.com
-  - a10829270344.cdn.optimizely.com
-  - a10855211225.cdn.optimizely.com
-  - a10874440201.cdn.optimizely.com
-  - a10894713027.cdn.optimizely.com
-  - a1096093.cdn.optimizely.com
-  - a10964270812.cdn.optimizely.com
-  - a10967270208.cdn.optimizely.com
-  - a11000223989.cdn.optimizely.com
-  - a11085769837.cdn.optimizely.com
-  - a11091528292.cdn.optimizely.com
-  - a11097406100.cdn.optimizely.com
-  - a11107397707.cdn.optimizely.com
-  - a11109335511.cdn.optimizely.com
-  - a11146190566.cdn.optimizely.com
-  - a11179690159.cdn.optimizely.com
-  - a11202468046.cdn.optimizely.com
-  - a112699136.cdn.optimizely.com
-  - a11330350730.cdn.optimizely.com
-  - a11347113422.cdn.optimizely.com
-  - a11356001945.cdn.optimizely.com
-  - a11379424185.cdn.optimizely.com
-  - a11391265293.cdn.optimizely.com
-  - a11490592095.cdn.optimizely.com
-  - a11492672549.cdn.optimizely.com
-  - a11673470095.cdn.optimizely.com
-  - a11699700304.cdn.optimizely.com
-  - a11727470025.cdn.optimizely.com
-  - a11806872970.cdn.optimizely.com
-  - a11925324355.cdn.optimizely.com
-  - a119665466.cdn.optimizely.com
-  - a1208440116.cdn.optimizely.com
-  - a12161803067.cdn.optimizely.com
-  - a12265111463.cdn.optimizely.com
-  - a12332930125.cdn.optimizely.com
-  - a12379280810.cdn.optimizely.com
-  - a125375509.cdn.optimizely.com
-  - a12576840187.cdn.optimizely.com
-  - a12600010354.cdn.optimizely.com
-  - a12856330147.cdn.optimizely.com
-  - a12862740503.cdn.optimizely.com
-  - a12879740169.cdn.optimizely.com
-  - a12894770201.cdn.optimizely.com
-  - a13039910302.cdn.optimizely.com
-  - a130654005.cdn.optimizely.com
-  - a13222550.cdn.optimizely.com
-  - a13270690418.cdn.optimizely.com
-  - a13296620007.cdn.optimizely.com
-  - a13302150067.cdn.optimizely.com
-  - a134224613.cdn.optimizely.com
-  - a134769299.cdn.optimizely.com
-  - a1352142200.cdn.optimizely.com
-  - a1356485878.cdn.optimizely.com
-  - a1358905477.cdn.optimizely.com
-  - a1370244502.cdn.optimizely.com
-  - a137050961.cdn.optimizely.com
-  - a1401331559.cdn.optimizely.com
-  - a14069890047.cdn.optimizely.com
-  - a14073630164.cdn.optimizely.com
-  - a14127233.cdn.optimizely.com
-  - a14154020203.cdn.optimizely.com
-  - a14202770090.cdn.optimizely.com
-  - a14202830234.cdn.optimizely.com
-  - a14211340039.cdn.optimizely.com
-  - a14212370012.cdn.optimizely.com
-  - a14222970305.cdn.optimizely.com
-  - a14278280169.cdn.optimizely.com
-  - a14285220003.cdn.optimizely.com
-  - a14437950170.cdn.optimizely.com
-  - a14464890104.cdn.optimizely.com
-  - a1464009.cdn.optimizely.com
-  - a14683850840.cdn.optimizely.com
-  - a14693890070.cdn.optimizely.com
-  - a14721270268.cdn.optimizely.com
-  - a14738960062.cdn.optimizely.com
-  - a14932920627.cdn.optimizely.com
-  - a1506790065.cdn.optimizely.com
-  - a15117220246.cdn.optimizely.com
-  - a15213110278.cdn.optimizely.com
-  - a152450673.cdn.optimizely.com
-  - a15425660815.cdn.optimizely.com
-  - a15432930010.cdn.optimizely.com
-  - a15436670121.cdn.optimizely.com
-  - a15442201319.cdn.optimizely.com
-  - a15498140782.cdn.optimizely.com
-  - a15506560068.cdn.optimizely.com
-  - a15508090763.cdn.optimizely.com
-  - a15536290427.cdn.optimizely.com
-  - a15712000257.cdn.optimizely.com
-  - a15766640529.cdn.optimizely.com
-  - a15781310249.cdn.optimizely.com
-  - a15782051476.cdn.optimizely.com
-  - a15784060578.cdn.optimizely.com
-  - a15795180511.cdn.optimizely.com
-  - a15928870500.cdn.optimizely.com
-  - a16059120202.cdn.optimizely.com
-  - a16233910394.cdn.optimizely.com
-  - a1625899514.cdn.optimizely.com
-  - a16361640309.cdn.optimizely.com
-  - a16488430484.cdn.optimizely.com
-  - a165817466.cdn.optimizely.com
-  - a16619640325.cdn.optimizely.com
-  - a166211981.cdn.optimizely.com
-  - a166688199.cdn.optimizely.com
-  - a16721560778.cdn.optimizely.com
-  - a16844480238.cdn.optimizely.com
-  - a16854766608.cdn.optimizely.com
-  - a16858623153.cdn.optimizely.com
-  - a16868292551.cdn.optimizely.com
-  - a16870270003.cdn.optimizely.com
-  - a16872380003.cdn.optimizely.com
-  - a16899400582.cdn.optimizely.com
-  - a16901060538.cdn.optimizely.com
-  - a16909830060.cdn.optimizely.com
-  - a16943174984.cdn.optimizely.com
-  - a16954880846.cdn.optimizely.com
-  - a17024231970.cdn.optimizely.com
-  - a17026340012.cdn.optimizely.com
-  - a17026851333.cdn.optimizely.com
-  - a17053551565.cdn.optimizely.com
-  - a1706490390.cdn.optimizely.com
-  - a17085262301.cdn.optimizely.com
-  - a17126690382.cdn.optimizely.com
-  - a17192180865.cdn.optimizely.com
-  - a1719570453.cdn.optimizely.com
-  - a17202440929.cdn.optimizely.com
-  - a17252776862.cdn.optimizely.com
-  - a17254842358.cdn.optimizely.com
-  - a17260515767.cdn.optimizely.com
-  - a17260921178.cdn.optimizely.com
-  - a17283172040.cdn.optimizely.com
-  - a17292390176.cdn.optimizely.com
-  - a173671602.cdn.optimizely.com
-  - a17432131820.cdn.optimizely.com
-  - a17445442224.cdn.optimizely.com
-  - a17448560028.cdn.optimizely.com
-  - a17476411934.cdn.optimizely.com
-  - a17477841202.cdn.optimizely.com
-  - a17495331463.cdn.optimizely.com
-  - a17495660521.cdn.optimizely.com
-  - a17503140280.cdn.optimizely.com
-  - a17529800006.cdn.optimizely.com
-  - a17586580222.cdn.optimizely.com
-  - a177184506.cdn.optimizely.com
-  - a17760603829.cdn.optimizely.com
-  - a17768491850.cdn.optimizely.com
-  - a17791710119.cdn.optimizely.com
-  - a17802831565.cdn.optimizely.com
-  - a17831451227.cdn.optimizely.com
-  - a17843980021.cdn.optimizely.com
-  - a17853600003.cdn.optimizely.com
-  - a17870831401.cdn.optimizely.com
-  - a1790135602.cdn.optimizely.com
-  - a17908764894.cdn.optimizely.com
-  - a17924000440.cdn.optimizely.com
-  - a17941920996.cdn.optimizely.com
-  - a17957420003.cdn.optimizely.com
-  - a18026570151.cdn.optimizely.com
-  - a18073930139.cdn.optimizely.com
-  - a18107090670.cdn.optimizely.com
-  - a18132920325.cdn.optimizely.com
-  - a18146640370.cdn.optimizely.com
-  - a18154683820.cdn.optimizely.com
-  - a18161453912.cdn.optimizely.com
-  - a18177105055.cdn.optimizely.com
-  - a18179512350.cdn.optimizely.com
-  - a18185992549.cdn.optimizely.com
-  - a18203592472.cdn.optimizely.com
-  - a18240914759.cdn.optimizely.com
-  - a18250037671.cdn.optimizely.com
-  - a18274933994.cdn.optimizely.com
-  - a18295143447.cdn.optimizely.com
-  - a18347140293.cdn.optimizely.com
-  - a18365751434.cdn.optimizely.com
-  - a18379630710.cdn.optimizely.com
-  - a18513981673.cdn.optimizely.com
-  - a18531890271.cdn.optimizely.com
-  - a18581841923.cdn.optimizely.com
-  - a1859010085.cdn.optimizely.com
-  - a18628381365.cdn.optimizely.com
-  - a18736142230.cdn.optimizely.com
-  - a18743582994.cdn.optimizely.com
-  - a18773191127.cdn.optimizely.com
-  - a187838077.cdn.optimizely.com
-  - a18802385558.cdn.optimizely.com
-  - a18962793642.cdn.optimizely.com
-  - a18984920161.cdn.optimizely.com
-  - a19046740405.cdn.optimizely.com
-  - a19065870423.cdn.optimizely.com
-  - a19069622224.cdn.optimizely.com
-  - a19071450858.cdn.optimizely.com
-  - a19128590760.cdn.optimizely.com
-  - a19174160803.cdn.optimizely.com
-  - a19181790056.cdn.optimizely.com
-  - a19189730953.cdn.optimizely.com
-  - a19205964212.cdn.optimizely.com
-  - a19263450447.cdn.optimizely.com
-  - a19308460131.cdn.optimizely.com
-  - a19311891251.cdn.optimizely.com
-  - a19424340941.cdn.optimizely.com
-  - a19529930113.cdn.optimizely.com
-  - a19558781057.cdn.optimizely.com
-  - a19672940169.cdn.optimizely.com
-  - a19745517677.cdn.optimizely.com
-  - a19749172433.cdn.optimizely.com
-  - a19753326081.cdn.optimizely.com
-  - a199137497.cdn.optimizely.com
-  - a19947277778.cdn.optimizely.com
-  - a19948120449.cdn.optimizely.com
-  - a19949325686.cdn.optimizely.com
-  - a19950585.cdn.optimizely.com
-  - a19960974376.cdn.optimizely.com
-  - a19963491707.cdn.optimizely.com
-  - a20013431166.cdn.optimizely.com
-  - a20035616984.cdn.optimizely.com
-  - a20060101821.cdn.optimizely.com
-  - a20094543751.cdn.optimizely.com
-  - a20101562208.cdn.optimizely.com
-  - a20104933992.cdn.optimizely.com
-  - a20105345443.cdn.optimizely.com
-  - a20137790451.cdn.optimizely.com
-  - a20139847744.cdn.optimizely.com
-  - a20142684273.cdn.optimizely.com
-  - a20143900182.cdn.optimizely.com
-  - a20151573008.cdn.optimizely.com
-  - a20245427593.cdn.optimizely.com
-  - a2026481316.cdn.optimizely.com
-  - a20299544930.cdn.optimizely.com
-  - a20321350081.cdn.optimizely.com
-  - a20352597942.cdn.optimizely.com
-  - a20365231172.cdn.optimizely.com
-  - a20378184883.cdn.optimizely.com
-  - a20380768775.cdn.optimizely.com
-  - a20381590292.cdn.optimizely.com
-  - a20420050633.cdn.optimizely.com
-  - a20462340719.cdn.optimizely.com
-  - a20473601091.cdn.optimizely.com
-  - a20482987181.cdn.optimizely.com
-  - a20497791765.cdn.optimizely.com
-  - a20537344815.cdn.optimizely.com
-  - a20558250249.cdn.optimizely.com
-  - a20568552553.cdn.optimizely.com
-  - a20611073899.cdn.optimizely.com
-  - a20673560014.cdn.optimizely.com
-  - a20678180166.cdn.optimizely.com
-  - a20682720799.cdn.optimizely.com
-  - a20733300187.cdn.optimizely.com
-  - a20755565427.cdn.optimizely.com
-  - a20758793323.cdn.optimizely.com
-  - a20775730060.cdn.optimizely.com
-  - a208064236.cdn.optimizely.com
-  - a20807430341.cdn.optimizely.com
-  - a20843150475.cdn.optimizely.com
-  - a20864580600.cdn.optimizely.com
-  - a20883850312.cdn.optimizely.com
-  - a20896371799.cdn.optimizely.com
-  - a20898485993.cdn.optimizely.com
-  - a20904185233.cdn.optimizely.com
-  - a20920185503.cdn.optimizely.com
-  - a20925222669.cdn.optimizely.com
-  - a20936640092.cdn.optimizely.com
-  - a20976504213.cdn.optimizely.com
-  - a20979850399.cdn.optimizely.com
-  - a21002372803.cdn.optimizely.com
-  - a21006041081.cdn.optimizely.com
-  - a21006071257.cdn.optimizely.com
-  - a21008740160.cdn.optimizely.com
-  - a21011434469.cdn.optimizely.com
-  - a21011594146.cdn.optimizely.com
-  - a21017440049.cdn.optimizely.com
-  - a21018620252.cdn.optimizely.com
-  - a21021171410.cdn.optimizely.com
-  - a21023511730.cdn.optimizely.com
-  - a21030810532.cdn.optimizely.com
-  - a21036971128.cdn.optimizely.com
-  - a21038460042.cdn.optimizely.com
-  - a21058700481.cdn.optimizely.com
-  - a21089662478.cdn.optimizely.com
-  - a21093521246.cdn.optimizely.com
-  - a21104521209.cdn.optimizely.com
-  - a21120400648.cdn.optimizely.com
-  - a21125881217.cdn.optimizely.com
-  - a21147760382.cdn.optimizely.com
-  - a21162760069.cdn.optimizely.com
-  - a21238941731.cdn.optimizely.com
-  - a21240482410.cdn.optimizely.com
-  - a21249030189.cdn.optimizely.com
-  - a21259580705.cdn.optimizely.com
-  - a21276281040.cdn.optimizely.com
-  - a21279620132.cdn.optimizely.com
-  - a21294620024.cdn.optimizely.com
-  - a2129670914.cdn.optimizely.com
-  - a21309085.cdn.optimizely.com
-  - a21322142014.cdn.optimizely.com
-  - a21337241153.cdn.optimizely.com
-  - a21341000020.cdn.optimizely.com
-  - a21354070640.cdn.optimizely.com
-  - a21358250631.cdn.optimizely.com
-  - a21362120414.cdn.optimizely.com
-  - a21362261371.cdn.optimizely.com
-  - a21362900246.cdn.optimizely.com
-  - a21370150440.cdn.optimizely.com
-  - a21371430802.cdn.optimizely.com
-  - a21375730384.cdn.optimizely.com
-  - a21381310745.cdn.optimizely.com
-  - a21392550876.cdn.optimizely.com
-  - a21394690517.cdn.optimizely.com
-  - a21422610840.cdn.optimizely.com
-  - a214661394.cdn.optimizely.com
-  - a21467871943.cdn.optimizely.com
-  - a21471911092.cdn.optimizely.com
-  - a21485130138.cdn.optimizely.com
-  - a21501632993.cdn.optimizely.com
-  - a2152851240.cdn.optimizely.com
-  - a21538230103.cdn.optimizely.com
-  - a21615420574.cdn.optimizely.com
-  - a21617761511.cdn.optimizely.com
-  - a21625780072.cdn.optimizely.com
-  - a21630000199.cdn.optimizely.com
-  - a21645491094.cdn.optimizely.com
-  - a21711432014.cdn.optimizely.com
-  - a21723500485.cdn.optimizely.com
-  - a21729970583.cdn.optimizely.com
-  - a21775920234.cdn.optimizely.com
-  - a21777400434.cdn.optimizely.com
-  - a21837592637.cdn.optimizely.com
-  - a21853005795.cdn.optimizely.com
-  - a21861540101.cdn.optimizely.com
-  - a21861931614.cdn.optimizely.com
-  - a21875130079.cdn.optimizely.com
-  - a21882971979.cdn.optimizely.com
-  - a2201792135.cdn.optimizely.com
-  - a22021240096.cdn.optimizely.com
-  - a22025090626.cdn.optimizely.com
-  - a22047723520.cdn.optimizely.com
-  - a22050060050.cdn.optimizely.com
-  - a22053141263.cdn.optimizely.com
-  - a22057621948.cdn.optimizely.com
-  - a22100320058.cdn.optimizely.com
-  - a221317523.cdn.optimizely.com
-  - a22148360054.cdn.optimizely.com
-  - a22173570008.cdn.optimizely.com
-  - a22181110322.cdn.optimizely.com
-  - a22200992351.cdn.optimizely.com
-  - a22293390244.cdn.optimizely.com
-  - a2236295193.cdn.optimizely.com
-  - a22397541806.cdn.optimizely.com
-  - a22406880963.cdn.optimizely.com
-  - a22452380217.cdn.optimizely.com
-  - a22462820096.cdn.optimizely.com
-  - a22527921165.cdn.optimizely.com
-  - a22600510959.cdn.optimizely.com
-  - a22612690898.cdn.optimizely.com
-  - a22633641389.cdn.optimizely.com
-  - a22633721281.cdn.optimizely.com
-  - a22704831671.cdn.optimizely.com
-  - a22711502979.cdn.optimizely.com
-  - a22737870109.cdn.optimizely.com
-  - a22744560884.cdn.optimizely.com
-  - a22761600324.cdn.optimizely.com
-  - a22772731824.cdn.optimizely.com
-  - a22785643751.cdn.optimizely.com
-  - a22788570099.cdn.optimizely.com
-  - a22791482274.cdn.optimizely.com
-  - a22793102135.cdn.optimizely.com
-  - a22794480215.cdn.optimizely.com
-  - a22796140629.cdn.optimizely.com
-  - a22797305606.cdn.optimizely.com
-  - a22839223062.cdn.optimizely.com
-  - a22847230856.cdn.optimizely.com
-  - a228798099.cdn.optimizely.com
-  - a22890341039.cdn.optimizely.com
-  - a22916101539.cdn.optimizely.com
-  - a2295740507.cdn.optimizely.com
-  - a23018580040.cdn.optimizely.com
-  - a23019200702.cdn.optimizely.com
-  - a23038660059.cdn.optimizely.com
-  - a23078350219.cdn.optimizely.com
-  - a2320460149.cdn.optimizely.com
-  - a23208360281.cdn.optimizely.com
-  - a2321860061.cdn.optimizely.com
-  - a2323230643.cdn.optimizely.com
-  - a23241510302.cdn.optimizely.com
-  - a2325110082.cdn.optimizely.com
-  - a2332441150.cdn.optimizely.com
-  - a23391472159.cdn.optimizely.com
-  - a234628017.cdn.optimizely.com
-  - a23477880699.cdn.optimizely.com
-  - a23497771291.cdn.optimizely.com
-  - a2350310814.cdn.optimizely.com
-  - a2359720751.cdn.optimizely.com
-  - a2364010203.cdn.optimizely.com
-  - a236758309.cdn.optimizely.com
-  - a23730662547.cdn.optimizely.com
-  - a23736871217.cdn.optimizely.com
-  - a23755061915.cdn.optimizely.com
-  - a23755770403.cdn.optimizely.com
-  - a23757000820.cdn.optimizely.com
-  - a23762020753.cdn.optimizely.com
-  - a23791891397.cdn.optimizely.com
-  - a23795720423.cdn.optimizely.com
-  - a23810210071.cdn.optimizely.com
-  - a23827830057.cdn.optimizely.com
-  - a23849980007.cdn.optimizely.com
-  - a23874797.cdn.optimizely.com
-  - a24016540275.cdn.optimizely.com
-  - a2401970420.cdn.optimizely.com
-  - a24086370557.cdn.optimizely.com
-  - a24096340716.cdn.optimizely.com
-  - a24099230963.cdn.optimizely.com
-  - a24116720227.cdn.optimizely.com
-  - a24122110193.cdn.optimizely.com
-  - a24132941202.cdn.optimizely.com
-  - a24139460674.cdn.optimizely.com
-  - a24159280403.cdn.optimizely.com
-  - a24170350033.cdn.optimizely.com
-  - a24176680311.cdn.optimizely.com
-  - a24201730177.cdn.optimizely.com
-  - a24223320157.cdn.optimizely.com
-  - a24234250625.cdn.optimizely.com
-  - a24286810370.cdn.optimizely.com
-  - a24289490147.cdn.optimizely.com
-  - a24312020311.cdn.optimizely.com
-  - a24344740158.cdn.optimizely.com
-  - a24356330475.cdn.optimizely.com
-  - a24389681160.cdn.optimizely.com
-  - a24396460556.cdn.optimizely.com
-  - a24397840812.cdn.optimizely.com
-  - a24401680382.cdn.optimizely.com
-  - a24403740715.cdn.optimizely.com
-  - a24427100571.cdn.optimizely.com
-  - a24431100329.cdn.optimizely.com
-  - a2443900815.cdn.optimizely.com
-  - a24447040037.cdn.optimizely.com
-  - a24489790252.cdn.optimizely.com
-  - a24509481076.cdn.optimizely.com
-  - a24511530219.cdn.optimizely.com
-  - a24526970246.cdn.optimizely.com
-  - a24555940116.cdn.optimizely.com
-  - a24556220658.cdn.optimizely.com
-  - a24558580927.cdn.optimizely.com
-  - a24561630466.cdn.optimizely.com
-  - a24561750242.cdn.optimizely.com
-  - a24591270085.cdn.optimizely.com
-  - a24612720185.cdn.optimizely.com
-  - a24622810079.cdn.optimizely.com
-  - a24623810159.cdn.optimizely.com
-  - a24631140947.cdn.optimizely.com
-  - a24656750324.cdn.optimizely.com
-  - a24666270460.cdn.optimizely.com
-  - a24671560256.cdn.optimizely.com
-  - a24677680605.cdn.optimizely.com
-  - a24684600044.cdn.optimizely.com
-  - a24692980344.cdn.optimizely.com
-  - a24698640007.cdn.optimizely.com
-  - a247012668.cdn.optimizely.com
-  - a24704070387.cdn.optimizely.com
-  - a24708080542.cdn.optimizely.com
-  - a24708110218.cdn.optimizely.com
-  - a24708711009.cdn.optimizely.com
-  - a24716580415.cdn.optimizely.com
-  - a24717620105.cdn.optimizely.com
-  - a24721610109.cdn.optimizely.com
-  - a24723780022.cdn.optimizely.com
-  - a24726120234.cdn.optimizely.com
-  - a24731660284.cdn.optimizely.com
-  - a24733290240.cdn.optimizely.com
-  - a24751600266.cdn.optimizely.com
-  - a247752487.cdn.optimizely.com
-  - a24783860046.cdn.optimizely.com
-  - a24796730409.cdn.optimizely.com
-  - a24799170005.cdn.optimizely.com
-  - a24867170036.cdn.optimizely.com
-  - a24889100575.cdn.optimizely.com
-  - a24901170458.cdn.optimizely.com
-  - a24922491682.cdn.optimizely.com
-  - a24926490171.cdn.optimizely.com
-  - a24938420212.cdn.optimizely.com
-  - a24938460681.cdn.optimizely.com
-  - a24941440121.cdn.optimizely.com
-  - a24945110014.cdn.optimizely.com
-  - a24946400112.cdn.optimizely.com
-  - a24946920078.cdn.optimizely.com
-  - a24948720649.cdn.optimizely.com
-  - a24953240271.cdn.optimizely.com
-  - a24955131524.cdn.optimizely.com
-  - a24965780337.cdn.optimizely.com
-  - a24973961817.cdn.optimizely.com
-  - a24987910037.cdn.optimizely.com
-  - a25010540072.cdn.optimizely.com
-  - a25011050616.cdn.optimizely.com
-  - a25011560114.cdn.optimizely.com
-  - a25044660670.cdn.optimizely.com
-  - a25048550784.cdn.optimizely.com
-  - a25048791137.cdn.optimizely.com
-  - a25050740378.cdn.optimizely.com
-  - a25061800310.cdn.optimizely.com
-  - a25065940291.cdn.optimizely.com
-  - a25067410829.cdn.optimizely.com
-  - a25069340825.cdn.optimizely.com
-  - a25132820384.cdn.optimizely.com
-  - a2513470821.cdn.optimizely.com
-  - a25147810683.cdn.optimizely.com
-  - a25156140004.cdn.optimizely.com
-  - a25166270452.cdn.optimizely.com
-  - a25178000050.cdn.optimizely.com
-  - a25193370679.cdn.optimizely.com
-  - a25229420187.cdn.optimizely.com
-  - a25229600526.cdn.optimizely.com
-  - a25231630058.cdn.optimizely.com
-  - a25237771658.cdn.optimizely.com
-  - a25239851099.cdn.optimizely.com
-  - a25241431181.cdn.optimizely.com
-  - a25241461358.cdn.optimizely.com
-  - a25243410878.cdn.optimizely.com
-  - a25244240928.cdn.optimizely.com
-  - a25251511284.cdn.optimizely.com
-  - a25255011705.cdn.optimizely.com
-  - a25256951108.cdn.optimizely.com
-  - a25257490032.cdn.optimizely.com
-  - a25264541367.cdn.optimizely.com
-  - a25268760323.cdn.optimizely.com
-  - a25271620383.cdn.optimizely.com
-  - a25272300036.cdn.optimizely.com
-  - a25281850821.cdn.optimizely.com
-  - a252819092.cdn.optimizely.com
-  - a25288350746.cdn.optimizely.com
-  - a25289140643.cdn.optimizely.com
-  - a25289780948.cdn.optimizely.com
-  - a25312460735.cdn.optimizely.com
-  - a25315130017.cdn.optimizely.com
-  - a253274484.cdn.optimizely.com
-  - a25329560732.cdn.optimizely.com
-  - a25342060228.cdn.optimizely.com
-  - a25353130117.cdn.optimizely.com
-  - a25402510199.cdn.optimizely.com
-  - a25408250069.cdn.optimizely.com
-  - a25424010304.cdn.optimizely.com
-  - a25442940156.cdn.optimizely.com
-  - a25451710626.cdn.optimizely.com
-  - a25473630273.cdn.optimizely.com
-  - a25475310284.cdn.optimizely.com
-  - a25479430148.cdn.optimizely.com
-  - a25494210039.cdn.optimizely.com
-  - a255008327.cdn.optimizely.com
-  - a25522010911.cdn.optimizely.com
-  - a25526760804.cdn.optimizely.com
-  - a25546140325.cdn.optimizely.com
-  - a25548710015.cdn.optimizely.com
-  - a25563730275.cdn.optimizely.com
-  - a25572030068.cdn.optimizely.com
-  - a25577230094.cdn.optimizely.com
-  - a25589850011.cdn.optimizely.com
-  - a25597130164.cdn.optimizely.com
-  - a25606750392.cdn.optimizely.com
-  - a25621540041.cdn.optimizely.com
-  - a25622280146.cdn.optimizely.com
-  - a25633310221.cdn.optimizely.com
-  - a25641680262.cdn.optimizely.com
-  - a25658390367.cdn.optimizely.com
-  - a25658580324.cdn.optimizely.com
-  - a25668020029.cdn.optimizely.com
-  - a25670000279.cdn.optimizely.com
-  - a25672140279.cdn.optimizely.com
-  - a25672680034.cdn.optimizely.com
-  - a25674010234.cdn.optimizely.com
-  - a25675640262.cdn.optimizely.com
-  - a25678140304.cdn.optimizely.com
-  - a25678340232.cdn.optimizely.com
-  - a25683390326.cdn.optimizely.com
-  - a25683900258.cdn.optimizely.com
-  - a25686490086.cdn.optimizely.com
-  - a25691410171.cdn.optimizely.com
-  - a25695190937.cdn.optimizely.com
-  - a25705090359.cdn.optimizely.com
-  - a25723440309.cdn.optimizely.com
-  - a25756340826.cdn.optimizely.com
-  - a25758491243.cdn.optimizely.com
-  - a25758810713.cdn.optimizely.com
-  - a25775630367.cdn.optimizely.com
-  - a25781141164.cdn.optimizely.com
-  - a25785590076.cdn.optimizely.com
-  - a25789930096.cdn.optimizely.com
-  - a25852590293.cdn.optimizely.com
-  - a25873760268.cdn.optimizely.com
-  - a25879780104.cdn.optimizely.com
-  - a25928950468.cdn.optimizely.com
-  - a25932300258.cdn.optimizely.com
-  - a25947950092.cdn.optimizely.com
-  - a25968344087.cdn.optimizely.com
-  - a25978003312.cdn.optimizely.com
-  - a25991720799.cdn.optimizely.com
-  - a25991880381.cdn.optimizely.com
-  - a2601170057.cdn.optimizely.com
-  - a26020942123.cdn.optimizely.com
-  - a26041731086.cdn.optimizely.com
-  - a2605830644.cdn.optimizely.com
-  - a26068080745.cdn.optimizely.com
-  - a26099350684.cdn.optimizely.com
-  - a26148131217.cdn.optimizely.com
-  - a26148840652.cdn.optimizely.com
-  - a26152850206.cdn.optimizely.com
-  - a26160820476.cdn.optimizely.com
-  - a26166320179.cdn.optimizely.com
-  - a26173860947.cdn.optimizely.com
-  - a26179160779.cdn.optimizely.com
-  - a26187340899.cdn.optimizely.com
-  - a26250170447.cdn.optimizely.com
-  - a2627010012.cdn.optimizely.com
-  - a2628570003.cdn.optimizely.com
-  - a26310650654.cdn.optimizely.com
-  - a26310890636.cdn.optimizely.com
-  - a26326341062.cdn.optimizely.com
-  - a26330300728.cdn.optimizely.com
-  - a26334390584.cdn.optimizely.com
-  - a26334950855.cdn.optimizely.com
-  - a26349430206.cdn.optimizely.com
-  - a26358041125.cdn.optimizely.com
-  - a26412040784.cdn.optimizely.com
-  - a26416420387.cdn.optimizely.com
-  - a26508490611.cdn.optimizely.com
-  - a26514370208.cdn.optimizely.com
-  - a26529820067.cdn.optimizely.com
-  - a26536550308.cdn.optimizely.com
-  - a26537530010.cdn.optimizely.com
-  - a26549020246.cdn.optimizely.com
-  - a26564690691.cdn.optimizely.com
-  - a26584670725.cdn.optimizely.com
-  - a26589780290.cdn.optimizely.com
-  - a26591170051.cdn.optimizely.com
-  - a26592120537.cdn.optimizely.com
-  - a26592620004.cdn.optimizely.com
-  - a26592690078.cdn.optimizely.com
-  - a26593720012.cdn.optimizely.com
-  - a2659630112.cdn.optimizely.com
-  - a26600840246.cdn.optimizely.com
-  - a26604040285.cdn.optimizely.com
-  - a2665520353.cdn.optimizely.com
-  - a26669750187.cdn.optimizely.com
-  - a26692680197.cdn.optimizely.com
-  - a26704082161.cdn.optimizely.com
-  - a26735090827.cdn.optimizely.com
-  - a26744370346.cdn.optimizely.com
-  - a26749981227.cdn.optimizely.com
-  - a26757301222.cdn.optimizely.com
-  - a26779291179.cdn.optimizely.com
-  - a26780310980.cdn.optimizely.com
-  - a26800730042.cdn.optimizely.com
-  - a26814810331.cdn.optimizely.com
-  - a26902440486.cdn.optimizely.com
-  - a26910610113.cdn.optimizely.com
-  - a26914900594.cdn.optimizely.com
-  - a26919700052.cdn.optimizely.com
-  - a26926230211.cdn.optimizely.com
-  - a26926740580.cdn.optimizely.com
-  - a26927380722.cdn.optimizely.com
-  - a26927690432.cdn.optimizely.com
-  - a26930080309.cdn.optimizely.com
-  - a26931350829.cdn.optimizely.com
-  - a26933370629.cdn.optimizely.com
-  - a26941190028.cdn.optimizely.com
-  - a26942930964.cdn.optimizely.com
-  - a26943920264.cdn.optimizely.com
-  - a26947530626.cdn.optimizely.com
-  - a26951531343.cdn.optimizely.com
-  - a26953070029.cdn.optimizely.com
-  - a26955910779.cdn.optimizely.com
-  - a26961210079.cdn.optimizely.com
-  - a26967770398.cdn.optimizely.com
-  - a26969400928.cdn.optimizely.com
-  - a26973760104.cdn.optimizely.com
-  - a26973811017.cdn.optimizely.com
-  - a26979700476.cdn.optimizely.com
-  - a26988130118.cdn.optimizely.com
-  - a26989390140.cdn.optimizely.com
-  - a27027000087.cdn.optimizely.com
-  - a27075387.cdn.optimizely.com
-  - a27096200239.cdn.optimizely.com
-  - a27160410180.cdn.optimizely.com
-  - a27176510224.cdn.optimizely.com
-  - a27224800026.cdn.optimizely.com
-  - a27268010056.cdn.optimizely.com
-  - a27274641010.cdn.optimizely.com
-  - a2730640596.cdn.optimizely.com
-  - a27307460526.cdn.optimizely.com
-  - a27444600328.cdn.optimizely.com
-  - a27449950652.cdn.optimizely.com
-  - a27457310897.cdn.optimizely.com
-  - a27467230139.cdn.optimizely.com
-  - a27469530272.cdn.optimizely.com
-  - a27526310069.cdn.optimizely.com
-  - a275532918.cdn.optimizely.com
-  - a27617570016.cdn.optimizely.com
-  - a27673780102.cdn.optimizely.com
-  - a27762700090.cdn.optimizely.com
-  - a27794360139.cdn.optimizely.com
-  - a27800920371.cdn.optimizely.com
-  - a27840930348.cdn.optimizely.com
-  - a2784720778.cdn.optimizely.com
-  - a27947990225.cdn.optimizely.com
-  - a27948520846.cdn.optimizely.com
-  - a27961920457.cdn.optimizely.com
-  - a27988430061.cdn.optimizely.com
-  - a27990360155.cdn.optimizely.com
-  - a27998290150.cdn.optimizely.com
-  - a28007920049.cdn.optimizely.com
-  - a28049820688.cdn.optimizely.com
-  - a28094120148.cdn.optimizely.com
-  - a28199260220.cdn.optimizely.com
-  - a28202310359.cdn.optimizely.com
-  - a28218570026.cdn.optimizely.com
-  - a28359961473.cdn.optimizely.com
-  - a28361970244.cdn.optimizely.com
-  - a28373680651.cdn.optimizely.com
-  - a28417170302.cdn.optimizely.com
-  - a28426710030.cdn.optimizely.com
-  - a28437560005.cdn.optimizely.com
-  - a2854150041.cdn.optimizely.com
-  - a28546730169.cdn.optimizely.com
-  - a28554780121.cdn.optimizely.com
-  - a28558900021.cdn.optimizely.com
-  - a28562140225.cdn.optimizely.com
-  - a28564270517.cdn.optimizely.com
-  - a28571740018.cdn.optimizely.com
-  - a28574330137.cdn.optimizely.com
-  - a28577410029.cdn.optimizely.com
-  - a28577810009.cdn.optimizely.com
-  - a28617250053.cdn.optimizely.com
-  - a28634690110.cdn.optimizely.com
-  - a28719360210.cdn.optimizely.com
-  - a28786920557.cdn.optimizely.com
-  - a28810310281.cdn.optimizely.com
-  - a28826650685.cdn.optimizely.com
-  - a28861330358.cdn.optimizely.com
-  - a28901180531.cdn.optimizely.com
-  - a28930870021.cdn.optimizely.com
-  - a2900460605.cdn.optimizely.com
-  - a29022480071.cdn.optimizely.com
-  - a29022620039.cdn.optimizely.com
-  - a29048290364.cdn.optimizely.com
-  - a29086100055.cdn.optimizely.com
-  - a29088660007.cdn.optimizely.com
-  - a29141630018.cdn.optimizely.com
-  - a29203880216.cdn.optimizely.com
-  - a29208100149.cdn.optimizely.com
-  - a292281656.cdn.optimizely.com
-  - a29246790537.cdn.optimizely.com
-  - a29248610346.cdn.optimizely.com
-  - a29330850058.cdn.optimizely.com
-  - a29349450414.cdn.optimizely.com
-  - a29413380209.cdn.optimizely.com
-  - a29451770386.cdn.optimizely.com
-  - a2946781464.cdn.optimizely.com
-  - a29494440593.cdn.optimizely.com
-  - a29563440009.cdn.optimizely.com
-  - a29567240225.cdn.optimizely.com
-  - a29586640232.cdn.optimizely.com
-  - a29596130061.cdn.optimizely.com
-  - a29601130018.cdn.optimizely.com
-  - a29623890030.cdn.optimizely.com
-  - a29632980117.cdn.optimizely.com
-  - a2972860641.cdn.optimizely.com
-  - a29730520486.cdn.optimizely.com
-  - a29734250217.cdn.optimizely.com
-  - a29742610112.cdn.optimizely.com
-  - a29745850123.cdn.optimizely.com
-  - a29747670145.cdn.optimizely.com
-  - a29755160391.cdn.optimizely.com
-  - a29773460025.cdn.optimizely.com
-  - a29793560205.cdn.optimizely.com
-  - a29862260347.cdn.optimizely.com
-  - a29864360354.cdn.optimizely.com
-  - a2986850373.cdn.optimizely.com
-  - a29912560978.cdn.optimizely.com
-  - a29967240066.cdn.optimizely.com
-  - a30018331732.cdn.optimizely.com
-  - a30039790739.cdn.optimizely.com
-  - a300503862.cdn.optimizely.com
-  - a30050670980.cdn.optimizely.com
-  - a30055770665.cdn.optimizely.com
-  - a30077060071.cdn.optimizely.com
-  - a30077310600.cdn.optimizely.com
-  - a3013110282.cdn.optimizely.com
-  - a30150500429.cdn.optimizely.com
-  - a30177210136.cdn.optimizely.com
-  - a30287370533.cdn.optimizely.com
-  - a30318560388.cdn.optimizely.com
-  - a30338710256.cdn.optimizely.com
-  - a30347390156.cdn.optimizely.com
-  - a30388500107.cdn.optimizely.com
-  - a30397970302.cdn.optimizely.com
-  - a30406320356.cdn.optimizely.com
-  - a304207300.cdn.optimizely.com
-  - a30423700262.cdn.optimizely.com
-  - a305025425.cdn.optimizely.com
-  - a30559150004.cdn.optimizely.com
-  - a3058550533.cdn.optimizely.com
-  - a308705246.cdn.optimizely.com
-  - a3129410271.cdn.optimizely.com
-  - a315407138.cdn.optimizely.com
-  - a3176660057.cdn.optimizely.com
-  - a3179610124.cdn.optimizely.com
-  - a3187750790.cdn.optimizely.com
-  - a3199410082.cdn.optimizely.com
-  - a3312120578.cdn.optimizely.com
-  - a335296230.cdn.optimizely.com
-  - a3391893108.cdn.optimizely.com
-  - a3497230075.cdn.optimizely.com
-  - a351480257.cdn.optimizely.com
-  - a3533800155.cdn.optimizely.com
-  - a3580442334.cdn.optimizely.com
-  - a3680047813.cdn.optimizely.com
-  - a3698060313.cdn.optimizely.com
-  - a3732210624.cdn.optimizely.com
-  - a3747760300.cdn.optimizely.com
-  - a3778780304.cdn.optimizely.com
-  - a387132995.cdn.optimizely.com
-  - a3896010113.cdn.optimizely.com
-  - a3898770280.cdn.optimizely.com
-  - a401751626.cdn.optimizely.com
-  - a4234780024.cdn.optimizely.com
-  - a4242406432.cdn.optimizely.com
-  - a4268742351.cdn.optimizely.com
-  - a4368606971.cdn.optimizely.com
-  - a4477903919.cdn.optimizely.com
-  - a4511881872801792.cdn.optimizely.com
-  - a4513484151455744.cdn.optimizely.com
-  - a4533470681104384.cdn.optimizely.com
-  - a4557234282168320.cdn.optimizely.com
-  - a4567492492787712.cdn.optimizely.com
-  - a4579770793459712.cdn.optimizely.com
-  - a4584199424835584.cdn.optimizely.com
-  - a4599769641779200.cdn.optimizely.com
-  - a4614783295553536.cdn.optimizely.com
-  - a4621041136.cdn.optimizely.com
-  - a4638032.cdn.optimizely.com
-  - a4651901812211712.cdn.optimizely.com
-  - a4663953347837952.cdn.optimizely.com
-  - a4678243242.cdn.optimizely.com
-  - a4688157564731392.cdn.optimizely.com
-  - a4692478322802688.cdn.optimizely.com
-  - a4706980296654848.cdn.optimizely.com
-  - a4754817340407808.cdn.optimizely.com
-  - a4762608166240256.cdn.optimizely.com
-  - a4804167382859776.cdn.optimizely.com
-  - a4806508815319040.cdn.optimizely.com
-  - a4808268718538752.cdn.optimizely.com
-  - a48120048.cdn.optimizely.com
-  - a4825627698659328.cdn.optimizely.com
-  - a4832718287011840.cdn.optimizely.com
-  - a4837467023474688.cdn.optimizely.com
-  - a4843963509637120.cdn.optimizely.com
-  - a4855038938447872.cdn.optimizely.com
-  - a4857128825913344.cdn.optimizely.com
-  - a4875027175178240.cdn.optimizely.com
-  - a4894383279964160.cdn.optimizely.com
-  - a4907667034996736.cdn.optimizely.com
-  - a4912227187163136.cdn.optimizely.com
-  - a4942072910708736.cdn.optimizely.com
-  - a4952615256064000.cdn.optimizely.com
-  - a4958751892.cdn.optimizely.com
-  - a4964882290835456.cdn.optimizely.com
-  - a4978460394.cdn.optimizely.com
-  - a4983603034062848.cdn.optimizely.com
-  - a4993150444371968.cdn.optimizely.com
-  - a5074200054.cdn.optimizely.com
-  - a5076115664928768.cdn.optimizely.com
-  - a5076364529762304.cdn.optimizely.com
-  - a5083748786503680.cdn.optimizely.com
-  - a5086714796965888.cdn.optimizely.com
-  - a5090114122.cdn.optimizely.com
-  - a5098497884553216.cdn.optimizely.com
-  - a5113954737848320.cdn.optimizely.com
-  - a5132049628004352.cdn.optimizely.com
-  - a5133694441095168.cdn.optimizely.com
-  - a5160292989009920.cdn.optimizely.com
-  - a5171550442225664.cdn.optimizely.com
-  - a5173948275490816.cdn.optimizely.com
-  - a5179843176824832.cdn.optimizely.com
-  - a5200584475672576.cdn.optimizely.com
-  - a523170811.cdn.optimizely.com
-  - a524690941.cdn.optimizely.com
-  - a5248840664612864.cdn.optimizely.com
-  - a5250744593416192.cdn.optimizely.com
-  - a5262916853694464.cdn.optimizely.com
-  - a5270536083734528.cdn.optimizely.com
-  - a5271073.cdn.optimizely.com
-  - a5271816705409024.cdn.optimizely.com
-  - a5292374380249088.cdn.optimizely.com
-  - a5294740418068480.cdn.optimizely.com
-  - a5324015129067520.cdn.optimizely.com
-  - a5334142238326784.cdn.optimizely.com
-  - a5349239316807680.cdn.optimizely.com
-  - a5354424722259968.cdn.optimizely.com
-  - a5364082103025664.cdn.optimizely.com
-  - a5366642083889152.cdn.optimizely.com
-  - a5388332226576384.cdn.optimizely.com
-  - a5391223259660288.cdn.optimizely.com
-  - a539341702.cdn.optimizely.com
-  - a5414371492.cdn.optimizely.com
-  - a542590088.cdn.optimizely.com
-  - a5435521705.cdn.optimizely.com
-  - a5452531502.cdn.optimizely.com
-  - a5465611416.cdn.optimizely.com
-  - a5530288147660800.cdn.optimizely.com
-  - a5530996594966528.cdn.optimizely.com
-  - a5532459098439680.cdn.optimizely.com
-  - a553480116.cdn.optimizely.com
-  - a5552561554456576.cdn.optimizely.com
-  - a5552864383205376.cdn.optimizely.com
-  - a5579855295676416.cdn.optimizely.com
-  - a5584628518486016.cdn.optimizely.com
-  - a5595260258.cdn.optimizely.com
-  - a5607107806887936.cdn.optimizely.com
-  - a5624231270.cdn.optimizely.com
-  - a5641440198393856.cdn.optimizely.com
-  - a5641725266886656.cdn.optimizely.com
-  - a5641775847571456.cdn.optimizely.com
-  - a5676741851611136.cdn.optimizely.com
-  - a5682015752683520.cdn.optimizely.com
-  - a5682661843271680.cdn.optimizely.com
-  - a5698391926112256.cdn.optimizely.com
-  - a5719158042656768.cdn.optimizely.com
-  - a5728063363743744.cdn.optimizely.com
-  - a5729668758765568.cdn.optimizely.com
-  - a5740182066954240.cdn.optimizely.com
-  - a5809436334227456.cdn.optimizely.com
-  - a582891733.cdn.optimizely.com
-  - a5838709522694144.cdn.optimizely.com
-  - a5860566053421056.cdn.optimizely.com
-  - a5866937532547072.cdn.optimizely.com
-  - a591102174.cdn.optimizely.com
-  - a5931368211808256.cdn.optimizely.com
-  - a5935064.cdn.optimizely.com
-  - a5961084.cdn.optimizely.com
-  - a597080980.cdn.optimizely.com
-  - a5976764701736960.cdn.optimizely.com
-  - a6023320244584448.cdn.optimizely.com
-  - a6039698984927232.cdn.optimizely.com
-  - a6040864640729088.cdn.optimizely.com
-  - a6076186451771392.cdn.optimizely.com
-  - a6084004789616640.cdn.optimizely.com
-  - a6084697625722880.cdn.optimizely.com
-  - a6089398316433408.cdn.optimizely.com
-  - a6089691502477312.cdn.optimizely.com
-  - a61135178.cdn.optimizely.com
-  - a6131884851.cdn.optimizely.com
-  - a6136581106.cdn.optimizely.com
-  - a6147784059912192.cdn.optimizely.com
-  - a6157793305034752.cdn.optimizely.com
-  - a6169963916951552.cdn.optimizely.com
-  - a6175268860067840.cdn.optimizely.com
-  - a6194110778.cdn.optimizely.com
-  - a6207300250632192.cdn.optimizely.com
-  - a6207841426472960.cdn.optimizely.com
-  - a6238166017900544.cdn.optimizely.com
-  - a6253774759526400.cdn.optimizely.com
-  - a6263502310998016.cdn.optimizely.com
-  - a627150995.cdn.optimizely.com
-  - a6284049308712960.cdn.optimizely.com
-  - a6295702960078848.cdn.optimizely.com
-  - a6301374279843840.cdn.optimizely.com
-  - a6329739917393920.cdn.optimizely.com
-  - a6372928330137600.cdn.optimizely.com
-  - a6376052200046592.cdn.optimizely.com
-  - a6447876130209792.cdn.optimizely.com
-  - a6451678757519360.cdn.optimizely.com
-  - a6502622515.cdn.optimizely.com
-  - a6504733288955904.cdn.optimizely.com
-  - a6510400228294656.cdn.optimizely.com
-  - a6524475903049728.cdn.optimizely.com
-  - a6529002483.cdn.optimizely.com
-  - a6532462424096768.cdn.optimizely.com
-  - a6558036.cdn.optimizely.com
-  - a6561280243.cdn.optimizely.com
-  - a6582070441.cdn.optimizely.com
-  - a659682401.cdn.optimizely.com
-  - a659861340.cdn.optimizely.com
-  - a6598639703818240.cdn.optimizely.com
-  - a6606848644612096.cdn.optimizely.com
-  - a6613099982094336.cdn.optimizely.com
-  - a6640312064409600.cdn.optimizely.com
-  - a6654701179.cdn.optimizely.com
-  - a6686257430921216.cdn.optimizely.com
-  - a6689543890403328.cdn.optimizely.com
-  - a6691694497234944.cdn.optimizely.com
-  - a6693417837658112.cdn.optimizely.com
-  - a6699546328170496.cdn.optimizely.com
-  - a6705327177990144.cdn.optimizely.com
-  - a6718366463819776.cdn.optimizely.com
-  - a6718644042858496.cdn.optimizely.com
-  - a6931781924.cdn.optimizely.com
-  - a6951820096.cdn.optimizely.com
-  - a72135589.cdn.optimizely.com
-  - a72168671.cdn.optimizely.com
-  - a7275028.cdn.optimizely.com
-  - a745050198.cdn.optimizely.com
-  - a745361373.cdn.optimizely.com
-  - a750482796.cdn.optimizely.com
-  - a752092193.cdn.optimizely.com
-  - a752671897.cdn.optimizely.com
-  - a7544042.cdn.optimizely.com
-  - a7589613084.cdn.optimizely.com
-  - a7592613895.cdn.optimizely.com
-  - a7599971281.cdn.optimizely.com
-  - a7620104.cdn.optimizely.com
-  - a7740361315.cdn.optimizely.com
-  - a7779470749.cdn.optimizely.com
-  - a7780304902.cdn.optimizely.com
-  - a7808901045.cdn.optimizely.com
-  - a785210265.cdn.optimizely.com
-  - a7871036.cdn.optimizely.com
-  - a791773171.cdn.optimizely.com
-  - a7950981613.cdn.optimizely.com
-  - a8016437368.cdn.optimizely.com
-  - a8083860125.cdn.optimizely.com
-  - a8131120993.cdn.optimizely.com
-  - a8167243205.cdn.optimizely.com
-  - a8188917468.cdn.optimizely.com
-  - a8204720027.cdn.optimizely.com
-  - a8209600003.cdn.optimizely.com
-  - a8214761424.cdn.optimizely.com
-  - a8220014372.cdn.optimizely.com
-  - a8253175392.cdn.optimizely.com
-  - a8270235338.cdn.optimizely.com
-  - a8298686785.cdn.optimizely.com
-  - a8315240995.cdn.optimizely.com
-  - a83195956.cdn.optimizely.com
-  - a8342761580.cdn.optimizely.com
-  - a8343311344.cdn.optimizely.com
-  - a8357675368.cdn.optimizely.com
-  - a8360041266.cdn.optimizely.com
-  - a8382950752.cdn.optimizely.com
-  - a8385363.cdn.optimizely.com
-  - a8392411042.cdn.optimizely.com
-  - a8394132786.cdn.optimizely.com
-  - a8412221037.cdn.optimizely.com
-  - a8422644581.cdn.optimizely.com
-  - a8467131323.cdn.optimizely.com
-  - a8467205636.cdn.optimizely.com
-  - a8474790541.cdn.optimizely.com
-  - a8507201684.cdn.optimizely.com
-  - a8508271295.cdn.optimizely.com
-  - a8511187875.cdn.optimizely.com
-  - a8517651080.cdn.optimizely.com
-  - a8571253058.cdn.optimizely.com
-  - a8787468851.cdn.optimizely.com
-  - a8787894373.cdn.optimizely.com
-  - a9180765182.cdn.optimizely.com
-  - a9186406503.cdn.optimizely.com
-  - a9189275809.cdn.optimizely.com
-  - a9258012290.cdn.optimizely.com
-  - a9267520140.cdn.optimizely.com
-  - a9514811012.cdn.optimizely.com
-  - a9838380652.cdn.optimizely.com
-  - a9952300031.cdn.optimizely.com
-  - a9972578858.cdn.optimizely.com
+[cavy9soho.com] (1 removed)
+  - www.cavy9soho.com
 
-[cf0b47742b.com] (1 removed)
-  - dbba861ffd.cf0b47742b.com
+[cca-paris.com] (1 removed)
+  - www.cca-paris.com
 
-[cf395a96d1.com] (1 removed)
-  - a074c0a5de.cf395a96d1.com
+[celebjihad.live] (1 removed)
+  - go.celebjihad.live
 
-[cf9e789bf0.com] (1 removed)
-  - be3b287535.cf9e789bf0.com
+[cf25ba90cc.com] (1 removed)
+  - 0a186254d0.cf25ba90cc.com
 
-[cfca88ad66.com] (1 removed)
-  - 6b2f487753.cfca88ad66.com
+[cfabf1ef11.com] (1 removed)
+  - 0c6bdc3ecc.cfabf1ef11.com
+
+[cfjump.com] (1 removed)
+  - c.cfjump.com
 
 [channeladvisor.com] (4 removed)
   - count.channeladvisor.com
@@ -2629,11 +1493,8 @@
 [chatboost-cv.algoage.co.jp] (1 removed)
   - logs.chatboost-cv.algoage.co.jp
 
-[chickgoddess.com] (1 removed)
-  - analytic-client.chickgoddess.com
-
-[chinoc.net] (1 removed)
-  - v5.chinoc.net
+[cibtvisas.com] (1 removed)
+  - matomo.cibtvisas.com
 
 [cint.com] (1 removed)
   - collector.cint.com
@@ -2660,40 +1521,43 @@
   - static.clevertap.com
 
 [clic2buy.com] (1 removed)
-  - analytics.clic2buy.com
+  - t.clic2buy.com
 
 [clickmenia.com] (2 removed)
+  - filter.clickmenia.com
   - login.clickmenia.com
-  - xml.clickmenia.com
+
+[clickrents.com] (1 removed)
+  - www.clickrents.com
 
 [clickscloud.net] (1 removed)
   - static.clickscloud.net
 
-[clicktale.com] (1 removed)
-  - www.clicktale.com
+[clicktale.net] (1 removed)
+  - cdn.clicktale.net
 
 [clicktoring.com] (2 removed)
+  - filter.clicktoring.com
   - login.clicktoring.com
-  - xml.clicktoring.com
 
-[cloud.ogury.io] (17 removed)
-  - ads-engagement.prod.cloud.ogury.io
-  - format.prod.cloud.ogury.io
-  - mraid.prod.cloud.ogury.io
-  - ms-ads-events-apne1.prod.cloud.ogury.io
-  - ms-ads-events-euw1.prod.cloud.ogury.io
-  - ms-ads-events-use1.prod.cloud.ogury.io
-  - ms-ads-events-usw2.prod.cloud.ogury.io
-  - ms-ads-events.prod.cloud.ogury.io
-  - ms-ads-monitoring-events-apne1.prod.cloud.ogury.io
-  - ms-ads-monitoring-events-euw1.prod.cloud.ogury.io
-  - ms-ads-monitoring-events-use1.prod.cloud.ogury.io
-  - ms-ads-monitoring-events-usw2.prod.cloud.ogury.io
-  - ms-ads-monitoring-events.devc.cloud.ogury.io
-  - ms-ads-monitoring-events.prod.cloud.ogury.io
-  - ms-ads.prod.cloud.ogury.io
-  - ms-bidder-tag.prod.cloud.ogury.io
-  - sdk-ads-config-api.prod.cloud.ogury.io
+[clicktx.jp] (2 removed)
+  - pink.clicktx.jp
+  - www.clicktx.jp
+
+[clk.click] (1 removed)
+  - pine.clk.click
+
+[cloud-ingenuity.com] (1 removed)
+  - www.cloud-ingenuity.com
+
+[cloud.gcore.lu] (1 removed)
+  - rdaezs.s-drc2.cloud.gcore.lu
+
+[cloudpath82.com] (1 removed)
+  - www.cloudpath82.com
+
+[cntrl.fr] (1 removed)
+  - www.cntrl.fr
 
 [cnzz.com] (60 removed)
   - c.cnzz.com
@@ -2757,14 +1621,14 @@
   - z6.cnzz.com
   - z8.cnzz.com
 
-[coat0tire.com] (1 removed)
-  - www.coat0tire.com
-
-[cohesionapps.com] (1 removed)
-  - cdn.cohesionapps.com
-
 [collectaction.com] (1 removed)
   - log.collectaction.com
+
+[combinedresidency.org] (1 removed)
+  - www.combinedresidency.org
+
+[commonname.com] (1 removed)
+  - www.commonname.com
 
 [company.site] (6 removed)
   - bliss-skin-tag-remover-usa-cost.company.site
@@ -2774,9 +1638,6 @@
   - skinbiotix-md-skin-tag-remover.company.site
   - super-luxe-skin-tag-remover-updates.company.site
 
-[comprafacil.com.br] (1 removed)
-  - www.comprafacil.com.br
-
 [connatix.com] (6 removed)
   - assets.connatix.com
   - ck.connatix.com
@@ -2785,51 +1646,32 @@
   - lit.connatix.com
   - pl.connatix.com
 
-[content-square.net] (1 removed)
-  - mobile-production.content-square.net
-
-[controller.duokanbox.com] (1 removed)
-  - mobile.controller.duokanbox.com
-
-[converdiant.com] (1 removed)
-  - app.converdiant.com
-
-[convertagain.net] (1 removed)
-  - pixel-us.convertagain.net
+[conservativedeeper.garden] (1 removed)
+  - www.conservativedeeper.garden
 
 [coolrextintshop.com] (1 removed)
   - www.coolrextintshop.com
 
-[cpm10.com] (1 removed)
-  - www.cpm10.com
+[coreads-console.cambridge.org] (1 removed)
+  - www.coreads-console.cambridge.org
 
 [cpmvibes.com] (2 removed)
+  - filter-eu.cpmvibes.com
   - filter.cpmvibes.com
-  - xml-eu-v4.cpmvibes.com
 
-[cprcar.com] (1 removed)
-  - www.cprcar.com
-
-[cqwallpaper.com] (1 removed)
-  - www.cqwallpaper.com
+[cre.ma] (1 removed)
+  - events3.cre.ma
 
 [cross-system.com] (1 removed)
   - track2.cross-system.com
 
-[crowdegic.com] (1 removed)
+[crowdegic.com] (3 removed)
   - login.crowdegic.com
+  - rtb-eu.crowdegic.com
+  - rtb-useast.crowdegic.com
 
-[crunchbasenewstoday.com] (1 removed)
-  - www.crunchbasenewstoday.com
-
-[cruzit.com] (1 removed)
-  - www.cruzit.com
-
-[crypto-webminer.com] (1 removed)
-  - www.crypto-webminer.com
-
-[crystalbranchtw.blog] (1 removed)
-  - www.crystalbranchtw.blog
+[cuddlyruddy.com] (1 removed)
+  - tail.cuddlyruddy.com
 
 [customer.io] (2 removed)
   - assets.customer.io
@@ -2852,51 +1694,26 @@
   - sp1cluster.cxense.com
   - stats-collector.cxense.com
 
-[cybereps.com] (2 removed)
+[cybereps.com] (1 removed)
   - chewbacca.cybereps.com
-  - www.cybereps.com
+
+[cybershop-affiliate.jp] (1 removed)
+  - banner.cybershop-affiliate.jp
+
+[d033093f1f.com] (1 removed)
+  - 10f08b9ab4.d033093f1f.com
 
 [d1e223a9f2.com] (1 removed)
   - 0c43ec936e.d1e223a9f2.com
 
-[d20d028a29.com] (1 removed)
-  - 70e4e8e1f1.d20d028a29.com
-
-[d29776df3a.com] (1 removed)
-  - 96f31a396f.d29776df3a.com
-
-[d333f13060.com] (1 removed)
-  - 38dd778a3c.d333f13060.com
-
-[d3be0fdc5c.com] (1 removed)
-  - caad633eed.d3be0fdc5c.com
+[d1f6bb22dc.com] (1 removed)
+  - 64898181df.d1f6bb22dc.com
 
 [d4bd4c34af.com] (1 removed)
   - 4e459a72cc.d4bd4c34af.com
 
-[d57b6d1e63.com] (1 removed)
-  - f3737ec16b.d57b6d1e63.com
-
 [d5ed0737cd.com] (1 removed)
   - 4883b6e943.d5ed0737cd.com
-
-[da1b05834d.com] (1 removed)
-  - 3cabf4dbb4.da1b05834d.com
-
-[daa50b1994.com] (1 removed)
-  - aaf7ae610b.daa50b1994.com
-
-[dailyexpressnewstoday.com] (1 removed)
-  - www.dailyexpressnewstoday.com
-
-[dailyheraldnewstoday.com] (1 removed)
-  - www.dailyheraldnewstoday.com
-
-[dailystarnewstoday.com] (1 removed)
-  - www.dailystarnewstoday.com
-
-[dandlooke-bid.com] (1 removed)
-  - xml.dandlooke-bid.com
 
 [daraz.com] (1 removed)
   - net.daraz.com
@@ -2904,34 +1721,37 @@
 [das-kind-world.de] (1 removed)
   - load.ggl.das-kind-world.de
 
-[datadrives.ai] (1 removed)
+[datadrives.ai] (2 removed)
   - filter.datadrives.ai
+  - rtb-useast-v4.datadrives.ai
+
+[dataforce.net] (1 removed)
+  - www.dataforce.net
 
 [datafyhq.com] (1 removed)
   - imp.datafyhq.com
 
-[dd795a9d50.com] (1 removed)
-  - b78b08af88.dd795a9d50.com
+[dec1daff38.com] (1 removed)
+  - 4ea83ab453.dec1daff38.com
+
+[deep-content.io] (1 removed)
+  - data.deep-content.io
 
 [deinlieblingstier.co] (1 removed)
   - load.ss.deinlieblingstier.co
 
-[demandscience.com] (1 removed)
-  - abm-tracking.demandscience.com
+[digitaladsystems.com] (1 removed)
+  - eu.track.digitaladsystems.com
 
-[dgpot.com] (1 removed)
-  - blogparts.dgpot.com
+[digitalfan.com] (1 removed)
+  - www.digitalfan.com
 
-[domains-traffic.com] (3 removed)
+[dmdi.pl] (1 removed)
+  - pixel.dmdi.pl
+
+[domains-traffic.com] (2 removed)
   - filter.domains-traffic.com
   - static.domains-traffic.com
-  - xml.domains-traffic.com
-
-[dopa.com] (1 removed)
-  - www.dopa.com
-
-[dotbrataev.ru] (1 removed)
-  - b.dotbrataev.ru
 
 [dotomi.com] (66 removed)
   - 33across-match.dotomi.com
@@ -3036,9 +1856,6 @@
   - td.doubleclick.net
   - tdsf.doubleclick.net
 
-[dsgc99.com] (1 removed)
-  - s.dsgc99.com
-
 [dtignite.com] (31 removed)
   - clientapi-amer1.dtignite.com
   - clientapi-amx.dtignite.com
@@ -3075,18 +1892,14 @@
 [dtrem.site] (1 removed)
   - a.dtrem.site
 
-[ducotravelsummit.com] (1 removed)
-  - www.ducotravelsummit.com
-
-[duote.com] (1 removed)
-  - retrieval-bd.duote.com
-
 [dxlive.com] (1 removed)
   - bn.dxlive.com
 
-[dyiket.com] (2 removed)
+[dyiket.com] (1 removed)
   - adc.dyiket.com
-  - all.dyiket.com
+
+[dynatrace-managed.com] (1 removed)
+  - dlt-beacon.dynatrace-managed.com
 
 [e.kuaishou.com] (10 removed)
   - ad.e.kuaishou.com
@@ -3100,6 +1913,9 @@
   - niu.e.kuaishou.com
   - open.e.kuaishou.com
 
+[e0bb9b01ec.com] (1 removed)
+  - 55c0c98b4d.e0bb9b01ec.com
+
 [e230ae5c2b.com] (1 removed)
   - 1106ca2ad4.e230ae5c2b.com
 
@@ -3112,57 +1928,46 @@
 [e5f1418a7a.com] (1 removed)
   - 0715c69091.e5f1418a7a.com
 
-[eacla.com] (1 removed)
-  - c.eacla.com
-
-[easyadscontrol.com] (1 removed)
-  - www.easyadscontrol.com
+[eacdn.com] (1 removed)
+  - adsrv.eacdn.com
 
 [easycounter.com] (1 removed)
   - out.easycounter.com
 
-[eb5882aef0.com] (1 removed)
-  - dc29ad7002.eb5882aef0.com
+[ebis.ne.jp] (4 removed)
+  - ot.ebis.ne.jp
+  - sync.ebis.ne.jp
+  - taj1.ebis.ne.jp
+  - taj2.ebis.ne.jp
 
-[ecolas.eu] (1 removed)
-  - www.ecolas.eu
+[edgeone.app] (1 removed)
+  - tms21.edgeone.app
 
-[ecologieurbaine.net] (1 removed)
-  - www.ecologieurbaine.net
+[edrrak.com] (1 removed)
+  - pl.edrrak.com
 
-[effe2f62ae.com] (1 removed)
-  - 9f0a9a8621.effe2f62ae.com
-
-[eimg.jp] (3 removed)
+[eimg.jp] (2 removed)
   - adingo.jp.eimg.jp
-  - get.mobu.jp.eimg.jp
   - img.fluct.jp.eimg.jp
 
-[elnb21.com] (1 removed)
-  - s.elnb21.com
+[eliteshop.com.br] (1 removed)
+  - serverstape.eliteshop.com.br
 
-[elns12.com] (1 removed)
-  - s.elns12.com
-
-[elns4a.com] (1 removed)
-  - s.elns4a.com
-
-[enterprises.proximus.com] (2 removed)
+[enterprises.proximus.com] (1 removed)
   - itt.enterprises.proximus.com
-  - uat.enterprises.proximus.com
 
-[enterprisingoperation-7.com] (1 removed)
-  - secure.enterprisingoperation-7.com
-
-[entireweb.com] (1 removed)
+[entireweb.com] (2 removed)
+  - admarket.entireweb.com
   - sa.entireweb.com
 
-[epeex.com] (2 removed)
+[epeex.com] (1 removed)
   - static.epeex.com
-  - xml.epeex.com
 
 [eqbyc.com] (1 removed)
   - img.eqbyc.com
+
+[errorrespan.com] (1 removed)
+  - qo.errorrespan.com
 
 [etrem.site] (1 removed)
   - a.etrem.site
@@ -3196,9 +2001,18 @@
   - formulaonedigitalmedia.germany-2.evergage.com
   - nvidiacorp.us-5.evergage.com
 
-[exmarketplace.com] (2 removed)
-  - adx.exmarketplace.com
-  - cdn.exmarketplace.com
+[evidon.com] (5 removed)
+  - dgcollector.evidon.com
+  - iabmap.evidon.com
+  - info.evidon.com
+  - l.evidon.com
+  - l3.evidon.com
+
+[evisa-agency.com] (1 removed)
+  - india.evisa-agency.com
+
+[expekt.se] (1 removed)
+  - ads.expekt.se
 
 [exponea.com] (10 removed)
   - alx-api.exponea.com
@@ -3221,26 +2035,19 @@
 [ezoic.net] (1 removed)
   - go.ezoic.net
 
-[f32bcceea3.com] (1 removed)
-  - c296565d82.f32bcceea3.com
+[f9abdf7da0.com] (1 removed)
+  - e709b26fc0.f9abdf7da0.com
 
-[f39ff3accb.com] (1 removed)
-  - 6d90fc608a.f39ff3accb.com
+[f9fd639740.com] (1 removed)
+  - 33bbaf45e4.f9fd639740.com
 
-[f8f311a27a.com] (1 removed)
-  - 6c800efb18.f8f311a27a.com
-
-[f979592f34.com] (1 removed)
-  - f5da763d07.f979592f34.com
+[fae299940f.com] (1 removed)
+  - eb6908f715.fae299940f.com
 
 [fapcat.com] (1 removed)
   - a.fapcat.com
 
-[fb-cdn.net] (1 removed)
-  - purge.fb-cdn.net
-
-[fcbarcelona.co.de] (2 removed)
-  - adtarget.fcbarcelona.co.de
+[fcbarcelona.co.de] (1 removed)
   - smetrics.fcbarcelona.co.de
 
 [fd1f580172.com] (1 removed)
@@ -3252,54 +2059,43 @@
 [feasedpharos.com] (1 removed)
   - eh.feasedpharos.com
 
-[feathermc.com] (1 removed)
-  - rybbit.feathermc.com
-
 [feathr.co] (1 removed)
   - cdn.feathr.co
 
 [fec98ad2c4.com] (1 removed)
   - d8d0bc1aa3.fec98ad2c4.com
 
-[feedify.net] (1 removed)
-  - cdn.feedify.net
-
-[felixads.com] (2 removed)
+[felixads.com] (5 removed)
+  - filter-eu.felixads.com
+  - filter.felixads.com
   - login.felixads.com
+  - serving.felixads.com
   - static.felixads.com
-
-[fine-days.net] (1 removed)
-  - sp.fine-days.net
 
 [finevisit.com] (1 removed)
   - static.finevisit.com
 
 [flowldsd.online] (1 removed)
-  - xml-eu-v4.flowldsd.online
+  - tq.flowldsd.online
 
-[flx10.com] (1 removed)
+[flx10.com] (2 removed)
+  - k3vzn.flx10.com
   - tj6w5.flx10.com
 
 [flysleep.cn] (1 removed)
   - log-auth.flysleep.cn
 
-[fouanalytics.com] (1 removed)
-  - api.fouanalytics.com
-
-[foxpush.net] (1 removed)
-  - cdn.foxpush.net
-
 [freecounters.co.uk] (1 removed)
   - 006.freecounters.co.uk
 
-[freeonlinegayporn.com] (5 removed)
-  - 356.freeonlinegayporn.com
-  - 365.freeonlinegayporn.com
-  - s.freeonlinegayporn.com
+[freeonlinegayporn.com] (1 removed)
   - serve.freeonlinegayporn.com
-  - sp1.freeonlinegayporn.com
 
-[freevpnplanet.com] (1 removed)
+[freevpnplanet.com] (5 removed)
+  - rtb-eu-v4.freevpnplanet.com
+  - rtb-eu.freevpnplanet.com
+  - rtb-useast-v4.freevpnplanet.com
+  - rtb-uswest-v4.freevpnplanet.com
   - rtb-uswest.freevpnplanet.com
 
 [friendfinder.com] (5 removed)
@@ -3309,18 +2105,15 @@
   - geobanner.friendfinder.com
   - openads.friendfinder.com
 
-[frodx.com] (1 removed)
-  - tracking-sap.frodx.com
-
-[ftwpcn.com] (1 removed)
-  - cdn.ftwpcn.com
-
 [fullstory.com] (3 removed)
   - edge.fullstory.com
   - edge.staging.fullstory.com
   - rs.fullstory.com
 
-[fwmrm.net] (110 removed)
+[fusiondigest.com] (1 removed)
+  - film.fusiondigest.com
+
+[fwmrm.net] (113 removed)
   - 1b656c.v.fwmrm.net
   - 1f2e7.v.fwmrm.net
   - 2356e.v.fwmrm.net
@@ -3351,6 +2144,7 @@
   - 7caa1.v.fwmrm.net
   - 7cd77.v.fwmrm.net
   - 7ceb0.v.fwmrm.net
+  - 7cf65.v.fwmrm.net
   - 7cf6f.v.fwmrm.net
   - 7cf90.v.fwmrm.net
   - 7d01d.v.fwmrm.net
@@ -3380,6 +2174,7 @@
   - 823e2.v.fwmrm.net
   - 823eb.v.fwmrm.net
   - 827c1.v.fwmrm.net
+  - 829cf.v.fwmrm.net
   - 829d6.v.fwmrm.net
   - 82a1c.v.fwmrm.net
   - 82a20.v.fwmrm.net
@@ -3403,6 +2198,7 @@
   - 82e08.v.fwmrm.net
   - 82e12.v.fwmrm.net
   - 82e16.v.fwmrm.net
+  - 82e17.v.fwmrm.net
   - 82e1a.v.fwmrm.net
   - 82e27.v.fwmrm.net
   - 82e2e.v.fwmrm.net
@@ -3432,13 +2228,13 @@
   - s1.fwmrm.net
   - user-sync.fwmrm.net
 
-[gameadvertisingonline.com] (1 removed)
-  - www.gameadvertisingonline.com
+[gangtaylor.property] (1 removed)
+  - www.gangtaylor.property
 
-[gelirartisi.com] (1 removed)
-  - app.gelirartisi.com
+[gatorleads.co.uk] (1 removed)
+  - t.gatorleads.co.uk
 
-[gemius.pl] (135 removed)
+[gemius.pl] (136 removed)
   - 15minadlt.hit.gemius.pl
   - 209176.hit.gemius.pl
   - adafi.hit.gemius.pl
@@ -3549,6 +2345,7 @@
   - optout.hit.gemius.pl
   - pcspde.hit.gemius.pl
   - port80adge.hit.gemius.pl
+  - pracuj.hit.gemius.pl
   - prefix.hit.gemius.pl
   - protvadmd.hit.gemius.pl
   - rmf.hit.gemius.pl
@@ -3575,11 +2372,12 @@
   - ua.hit.gemius.pl
   - webgroundadbg.hit.gemius.pl
 
-[getlasso.co] (1 removed)
-  - js.getlasso.co
+[getamigo.io] (1 removed)
+  - tag.getamigo.io
 
-[getpublica.com] (6 removed)
+[getpublica.com] (7 removed)
   - admedia.getpublica.com
+  - pbc.getpublica.com
   - pblog-vmap.getpublica.com
   - pbs-eu.getpublica.com
   - prebid-log.getpublica.com
@@ -3592,34 +2390,44 @@
 [getwoohoo.com] (1 removed)
   - app.getwoohoo.com
 
-[gjirafa.net] (1 removed)
-  - bisko.gjirafa.net
-
-[glassboxcdn.com] (1 removed)
-  - cdn.glassboxcdn.com
-
 [global-free-classified-ads.com] (1 removed)
   - anthemaz.global-free-classified-ads.com
 
-[globaltechbrasil.com] (1 removed)
-  - load.stape.globaltechbrasil.com
-
-[gmlsoftlabs.com] (1 removed)
-  - www.gmlsoftlabs.com
+[glotgrx.com] (1 removed)
+  - pre.glotgrx.com
 
 [go-mpulse.net] (3 removed)
   - c.go-mpulse.net
   - s.go-mpulse.net
   - s2.go-mpulse.net
 
+[go-srv.com] (9 removed)
+  - a.mx.go-srv.com
+  - cs.go-srv.com
+  - exchange.go-srv.com
+  - gate.go-srv.com
+  - go.go-srv.com
+  - mail3.go-srv.com
+  - mx3.go-srv.com
+  - smtp3.go-srv.com
+  - vps.go-srv.com
+
+[go.onshape.com] (1 removed)
+  - tracking.go.onshape.com
+
 [go.sohu.com] (1 removed)
   - imp.go.sohu.com
 
+[goadserver.com] (6 removed)
+  - ams.goadserver.com
+  - detroit.goadserver.com
+  - godemo-go.goadserver.com
+  - sb.goadserver.com
+  - test.goadserver.com
+  - testing.goadserver.com
+
 [gocarrot.com] (1 removed)
   - parsnip.gocarrot.com
-
-[gofollow.de] (1 removed)
-  - tjn.gofollow.de
 
 [googleadservices.com] (6 removed)
   - afs.googleadservices.com
@@ -3629,8 +2437,12 @@
   - partnerssl.googleadservices.com
   - privacysandbox.googleadservices.com
 
-[gotprofits.com] (1 removed)
-  - track.gotprofits.com
+[googlesyndication-cn.com] (1 removed)
+  - tpc.googlesyndication-cn.com
+
+[gosquared.com] (2 removed)
+  - data.gosquared.com
+  - data2.gosquared.com
 
 [gotrackier.com] (4 removed)
   - appmontize.gotrackier.com
@@ -3638,18 +2450,18 @@
   - inkrevenue.gotrackier.com
   - mmads.gotrackier.com
 
-[granify.com] (1 removed)
-  - cdn.granify.com
+[grandtables.com] (1 removed)
+  - www.grandtables.com
 
-[greygrid.net] (1 removed)
-  - register.greygrid.net
+[gravityadnetwork.io] (1 removed)
+  - rtb2-apac.gravityadnetwork.io
+
+[grtyb.com] (1 removed)
+  - t.grtyb.com
 
 [gsecondscreen.com] (2 removed)
   - ae.gsecondscreen.com
   - cdn-jp.gsecondscreen.com
-
-[gsmbuzz.com] (1 removed)
-  - www.gsmbuzz.com
 
 [gtm.abctoner.ro] (1 removed)
   - load.gtm.abctoner.ro
@@ -3662,15 +2474,6 @@
 
 [guardianapps.co.uk] (1 removed)
   - embedded-video.guardianapps.co.uk
-
-[guardiannewstoday.com] (1 removed)
-  - www.guardiannewstoday.com
-
-[gucci-outlet.cc] (1 removed)
-  - www.gucci-outlet.cc
-
-[gulabdevi.org] (1 removed)
-  - www.gulabdevi.org
 
 [gumgum.com] (38 removed)
   - aba.gumgum.com
@@ -3712,35 +2515,23 @@
   - video-content.gumgum.com
   - webflow.gumgum.com
 
-[guteapotheke.org] (1 removed)
-  - www.guteapotheke.org
+[gzcankao.com] (1 removed)
+  - www.gzcankao.com
 
-[gymhay.com] (1 removed)
-  - tvseries.gymhay.com
+[hacklot.com] (1 removed)
+  - www.hacklot.com
 
-[healthcare-distribution.com] (1 removed)
-  - track.healthcare-distribution.com
+[happyyong.com] (1 removed)
+  - www.happyyong.com
 
 [heatmap.com] (1 removed)
   - dashboard.heatmap.com
 
-[helpformedicalbills.com] (1 removed)
-  - www.helpformedicalbills.com
-
-[heraldik-leitfaden.de] (1 removed)
-  - www.heraldik-leitfaden.de
-
-[hhmop.cloud] (1 removed)
-  - cdn.hhmop.cloud
-
-[hightid.xyz] (1 removed)
-  - redir.hightid.xyz
+[highsea.fun] (1 removed)
+  - filter.highsea.fun
 
 [hiiir.com] (1 removed)
   - log.hiiir.com
-
-[hiss3lark.com] (1 removed)
-  - secure.hiss3lark.com
 
 [hit.interia.pl] (1 removed)
   - iwa3.hit.interia.pl
@@ -3748,26 +2539,27 @@
 [hitsteps.com] (1 removed)
   - log.hitsteps.com
 
-[hkartg.com] (2 removed)
+[hkartg.com] (1 removed)
   - a.hkartg.com
-  - s.hkartg.com
 
-[hotmaracas.com] (2 removed)
+[hockeycurve.com] (1 removed)
+  - tag.hockeycurve.com
+
+[hotmaracas.com] (1 removed)
   - login.hotmaracas.com
-  - xml.hotmaracas.com
 
-[hotmaracas.fun] (1 removed)
+[hotmaracas.fun] (2 removed)
+  - filter.hotmaracas.fun
   - static.hotmaracas.fun
 
-[hqwa.xyz] (1 removed)
-  - cdn.hqwa.xyz
+[houyi.baofeng.net] (1 removed)
+  - xs.houyi.baofeng.net
 
 [htrem.site] (1 removed)
   - a.htrem.site
 
-[humnert.com] (2 removed)
+[humnert.com] (1 removed)
   - a.humnert.com
-  - s.humnert.com
 
 [hydrology.cc] (1 removed)
   - wiki.hydrology.cc
@@ -3788,12 +2580,11 @@
 [ihago.net] (1 removed)
   - lgglobal.ihago.net
 
-[ihub.dpworlduae.com] (1 removed)
-  - app.ihub.dpworlduae.com
-
-[imlive.com] (2 removed)
-  - analytic.imlive.com
+[imlive.com] (1 removed)
   - pcash.imlive.com
+
+[immunepharma.com] (1 removed)
+  - www.immunepharma.com
 
 [impact-ad.jp] (6 removed)
   - ak.impact-ad.jp
@@ -3810,10 +2601,11 @@
   - rtb-uswest.imprexis.biz
   - static.imprexis.biz
 
-[incs-xa.online] (3 removed)
-  - xml-eu.incs-xa.online
-  - xml-v4.incs-xa.online
-  - xml.incs-xa.online
+[incs-xa.online] (1 removed)
+  - tq-eu.incs-xa.online
+
+[infi.net] (1 removed)
+  - ads.infi.net
 
 [infocart.jp] (1 removed)
   - imgdisp.infocart.jp
@@ -3821,11 +2613,7 @@
 [infomix.best] (1 removed)
   - ca.infomix.best
 
-[infox.sg] (2 removed)
-  - ex.infox.sg
-  - rb.infox.sg
-
-[inmobi.com] (28 removed)
+[inmobi.com] (29 removed)
   - ads.inmobi.com
   - advertising.inmobi.com
   - app.inmobi.com
@@ -3834,6 +2622,7 @@
   - ck.inmobi.com
   - config.inmobi.com
   - crash-metrics.sdk.nc.cname.inmobi.com
+  - da.inmobi.com
   - de.inmobi.com
   - glance-internal.inmobi.com
   - glance.inmobi.com
@@ -3855,31 +2644,52 @@
   - uat-sync.inmobi.com
   - w.inmobi.com
 
-[innet24.de] (1 removed)
-  - www.innet24.de
-
 [inptr.com] (1 removed)
-  - xml-v4.inptr.com
+  - filter.inptr.com
 
-[intuition-agile-7.com] (1 removed)
-  - www.intuition-agile-7.com
+[inspsearchapi.com] (1 removed)
+  - eventlog.inspsearchapi.com
+
+[instaforex.com] (1 removed)
+  - banners.instaforex.com
+
+[interactivebrands.com] (1 removed)
+  - www.interactivebrands.com
 
 [investingchannel.com] (2 removed)
   - ads.investingchannel.com
   - cdn.investingchannel.com
 
-[iron0walk.com] (1 removed)
-  - secure.iron0walk.com
+[iovation.com] (1 removed)
+  - admin.iovation.com
+
+[iprefer.com.tw] (1 removed)
+  - thor.iprefer.com.tw
+
+[ipromote.com] (6 removed)
+  - iad1.ipromote.com
+  - iad2.ipromote.com
+  - iad3.ipromote.com
+  - iad4.ipromote.com
+  - sfo1.ipromote.com
+  - sfo2.ipromote.com
+
+[ipstack.com] (1 removed)
+  - api.ipstack.com
+
+[ireel.com] (1 removed)
+  - ads.ireel.com
 
 [isn.nl] (3 removed)
   - console.isn.nl
   - servedby.isn.nl
   - static.isn.nl
 
-[jobbio.com] (1 removed)
-  - partner-api.jobbio.com
+[jetswap.com] (1 removed)
+  - go.jetswap.com
 
-[jotterads.com] (2 removed)
+[jotterads.com] (3 removed)
+  - filter.jotterads.com
   - login.jotterads.com
   - static.jotterads.com
 
@@ -3889,11 +2699,11 @@
 [jtren.site] (1 removed)
   - a.jtren.site
 
-[justbaat.org] (1 removed)
-  - mcm.justbaat.org
+[justservingfiles.net] (1 removed)
+  - bmedia.justservingfiles.net
 
-[jword.jp] (1 removed)
-  - download.jword.jp
+[jwpltx.com] (1 removed)
+  - ping-meta-prd.jwpltx.com
 
 [kampyle.com] (3 removed)
   - assets.kampyle.com
@@ -3903,27 +2713,18 @@
 [kantan-access.com] (1 removed)
   - tracker.kantan-access.com
 
-[karpatzi.com] (1 removed)
-  - cdn.karpatzi.com
-
 [kataweb.it] (2 removed)
   - click.kataweb.it
   - logger.kataweb.it
 
-[kick1pore.com] (1 removed)
-  - secure.kick1pore.com
+[kcolb.site] (1 removed)
+  - js.kcolb.site
 
-[kilo6alga.com] (1 removed)
-  - secure.kilo6alga.com
+[kern-photo.com] (1 removed)
+  - www.kern-photo.com
 
-[kimia.es] (1 removed)
-  - adserver.kimia.es
-
-[klikki.com] (1 removed)
-  - adsby.klikki.com
-
-[kma1.biz] (1 removed)
-  - s.kma1.biz
+[kernel-analytics.com] (1 removed)
+  - www.kernel-analytics.com
 
 [kochava.com] (6 removed)
   - api.kochava.com
@@ -3933,8 +2734,7 @@
   - measurement.sdk.kochava.com
   - web-sdk.control.kochava.com
 
-[ksds.jp] (2 removed)
-  - s1919315.ksds.jp
+[ksds.jp] (1 removed)
   - s37093.ksds.jp
 
 [l.qq.com] (16 removed)
@@ -3955,17 +2755,11 @@
   - vi.l.qq.com
   - w.l.qq.com
 
-[late6year.com] (1 removed)
-  - secure.late6year.com
-
 [leadhit.ru] (1 removed)
   - track.leadhit.ru
 
 [leadplace.fr] (1 removed)
   - tag.leadplace.fr
-
-[leadsrx.com] (1 removed)
-  - app.leadsrx.com
 
 [leanplum.com] (2 removed)
   - api.leanplum.com
@@ -4135,9 +2929,21 @@
 [lightad.com] (1 removed)
   - sync.platform.lightad.com
 
+[linksynergy.com] (7 removed)
+  - ad.linksynergy.com
+  - analytics.linksynergy.com
+  - automate.linksynergy.com
+  - banner.linksynergy.com
+  - cli.linksynergy.com
+  - rd.linksynergy.com
+  - track.linksynergy.com
+
 [linkvertise.com] (2 removed)
   - ad-server.linkvertise.com
   - advertiser.linkvertise.com
+
+[lishibu.com] (1 removed)
+  - 1.lishibu.com
 
 [livejasmin.com] (18 removed)
   - 2.livejasmin.com
@@ -4159,12 +2965,18 @@
   - new.livejasmin.com
   - secure.livejasmin.com
 
-[localmeets.link] (1 removed)
-  - ddbca.localmeets.link
+[livemz.com] (1 removed)
+  - www.livemz.com
+
+[loansfield.com] (1 removed)
+  - www.loansfield.com
 
 [logentries.com] (2 removed)
   - data.logentries.com
   - js.logentries.com
+
+[loggerx.com] (1 removed)
+  - www.loggerx.com
 
 [logs.datadoghq.com] (6 removed)
   - agent-http-intake.logs.datadoghq.com
@@ -4182,27 +2994,51 @@
   - public-trace-http-intake.logs.datadoghq.eu
   - rum-http-intake.logs.datadoghq.eu
 
-[lope4refl.com] (2 removed)
-  - secure.lope4refl.com
+[lojacasacriativa.com] (1 removed)
+  - serverlps.lojacasacriativa.com
+
+[lookimpression.beer] (1 removed)
+  - www.lookimpression.beer
+
+[lope4refl.com] (1 removed)
   - www.lope4refl.com
+
+[lovestoblog.com] (1 removed)
+  - 123-vendasvoos25.lovestoblog.com
+
+[lthwsj.com] (1 removed)
+  - www.lthwsj.com
+
+[luckycrush.live] (1 removed)
+  - www.luckycrush.live
 
 [lustre.ai] (1 removed)
   - my.lustre.ai
 
-[m.zwdu.com] (1 removed)
-  - ayidaye.m.zwdu.com
+[luvyle.com] (1 removed)
+  - www.luvyle.com
+
+[lystra.se] (1 removed)
+  - tr.lystra.se
+
+[m0mentum.net] (1 removed)
+  - jp-axia.m0mentum.net
 
 [macromill.com] (1 removed)
   - img.macromill.com
 
-[madkudu.com] (1 removed)
-  - api.madkudu.com
-
-[magazinuldecase.ro] (1 removed)
+[magazinuldecase.ro] (2 removed)
+  - stiri.magazinuldecase.ro
   - www.magazinuldecase.ro
+
+[magnetic.is] (1 removed)
+  - www.magnetic.is
 
 [mantis-intelligence.com] (1 removed)
   - loader.mantis-intelligence.com
+
+[marcelmarszalek.pl] (1 removed)
+  - www.marcelmarszalek.pl
 
 [marchex.io] (2 removed)
   - px.marchex.io
@@ -4215,8 +3051,8 @@
 [marinsm.com] (1 removed)
   - tag.marinsm.com
 
-[marketengines.com] (1 removed)
-  - download2.marketengines.com
+[marketiq.com] (1 removed)
+  - analytics.marketiq.com
 
 [marketo.com] (116 removed)
   - abrtp1-cdn.marketo.com
@@ -4336,8 +3172,11 @@
   - uk.marketo.com
   - universityonline.marketo.com
 
+[marketsbarcelona.com] (1 removed)
+  - www.marketsbarcelona.com
+
 [marugroup.net] (1 removed)
-  - blueinfo.marugroup.net
+  - www.marugroup.net
 
 [masterfr-bid.com] (1 removed)
   - static.masterfr-bid.com
@@ -4345,36 +3184,54 @@
 [matchads.net] (1 removed)
   - static.matchads.net
 
-[medama.io] (1 removed)
-  - demo.medama.io
+[matchbin.com] (1 removed)
+  - analytics.matchbin.com
 
-[meet3monk.com] (2 removed)
-  - secure.meet3monk.com
+[mayaorganization.org] (1 removed)
+  - www.mayaorganization.org
+
+[mean8sigh.com] (1 removed)
+  - www.mean8sigh.com
+
+[mediafiregames.net] (1 removed)
+  - www.mediafiregames.net
+
+[mediarise.io] (2 removed)
+  - rtb-useast-v4.mediarise.io
+  - rtb2-eu.mediarise.io
+
+[mediatraffic.com] (1 removed)
+  - 1274.mediatraffic.com
+
+[mediekompaniet.com] (1 removed)
+  - eas.mediekompaniet.com
+
+[meendo.com] (1 removed)
+  - landing.meendo.com
+
+[meet3monk.com] (1 removed)
   - www.meet3monk.com
 
 [meiqia.com] (1 removed)
   - eco-api.meiqia.com
 
+[menepe.com] (1 removed)
+  - t.menepe.com
+
 [mensluxuryboutique.com] (1 removed)
   - www.mensluxuryboutique.com
 
 [merchantadvantage.com] (1 removed)
-  - www.merchantadvantage.com
+  - chanalytics.merchantadvantage.com
 
-[merchantnavymemorial.com] (1 removed)
-  - www.merchantnavymemorial.com
-
-[meta.vn] (1 removed)
-  - tracking.meta.vn
+[mes-meilleurs-films.fr] (1 removed)
+  - promo.mes-meilleurs-films.fr
 
 [metaadserving.com] (1 removed)
-  - link.metaadserving.com
+  - filter.metaadserving.com
 
 [metaffiliation.com] (1 removed)
   - img.metaffiliation.com
-
-[methodbicycle.com] (1 removed)
-  - www.methodbicycle.com
 
 [metrics.quiltingcompany.com] (1 removed)
   - s.metrics.quiltingcompany.com
@@ -4386,7 +3243,10 @@
   - online.miarroba.com
 
 [millionairemate.com] (1 removed)
-  - adserver.millionairemate.com
+  - ads.millionairemate.com
+
+[mistat.intl.xiaomi.com] (1 removed)
+  - storeconfig.mistat.intl.xiaomi.com
 
 [mkt51.net] (1 removed)
   - contentz.mkt51.net
@@ -4397,9 +3257,6 @@
 [mmile.com] (1 removed)
   - www.mmile.com
 
-[mobileadstrk.com] (1 removed)
-  - tracking.mobileadstrk.com
-
 [mobilem.360.cn] (1 removed)
   - openbox.mobilem.360.cn
 
@@ -4408,7 +3265,10 @@
   - cross-promo.mwx.ext.mobilityware.com
 
 [momijioroshi.com] (1 removed)
-  - apic98674.momijioroshi.com
+  - x8.momijioroshi.com
+
+[mondoperaio.net] (1 removed)
+  - www.mondoperaio.net
 
 [mopinion.com] (4 removed)
   - cacheorcheck.mopinion.com
@@ -4416,130 +3276,123 @@
   - fonts.mopinion.com
   - metrics.mopinion.com
 
-[mozzila.org] (1 removed)
-  - extensions.mozzila.org
-
-[mparticle.com] (6 removed)
+[mparticle.com] (7 removed)
   - cookiesync.mparticle.com
   - jssdkcdn.mparticle.com
   - nativesdks.mparticle.com
   - pixels.mparticle.com
   - s2s.mparticle.com
+  - static.mparticle.com
   - tracking-nativesdks.mparticle.com
 
-[mpds-smart3.online] (1 removed)
-  - xml-eu-v4.mpds-smart3.online
+[mpds-smart3.online] (2 removed)
+  - tq-eu.mpds-smart3.online
+  - tq.mpds-smart3.online
 
 [mpds-smart4.online] (1 removed)
-  - xml-eu-v4.mpds-smart4.online
+  - tq.mpds-smart4.online
 
 [mplxtms.com] (2 removed)
   - secure-cdn.mplxtms.com
   - t.mplxtms.com
 
-[mspaceads.com] (2 removed)
-  - delb.mspaceads.com
-  - demr.mspaceads.com
-
 [myaffiliates.com] (1 removed)
   - glitnoraffiliates.elb.myaffiliates.com
 
-[myaffpartners.com] (1 removed)
-  - record.myaffpartners.com
-
-[mymedia.club] (1 removed)
+[mymedia.club] (2 removed)
+  - filter.mymedia.club
   - login.mymedia.club
 
 [mywot.com] (1 removed)
   - analytics.api.mywot.com
 
-[nakanohito.jp] (3 removed)
-  - bs.nakanohito.jp
-  - cs.nakanohito.jp
-  - uh.nakanohito.jp
+[naiadsystems.com] (1 removed)
+  - nginxborder-server.naiadsystems.com
 
 [narrativ.com] (1 removed)
   - static.narrativ.com
 
+[nativeadshb.com] (1 removed)
+  - rtb-useast.nativeadshb.com
+
+[nc0.co] (1 removed)
+  - t.nc0.co
+
 [net.dz.jumia.com] (1 removed)
-  - mobile.net.dz.jumia.com
+  - analytics.net.dz.jumia.com
 
-[net.fidor.de] (1 removed)
+[net.fidor.de] (2 removed)
   - marketing.net.fidor.de
+  - shhoix0fuonj0hz6.net.fidor.de
 
-[net.jumia.ci] (1 removed)
-  - yoi05.youthorganizing.net.jumia.ci
+[net.jumia.ci] (2 removed)
+  - portal.net.jumia.ci
+  - t.net.jumia.ci
 
-[net.jumia.com.gh] (2 removed)
-  - bdtheque.net.jumia.com.gh
-  - dc01p-net-sslvpn0-ra.net.jumia.com.gh
+[net.jumia.com.gh] (3 removed)
+  - eniac.net.jumia.com.gh
+  - marketing.net.jumia.com.gh
+  - stereofixers.net.jumia.com.gh
 
-[net.jumia.ug] (2 removed)
-  - cust01-cucm-sub-07-cl6.int.net.jumia.ug
-  - www.meuble-design.net.jumia.ug
+[net.jumia.ug] (1 removed)
+  - arch.net.jumia.ug
 
-[newrelic.com] (2 removed)
+[netster.com] (1 removed)
+  - entertainment.netster.com
+
+[newrelic.com] (6 removed)
+  - js-agent.newrelic.com
   - log-api.eu.newrelic.com
   - log-api.newrelic.com
+  - metric-api.eu.newrelic.com
+  - metric-api.newrelic.com
+  - mobile-collector.newrelic.com
 
-[newrelic.com.cdn.cloudflare.net] (2 removed)
+[newrelic.com.cdn.cloudflare.net] (3 removed)
+  - log-api.eu.newrelic.com.cdn.cloudflare.net
   - log-api.newrelic.com.cdn.cloudflare.net
-  - mobile-collector.newrelic.com.cdn.cloudflare.net
+  - metric-api.newrelic.com.cdn.cloudflare.net
 
 [nextyourcontent.com] (1 removed)
   - 0.nextyourcontent.com
 
-[nile.works] (1 removed)
-  - washpost.nile.works
-
-[node7seat.com] (1 removed)
-  - secure.node7seat.com
-
-[norm0care.com] (1 removed)
-  - secure.norm0care.com
+[nkrffokcf.com] (1 removed)
+  - js.nkrffokcf.com
 
 [northbeam.io] (1 removed)
   - j.northbeam.io
-
-[nowvisitors.com] (1 removed)
-  - s01.nowvisitors.com
 
 [nrich.ai] (3 removed)
   - dsp.nrich.ai
   - tag.nrich.ai
   - us-tag.nrich.ai
 
+[nsm-corp.com] (1 removed)
+  - sas.nsm-corp.com
+
 [nsureapi.com] (1 removed)
   - metrics.nsureapi.com
 
-[ntsearch.com] (1 removed)
-  - www.ntsearch.com
-
-[ntv.io] (1 removed)
-  - s.ntv.io
-
-[nu-stars.com] (1 removed)
-  - www.nu-stars.com
-
 [nuskin.com] (1 removed)
   - beacon.nuskin.com
+
+[nutaku.net] (1 removed)
+  - network.nutaku.net
+
+[nyltx.com] (1 removed)
+  - analytics.nyltx.com
+
+[obs.cn-east-3.myhuaweicloud.com] (1 removed)
+  - teslaamg.obs.cn-east-3.myhuaweicloud.com
 
 [obs.mts.ru] (1 removed)
   - metrics.obs.mts.ru
 
 [obunko.com] (2 removed)
-  - apearancema.obunko.com
-  - elinesaglik.obunko.com
+  - steam.obunko.com
+  - x8.obunko.com
 
-[okvipj5.com] (1 removed)
-  - www.okvipj5.com
-
-[omappapi.com] (3 removed)
-  - a.omappapi.com
-  - api.omappapi.com
-  - z.omappapi.com
-
-[omtrdc.net] (1638 removed)
+[omtrdc.net] (1689 removed)
   - 247sports.com.ssl.sc.omtrdc.net
   - 53.com.ssl.d2.sc.omtrdc.net
   - aa.com.ssl.d1.sc.omtrdc.net
@@ -4587,8 +3440,10 @@
   - agilenttechnologies.tt.omtrdc.net
   - aginsurance.d3.sc.omtrdc.net
   - aginsurancesa.tt.omtrdc.net
+  - aglenergy.tt.omtrdc.net
   - agosducato.d3.sc.omtrdc.net
   - agosducato.sc.omtrdc.net
+  - aia.com.ssl.d1.sc.omtrdc.net
   - aicpa.sc.omtrdc.net
   - airgas.sc.omtrdc.net
   - akamai.tt.omtrdc.net
@@ -4650,6 +3505,7 @@
   - appliedmaterialsinc.sc.omtrdc.net
   - ar.ssl.sc.omtrdc.net
   - argos.sc.omtrdc.net
+  - arm.tt.omtrdc.net
   - asadventure.tt.omtrdc.net
   - asahishimbun.sc.omtrdc.net
   - asbbankltd.tt.omtrdc.net
@@ -4702,11 +3558,11 @@
   - bancopansa.tt.omtrdc.net
   - bancosabadell.d3.sc.omtrdc.net
   - bancosabadellsa.tt.omtrdc.net
-  - bancsabadell.com.ssl.sc.omtrdc.net
   - bankinter.tt.omtrdc.net
   - bankofamerica1.sc.omtrdc.net
   - bankofmontreal.tt.omtrdc.net
   - bankwest.sc.omtrdc.net
+  - bankwithunited.tt.omtrdc.net
   - banquepopulaire.d3.sc.omtrdc.net
   - barcalicensingandmerchandising.sc.omtrdc.net
   - barcelogestionhotele.tt.omtrdc.net
@@ -4763,6 +3619,7 @@
   - bitdefender.tt.omtrdc.net
   - bizjournals.com.ssl.sc.omtrdc.net
   - bjsrestaurants.tt.omtrdc.net
+  - blackhawknet.tt.omtrdc.net
   - bluecross.tt.omtrdc.net
   - bmo.com.ssl.d1.sc.omtrdc.net
   - bmwag.d3.sc.omtrdc.net
@@ -4799,6 +3656,7 @@
   - bshg.sc.omtrdc.net
   - bskyb.sc.omtrdc.net
   - bt.tt.omtrdc.net
+  - btbusiness.d1.sc.omtrdc.net
   - bupa.d2.sc.omtrdc.net
   - bupa.tt.omtrdc.net
   - bursamalaysia.sc.omtrdc.net
@@ -4808,6 +3666,7 @@
   - ca.ssl.d2.sc.omtrdc.net
   - caesars.com.ssl.sc.omtrdc.net
   - caixabank.es.ssl.sc.omtrdc.net
+  - calgary.tt.omtrdc.net
   - canada.sc.omtrdc.net
   - canada.tt.omtrdc.net
   - canadamediafund.sc.omtrdc.net
@@ -4825,6 +3684,7 @@
   - carfax.com.ssl.d1.sc.omtrdc.net
   - carfax.sc.omtrdc.net
   - carmax.sc.omtrdc.net
+  - carmax.tt.omtrdc.net
   - carnivalbrands.d3.sc.omtrdc.net
   - carnivalbrands.tt.omtrdc.net
   - carters.com.ssl.sc.omtrdc.net
@@ -4833,6 +3693,7 @@
   - casio.sc.omtrdc.net
   - casiocomputer.tt.omtrdc.net
   - caterpillar.tt.omtrdc.net
+  - caterpillarsigns.tt.omtrdc.net
   - cathayunitedbank.sc.omtrdc.net
   - cathayunitedbank.tt.omtrdc.net
   - cba.d2.sc.omtrdc.net
@@ -4848,6 +3709,7 @@
   - celebritycruises.com.ssl.sc.omtrdc.net
   - cendantchg.sc.omtrdc.net
   - censusbureau.d1.sc.omtrdc.net
+  - centricaplc.tt.omtrdc.net
   - ceridianhcm.tt.omtrdc.net
   - ces.d2.sc.omtrdc.net
   - cetelem.d3.sc.omtrdc.net
@@ -4866,10 +3728,12 @@
   - chebanca.d3.sc.omtrdc.net
   - chevrolet.com.ssl.sc.omtrdc.net
   - chinaeasternairline.sc.omtrdc.net
+  - choicehotels.tt.omtrdc.net
   - christiesinc.tt.omtrdc.net
   - chrobinson.tt.omtrdc.net
   - chrobinsonworldwide.d2.sc.omtrdc.net
   - chubb.tt.omtrdc.net
+  - cib.sc.omtrdc.net
   - cibc.com.ssl.d2.sc.omtrdc.net
   - cigarsinternational.tt.omtrdc.net
   - cigna.sc.omtrdc.net
@@ -4950,6 +3814,7 @@
   - crutchfield.com.ssl.sc.omtrdc.net
   - css.ch.ssl.sc.omtrdc.net
   - ctie.d3.sc.omtrdc.net
+  - ctshirts.com.ssl.d2.sc.omtrdc.net
   - currys.co.uk.ssl.sc.omtrdc.net
   - cvs.sc.omtrdc.net
   - cyberark.sc.omtrdc.net
@@ -4972,6 +3837,7 @@
   - deere.tt.omtrdc.net
   - deka.d3.sc.omtrdc.net
   - deka.de.ssl.sc.omtrdc.net
+  - dell.com.d1.sc.omtrdc.net
   - dellinc.tt.omtrdc.net
   - deloitte.com.ssl.sc.omtrdc.net
   - deloitte.d2.sc.omtrdc.net
@@ -5013,6 +3879,7 @@
   - domo.tt.omtrdc.net
   - donaldson.tt.omtrdc.net
   - douglasgmbh.tt.omtrdc.net
+  - dowjones.com.ssl.sc.omtrdc.net
   - dowjones.sc.omtrdc.net
   - dowjoneson.com.sc.omtrdc.net
   - dowjoneson.com.ssl.sc.omtrdc.net
@@ -5039,10 +3906,10 @@
   - dyson.tt.omtrdc.net
   - eatoncorporation.tt.omtrdc.net
   - ecampus.tt.omtrdc.net
+  - edu.au.ssl.sc.omtrdc.net
   - edu.ssl.sc.omtrdc.net
   - educationfirst.tt.omtrdc.net
   - ee.co.uk.d3.sc.omtrdc.net
-  - egopharm.sc.omtrdc.net
   - ehelse.d3.sc.omtrdc.net
   - elal.tt.omtrdc.net
   - elcorreo.com.sc.omtrdc.net
@@ -5096,6 +3963,8 @@
   - ewieeinfach.tt.omtrdc.net
   - experian.com.sc.omtrdc.net
   - experian.com.ssl.sc.omtrdc.net
+  - expresspros.sc.omtrdc.net
+  - expresspros.tt.omtrdc.net
   - expressscriptsholdin.tt.omtrdc.net
   - eycom.d3.sc.omtrdc.net
   - faa.d2.sc.omtrdc.net
@@ -5122,16 +3991,19 @@
   - fiestahotelsresorts.tt.omtrdc.net
   - fifa.com.ssl.d2.sc.omtrdc.net
   - finetwork.tt.omtrdc.net
+  - firestonecompleteautocare.com.ssl.d1.sc.omtrdc.net
   - firstbank.sc.omtrdc.net
   - firstcitizens.sc.omtrdc.net
   - firstdatacorporation.tt.omtrdc.net
   - firstnationalbankofo.tt.omtrdc.net
   - firstnationalbankofomahaandaffiliates.sc.omtrdc.net
   - firststop.tt.omtrdc.net
+  - fitbook.de.ssl.sc.omtrdc.net
   - flipkart.d1.sc.omtrdc.net
   - floridapowerandlight.sc.omtrdc.net
   - floridapowerandlight.tt.omtrdc.net
   - flughafenberlinbrand.sc.omtrdc.net
+  - fm.ssl.sc.omtrdc.net
   - fmcfresenius.d3.sc.omtrdc.net
   - fmrcorp.tt.omtrdc.net
   - fnac.sc.omtrdc.net
@@ -5156,10 +4028,12 @@
   - foxnews.com.ssl.d1.sc.omtrdc.net
   - foxnews.tt.omtrdc.net
   - foxsports.com.ssl.d2.sc.omtrdc.net
+  - fpl.com.ssl.sc.omtrdc.net
   - fressnapf.de.ssl.sc.omtrdc.net
   - fressnapftiernahrung.tt.omtrdc.net
   - frontiercomm.tt.omtrdc.net
   - fsrvgb.sc.omtrdc.net
+  - fss.tt.omtrdc.net
   - fti.d3.sc.omtrdc.net
   - fullbeauty.tt.omtrdc.net
   - futbolclubbarcelona.tt.omtrdc.net
@@ -5169,12 +4043,14 @@
   - gatescorporation.sc.omtrdc.net
   - gcgruppe.sc.omtrdc.net
   - gcimetrics.com.ssl.d1.sc.omtrdc.net
+  - gehealthcare.tt.omtrdc.net
   - geico.com.ssl.sc.omtrdc.net
   - geico.tt.omtrdc.net
   - generalmotorscorpora.tt.omtrdc.net
   - genuinepartscompany.tt.omtrdc.net
   - georgfischerag.tt.omtrdc.net
   - gepowerandwater.d2.sc.omtrdc.net
+  - gepowerandwater.tt.omtrdc.net
   - glaxosmithklinebeech.tt.omtrdc.net
   - gmc.com.ssl.sc.omtrdc.net
   - gmfinancial.tt.omtrdc.net
@@ -5184,6 +4060,7 @@
   - gov.sc.omtrdc.net
   - gov.ssl.sc.omtrdc.net
   - gov.uk.ssl.sc.omtrdc.net
+  - gpapaodeacucar.sc.omtrdc.net
   - gpc.d2.sc.omtrdc.net
   - gracoinc.tt.omtrdc.net
   - grafana.tt.omtrdc.net
@@ -5191,6 +4068,7 @@
   - greatwestlife.sc.omtrdc.net
   - greatwestlife.tt.omtrdc.net
   - greendot.sc.omtrdc.net
+  - greendot.tt.omtrdc.net
   - groupedelhaize.d2.sc.omtrdc.net
   - groupedelhaize.sc.omtrdc.net
   - groupedelhaize.tt.omtrdc.net
@@ -5279,6 +4157,8 @@
   - ilotteryillinois.tt.omtrdc.net
   - ilunion.tt.omtrdc.net
   - incommholdings.sc.omtrdc.net
+  - infineontechnologies.tt.omtrdc.net
+  - infinitiheliosameric.tt.omtrdc.net
   - infinitiheliosamericas.d3.sc.omtrdc.net
   - infinitiheliosemea.tt.omtrdc.net
   - informaglobalexhibitions.d3.sc.omtrdc.net
@@ -5309,9 +4189,11 @@
   - iqdigitalmediamarketinggmbh.sc.omtrdc.net
   - irenmercato.tt.omtrdc.net
   - it.ssl.d2.sc.omtrdc.net
+  - jacksonnationallifei.tt.omtrdc.net
   - jaguar.tt.omtrdc.net
   - japanairlinescoltd.tt.omtrdc.net
   - java.com.ssl.d1.sc.omtrdc.net
+  - jcaholdingtransporte.tt.omtrdc.net
   - jcpenney.com.ssl.sc.omtrdc.net
   - jcpenney.sc.omtrdc.net
   - jcpenney.tt.omtrdc.net
@@ -5328,6 +4210,7 @@
   - junipernetworks.d2.sc.omtrdc.net
   - junipernetworks.tt.omtrdc.net
   - justicensw.tt.omtrdc.net
+  - k12inc.sc.omtrdc.net
   - kaercher.tt.omtrdc.net
   - kaiser.tt.omtrdc.net
   - kakakucom.sc.omtrdc.net
@@ -5563,6 +4446,7 @@
   - norauto.d3.sc.omtrdc.net
   - norauto.tt.omtrdc.net
   - nordea.d3.sc.omtrdc.net
+  - nordea.fi.ssl.sc.omtrdc.net
   - nordea.tt.omtrdc.net
   - northerntool.d1.sc.omtrdc.net
   - northerntool.tt.omtrdc.net
@@ -5631,6 +4515,7 @@
   - petco.tt.omtrdc.net
   - pfapension.tt.omtrdc.net
   - pfizer.sc.omtrdc.net
+  - pfizer.tt.omtrdc.net
   - pge.tt.omtrdc.net
   - philipselectronicsne.tt.omtrdc.net
   - philipslighting.d3.sc.omtrdc.net
@@ -5673,6 +4558,8 @@
   - qantasairways.tt.omtrdc.net
   - qatarairways.com.ssl.d2.sc.omtrdc.net
   - qatarairways.tt.omtrdc.net
+  - qiagen.tt.omtrdc.net
+  - quill.com.ssl.d1.sc.omtrdc.net
   - radio-canada.ca.ssl.sc.omtrdc.net
   - raiservices.sc.omtrdc.net
   - ralphlauren.com.ssl.sc.omtrdc.net
@@ -5707,6 +4594,7 @@
   - rewedigital.sc.omtrdc.net
   - ricohusa.tt.omtrdc.net
   - rics.tt.omtrdc.net
+  - ringcentral.com.ssl.sc.omtrdc.net
   - ringcentral.tt.omtrdc.net
   - roadrunner.tt.omtrdc.net
   - roberthalfintl.tt.omtrdc.net
@@ -5729,7 +4617,9 @@
   - safeway.com.ssl.sc.omtrdc.net
   - safeway.sc.omtrdc.net
   - safewayinc.tt.omtrdc.net
+  - saksfifthavenue.com.ssl.sc.omtrdc.net
   - salarycom.sc.omtrdc.net
+  - salliemae.com.ssl.sc.omtrdc.net
   - salliemae.tt.omtrdc.net
   - samsclub.com.ssl.d1.sc.omtrdc.net
   - samsclub.sc.omtrdc.net
@@ -5764,6 +4654,7 @@
   - sbmwmotor.sc.omtrdc.net
   - sbs.com.au.ssl.sc.omtrdc.net
   - sbsaustralia.sc.omtrdc.net
+  - scentsy.d1.sc.omtrdc.net
   - scentsy.tt.omtrdc.net
   - schibstedspain.d3.sc.omtrdc.net
   - scholasticinc.tt.omtrdc.net
@@ -5772,12 +4663,14 @@
   - scotiabank.com.ssl.sc.omtrdc.net
   - scotiabank.sc.omtrdc.net
   - scotiabank.tt.omtrdc.net
+  - scottsmiraclegro.tt.omtrdc.net
   - sdcvisit.com.ssl.d2.sc.omtrdc.net
   - seagate.sc.omtrdc.net
   - seagate.tt.omtrdc.net
   - seat.d3.sc.omtrdc.net
   - seatsa.tt.omtrdc.net
   - sebkort.sc.omtrdc.net
+  - securianfinancialgroupinc.d2.sc.omtrdc.net
   - sempre.sc.omtrdc.net
   - sephora.com.ssl.d1.sc.omtrdc.net
   - sephora.sc.omtrdc.net
@@ -5821,6 +4714,7 @@
   - snsbank.sc.omtrdc.net
   - snsbank.tt.omtrdc.net
   - sonycorporationofame.tt.omtrdc.net
+  - sonydimaging.d1.sc.omtrdc.net
   - sonyeurope.d1.sc.omtrdc.net
   - sonyglobal.d1.sc.omtrdc.net
   - sonyimagingedgeglobal.sc.omtrdc.net
@@ -5845,6 +4739,7 @@
   - sportsnet.ca.ssl.sc.omtrdc.net
   - srotary.sc.omtrdc.net
   - sspicejetlimited.sc.omtrdc.net
+  - ssynchronyfinancial.d1.sc.omtrdc.net
   - stadiumab.d2.sc.omtrdc.net
   - stanchartafrica.sc.omtrdc.net
   - stanchartafrica.tt.omtrdc.net
@@ -5861,7 +4756,6 @@
   - statefarm.com.ssl.d1.sc.omtrdc.net
   - stateofil.tt.omtrdc.net
   - stateoftennessee.sc.omtrdc.net
-  - statnews.com.ssl.sc.omtrdc.net
   - stenalinescandinaviaab.d3.sc.omtrdc.net
   - stepstone.d1.sc.omtrdc.net
   - stepstone.de.ssl.sc.omtrdc.net
@@ -5900,6 +4794,7 @@
   - synchronyfinancial.sc.omtrdc.net
   - systemeu.sc.omtrdc.net
   - t-mobile.com.ssl.d1.sc.omtrdc.net
+  - tab.com.au.ssl.sc.omtrdc.net
   - tabcorpholdingslimit.tt.omtrdc.net
   - tafequeensland.tt.omtrdc.net
   - tagespiegel.tt.omtrdc.net
@@ -5928,6 +4823,7 @@
   - tescomobile.tt.omtrdc.net
   - tescostores.sc.omtrdc.net
   - theamericannationalr.tt.omtrdc.net
+  - theboeingcompany.tt.omtrdc.net
   - thechannelcompany.d1.sc.omtrdc.net
   - thecontainerstore.sc.omtrdc.net
   - thecontainerstore.tt.omtrdc.net
@@ -5938,9 +4834,9 @@
   - thermofisher.com.ssl.d2.sc.omtrdc.net
   - thesalvationarmy.sc.omtrdc.net
   - thesalvationarmy.tt.omtrdc.net
+  - thestar.com.ssl.sc.omtrdc.net
   - thetjxcompaniesinc.tt.omtrdc.net
   - thevanguardgroup.tt.omtrdc.net
-  - thewilliamcartercompany.sc.omtrdc.net
   - thomsonreuterscorporategroupweb.sc.omtrdc.net
   - three.d3.sc.omtrdc.net
   - threeie.sc.omtrdc.net
@@ -5978,6 +4874,7 @@
   - traderonline.com.ssl.sc.omtrdc.net
   - transunion.tt.omtrdc.net
   - transurban.sc.omtrdc.net
+  - transurban.tt.omtrdc.net
   - trb.com.sc.omtrdc.net
   - trellix.tt.omtrdc.net
   - trendmicrojp.d2.sc.omtrdc.net
@@ -6032,6 +4929,7 @@
   - unitedhealthgroup.tt.omtrdc.net
   - unitedparcelservice.sc.omtrdc.net
   - unitedstatestennisas.tt.omtrdc.net
+  - universityofmarylanduniversitycollege.sc.omtrdc.net
   - uob.sc.omtrdc.net
   - upc.d2.sc.omtrdc.net
   - ups.com.ssl.sc.omtrdc.net
@@ -6064,6 +4962,7 @@
   - vietnamairlines.tt.omtrdc.net
   - vineyardvines.sc.omtrdc.net
   - vineyardvines.tt.omtrdc.net
+  - virginatlantic.com.ssl.sc.omtrdc.net
   - virginaustralia.com.ssl.sc.omtrdc.net
   - virginaustralia.sc.omtrdc.net
   - virginaustralia.tt.omtrdc.net
@@ -6086,6 +4985,7 @@
   - vodafonehu.sc.omtrdc.net
   - vodafoneirl.tt.omtrdc.net
   - vodafoneitaly.tt.omtrdc.net
+  - vodafoneportugal.tt.omtrdc.net
   - vodafoneqa.sc.omtrdc.net
   - vodafoneqa.tt.omtrdc.net
   - vodafonetr.sc.omtrdc.net
@@ -6103,6 +5003,7 @@
   - vudu.tt.omtrdc.net
   - vue.tt.omtrdc.net
   - vusevapor.tt.omtrdc.net
+  - vw.com.ssl.d2.sc.omtrdc.net
   - vwgisag.sc.omtrdc.net
   - walgreens.com.ssl.d1.sc.omtrdc.net
   - walgreens.sc.omtrdc.net
@@ -6110,6 +5011,7 @@
   - walmartisd.tt.omtrdc.net
   - wastemanagement.sc.omtrdc.net
   - watchfinderuk.tt.omtrdc.net
+  - wbg.tt.omtrdc.net
   - wbmason.sc.omtrdc.net
   - wdcflashco.sc.omtrdc.net
   - wdcflashco.tt.omtrdc.net
@@ -6166,6 +5068,8 @@
   - xfinity.com.ssl.sc.omtrdc.net
   - yahoojapan.d1.sc.omtrdc.net
   - yamahamotoreurope.d3.sc.omtrdc.net
+  - ydesign.sc.omtrdc.net
+  - ydesign.tt.omtrdc.net
   - yellohvillage.tt.omtrdc.net
   - yellowpages.com.ssl.sc.omtrdc.net
   - yellspain.d3.sc.omtrdc.net
@@ -6179,59 +5083,61 @@
   - zegna.tt.omtrdc.net
   - zionsbancorp.sc.omtrdc.net
 
-[onclmng.com] (1 removed)
-  - js.onclmng.com
-
-[ondu.ru] (1 removed)
-  - sharp.ondu.ru
-
 [onthe.io] (3 removed)
   - cdn.onthe.io
   - i.onthe.io
   - tt.onthe.io
 
+[op-mobile.opera.com] (7 removed)
+  - ams-ads.op-mobile.opera.com
+  - api-a.op-mobile.opera.com
+  - dl-adx.op-mobile.opera.com
+  - pps-log.op-mobile.opera.com
+  - px-adx.geo2.op-mobile.opera.com
+  - s-adx.op-mobile.opera.com
+  - t-odx.op-mobile.opera.com
+
 [openinstall.io] (2 removed)
   - stat2.openinstall.io
   - web.cdn.openinstall.io
 
-[opinionlab.com] (1 removed)
-  - rate.opinionlab.com
+[openweb.bid] (1 removed)
+  - data.client.openweb.bid
 
-[optimatic.com] (1 removed)
-  - cdn.optimatic.com
+[opinionlab.com] (1 removed)
+  - ccc01.opinionlab.com
+
+[optimatic.com] (2 removed)
+  - ntracking.optimatic.com
+  - vast.ssp.optimatic.com
 
 [optinmonster.com] (2 removed)
   - a.optinmonster.com
   - app.optinmonster.com
 
-[outlinearray.com] (1 removed)
-  - www.outlinearray.com
+[ostr.io] (1 removed)
+  - analytics.ostr.io
 
-[page1monk.com] (1 removed)
-  - secure.page1monk.com
+[ourdream.ai] (1 removed)
+  - posthog-flags.svc.ourdream.ai
 
-[page9awry.com] (1 removed)
-  - secure.page9awry.com
+[particularaudience.com] (1 removed)
+  - cdn.particularaudience.com
+
+[partypoker.com] (1 removed)
+  - gr.partypoker.com
 
 [passendo.com] (2 removed)
   - gcp.passendo.com
   - images.passendo.com
 
-[passion.com] (2 removed)
-  - adserver.passion.com
-  - geobanner.passion.com
+[passion.com] (1 removed)
+  - banner.passion.com
 
 [pawns.app] (1 removed)
   - resi-api.pawns.app
 
-[peep1alea.com] (1 removed)
-  - secure.peep1alea.com
-
-[perfdrive.com] (2 removed)
-  - cas.avalon.perfdrive.com
-  - cdn.perfdrive.com
-
-[perimeterx.net] (101 removed)
+[perimeterx.net] (100 removed)
   - collector-a.perimeterx.net
   - collector-dl82i3ui.perimeterx.net
   - collector-px0n3xmol0.perimeterx.net
@@ -6307,7 +5213,6 @@
   - collector-pxqqxm841a.perimeterx.net
   - collector-pxqxtwmr91.perimeterx.net
   - collector-pxrf8vapwa.perimeterx.net
-  - collector-pxrzqfumt8.perimeterx.net
   - collector-pxsb2758b7.perimeterx.net
   - collector-pxt8yg6fbv.perimeterx.net
   - collector-pxtk74ox9h.perimeterx.net
@@ -6334,49 +5239,70 @@
   - collector-pxznu59zhd.perimeterx.net
   - fst-ec.perimeterx.net
 
-[petametrics.com] (5 removed)
-  - cdn-fallback.petametrics.com
-  - query-us-east1.petametrics.com
-  - query-us-west1.petametrics.com
-  - query.petametrics.com
-  - query1.petametrics.com
+[personalization.centech.glulive.com] (1 removed)
+  - prd1.personalization.centech.glulive.com
 
 [pfp.sina.net] (1 removed)
   - s3.pfp.sina.net
 
-[pineapple.page] (1 removed)
-  - tarciontrip.pineapple.page
+[phando.com] (1 removed)
+  - analytics.phando.com
+
+[piano.io] (4 removed)
+  - analytics.pa.piano.io
+  - analytics.piano.io
+  - api-esp.piano.io
+  - sandbox-api-esp.piano.io
+
+[pingdom.net] (3 removed)
+  - rum-collector-2.pingdom.net
+  - rum-collector.pingdom.net
+  - rum-static.pingdom.net
 
 [pixels.ai] (1 removed)
-  - pub.pixels.ai
+  - analytics.pixels.ai
 
 [playablefactory.app] (1 removed)
   - logger2.playablefactory.app
-
-[plug4norm.com] (1 removed)
-  - secure.plug4norm.com
-
-[po.st] (2 removed)
-  - i.po.st
-  - s.po.st
 
 [polarbyte.com] (3 removed)
   - cdn.polarbyte.com
   - iaw-events.polarbyte.com
   - sp-eu.dev.polarbyte.com
 
-[poptm.com] (1 removed)
-  - push.poptm.com
+[poprtb.pro] (1 removed)
+  - filter.poprtb.pro
 
 [popupad.net] (1 removed)
   - www.popupad.net
 
+[pos-kupang.com] (1 removed)
+  - www.pos-kupang.com
+
+[postsavings.com] (1 removed)
+  - www.postsavings.com
+
+[poukladanyswiat.com] (1 removed)
+  - www.poukladanyswiat.com
+
+[prdirectory.biz] (1 removed)
+  - www.prdirectory.biz
+
+[premiumimpression.com] (1 removed)
+  - tg1.premiumimpression.com
+
 [pressflex.com] (2 removed)
-  - adserver.pressflex.com
+  - ads.pressflex.com
   - statdb.pressflex.com
 
-[primexbt.com] (1 removed)
-  - app.primexbt.com
+[prf.hn] (7 removed)
+  - adobe-creative.prf.hn
+  - aos-creative.prf.hn
+  - aos.prf.hn
+  - creative.prf.hn
+  - freepik-creative.prf.hn
+  - mrporter-creative.prf.hn
+  - stubhub-creative.prf.hn
 
 [privy.com] (4 removed)
   - api.privy.com
@@ -6384,27 +5310,34 @@
   - events.privy.com
   - widget.privy.com
 
-[programmatics.net] (2 removed)
+[programmatics.net] (3 removed)
+  - rtb2-eu.programmatics.net
   - static-rtb2.programmatics.net
   - win-rtb2-uswest.programmatics.net
+
+[protecmedia.com] (1 removed)
+  - mas.protecmedia.com
+
+[provencepromotion.com] (1 removed)
+  - www.provencepromotion.com
+
+[provenpixel.com] (1 removed)
+  - upx.provenpixel.com
 
 [proxena-adserver.com] (2 removed)
   - images.proxena-adserver.com
   - servedby.proxena-adserver.com
 
-[proxistore.com] (1 removed)
-  - abs.proxistore.com
+[pulsefintech.net] (1 removed)
+  - rtb-as-uswest.pulsefintech.net
 
-[psnzone.com] (1 removed)
-  - www.psnzone.com
+[pureadsltd.com] (1 removed)
+  - rtb-useast.pureadsltd.com
 
-[publicidees.com] (1 removed)
-  - ad.publicidees.com
+[pushnative.com] (1 removed)
+  - go.pushnative.com
 
-[publytics.net] (1 removed)
-  - api.publytics.net
-
-[pushwoosh.com] (74 removed)
+[pushwoosh.com] (80 removed)
   - 06cfa-f8925.api.pushwoosh.com
   - 13cfb-2f770.api.pushwoosh.com
   - 13f04-7a530.api.pushwoosh.com
@@ -6416,10 +5349,13 @@
   - 350df-be8d9.api.pushwoosh.com
   - 3624d-2bb40.api.pushwoosh.com
   - 389d8-03dbe.api.pushwoosh.com
+  - 3e08c-f3e5d.api.pushwoosh.com
   - 43e65-af7ce.api.pushwoosh.com
   - 45699-0823a.api.pushwoosh.com
   - 4928c-54b68.api.pushwoosh.com
   - 4ad59-698c2.api.pushwoosh.com
+  - 53611-d0416.api.pushwoosh.com
+  - 54869-1f082.api.pushwoosh.com
   - 56655-e6e31.api.pushwoosh.com
   - 6280c-927dd.api.pushwoosh.com
   - 68ff6-16562.api.pushwoosh.com
@@ -6435,7 +5371,9 @@
   - 8a537-af31e.api.pushwoosh.com
   - 8e479-a7f7f.api.pushwoosh.com
   - 8ff60-0666b.api.pushwoosh.com
+  - 9170d-fac20.api.pushwoosh.com
   - 94f56-b665f.api.pushwoosh.com
+  - 99863-61299.api.pushwoosh.com
   - a12ff-4c09a.api.pushwoosh.com
   - a1c62-495ab.api.pushwoosh.com
   - a38db-1b0bb.api.pushwoosh.com
@@ -6465,6 +5403,7 @@
   - e1130-9ab44.api.pushwoosh.com
   - e3475-d0798.api.pushwoosh.com
   - e5783-e47dd.api.pushwoosh.com
+  - ea2c0-4fe09.api.pushwoosh.com
   - f50b9-9e184.api.pushwoosh.com
   - f8d6a-7f9ab.api.pushwoosh.com
   - fed8e-b401d.api.pushwoosh.com
@@ -6483,70 +5422,85 @@
 [pvranking.com] (1 removed)
   - www.pvranking.com
 
-[qishuimusic.org] (1 removed)
-  - www.qishuimusic.org
-
-[quantcast.com] (2 removed)
-  - aboutads.quantcast.com
-  - audit-tcfv2.cmp.quantcast.com
+[qertewrt.com] (1 removed)
+  - hlok.qertewrt.com
 
 [quantumdex.io] (3 removed)
   - ss-pbs.quantumdex.io
   - sync.quantumdex.io
   - useast.quantumdex.io
 
-[qvpublish.com] (1 removed)
-  - api.qvpublish.com
+[qushad.com] (1 removed)
+  - analytics.qushad.com
 
-[r.lafamo.com] (1 removed)
-  - luna.r.lafamo.com
+[r.msn.com] (1 removed)
+  - bat.r.msn.com
 
 [r.niwepa.com] (1 removed)
   - neso.r.niwepa.com
 
-[r4lwdy.qpon] (2 removed)
-  - 68c.r4lwdy.qpon
-  - 7brw.r4lwdy.qpon
+[r4lwdy.qpon] (3 removed)
+  - 3q2.r4lwdy.qpon
+  - vg6r.r4lwdy.qpon
+  - xkf53.r4lwdy.qpon
 
-[rabbit.click] (3 removed)
-  - owmedia.rabbit.click
-  - push.rabbit.click
-  - pushche.rabbit.click
+[rabbitfiles.com] (1 removed)
+  - www.rabbitfiles.com
 
-[radtrikottourdefrance.de] (1 removed)
-  - www.radtrikottourdefrance.de
+[raceoption.com] (1 removed)
+  - www.raceoption.com
 
 [rain.ad] (2 removed)
   - filter.rain.ad
   - static.rain.ad
 
+[rankortbdirect.com] (2 removed)
+  - rtb-eu.rankortbdirect.com
+  - rtb-useast.rankortbdirect.com
+
 [rapidstheatre.com] (1 removed)
   - www.rapidstheatre.com
 
-[rapopo.com] (1 removed)
-  - www.rapopo.com
+[rbp1.ru] (1 removed)
+  - www.rbp1.ru
 
-[rate8deny.com] (1 removed)
-  - www.rate8deny.com
+[rbp2.ru] (1 removed)
+  - www.rbp2.ru
 
-[reaktion.se] (1 removed)
-  - secure.reaktion.se
+[rbpark2.ru] (1 removed)
+  - www.rbpark2.ru
+
+[rcovid19.it] (1 removed)
+  - www.rcovid19.it
+
+[readywind.media] (2 removed)
+  - filter.readywind.media
+  - rtb-useast.readywind.media
+
+[realbi5.ru] (1 removed)
+  - www.realbi5.ru
 
 [rear9axis.com] (1 removed)
-  - secure.rear9axis.com
+  - www.rear9axis.com
+
+[recentpoker.com] (1 removed)
+  - www.recentpoker.com
+
+[redmx.cn] (1 removed)
+  - www.redmx.cn
 
 [reedbusiness.net] (1 removed)
   - smetrics.reedbusiness.net
 
-[refinery89.com] (1 removed)
-  - geotags.refinery89.com
-
-[reftagger.com] (1 removed)
-  - api.reftagger.com
+[reelup.io] (1 removed)
+  - analytics.reelup.io
 
 [reklama.network] (2 removed)
   - login.reklama.network
   - static.reklama.network
+
+[renderbetter.net] (1 removed)
+  - analytics.renderbetter.net
 
 [requestmetrics.com] (2 removed)
   - cdn.requestmetrics.com
@@ -6555,12 +5509,33 @@
 [researchnow.com] (1 removed)
   - tag.researchnow.com
 
+[restchess.com] (1 removed)
+  - www.restchess.com
+
+[retirevillage.com] (1 removed)
+  - lawrencecastillo.retirevillage.com
+
+[revid.centech.glulive.com] (1 removed)
+  - prd1.revid.centech.glulive.com
+
+[reviveads.com] (1 removed)
+  - www.reviveads.com
+
 [richaudience.com] (5 removed)
   - eu-sync.richaudience.com
   - s.richaudience.com
   - shb.richaudience.com
   - sync.richaudience.com
   - us-east-sync.richaudience.com
+
+[right-ads.com] (1 removed)
+  - ads.right-ads.com
+
+[rightmessage.com] (1 removed)
+  - tag.rightmessage.com
+
+[rklmstr.com] (1 removed)
+  - filter.rklmstr.com
 
 [rmp.rakuten.com] (5 removed)
   - s-cdn.rmp.rakuten.com
@@ -6569,15 +5544,27 @@
   - s-imp.rmp.rakuten.com
   - tag.rmp.rakuten.com
 
-[rocoads.net] (2 removed)
-  - a.rocoads.net
-  - s.rocoads.net
+[rocketmedia24.com] (1 removed)
+  - rm.rocketmedia24.com
 
-[roverinvolv.bid] (1 removed)
-  - prk.roverinvolv.bid
+[rocoads.net] (1 removed)
+  - admin.rocoads.net
+
+[roistat.com] (2 removed)
+  - cllctr.roistat.com
+  - collector.roistat.com
+
+[rooski.net] (1 removed)
+  - xxxlove.rooski.net
 
 [rtbanalytica.com] (1 removed)
   - login.rtbanalytica.com
+
+[rtbiq.com] (1 removed)
+  - analytics.rtbiq.com
+
+[rtbsrv.com] (1 removed)
+  - dmp.rtbsrv.com
 
 [rtbwire.com] (2 removed)
   - login.rtbwire.com
@@ -6629,56 +5616,36 @@
   - video-ads.rubiconproject.com
   - video-outstream.rubiconproject.com
 
-[rudderlabs.com] (1 removed)
-  - cdn.rudderlabs.com
-
 [rutarget.ru] (4 removed)
   - adriver-sync.rutarget.ru
   - tag.rutarget.ru
   - yandex-dmp-sync.rutarget.ru
   - yandex-sync.rutarget.ru
 
-[rvere.com] (1 removed)
-  - api.rvere.com
-
 [safedk.com] (1 removed)
   - edge.safedk.com
 
-[sail-horizon.com] (1 removed)
-  - ak.sail-horizon.com
+[salesanalytics.io] (1 removed)
+  - analytics.salesanalytics.io
 
 [salesmanago.pl] (1 removed)
   - sy.salesmanago.pl
 
-[sax.sina.com.cn] (1 removed)
-  - r.sax.sina.com.cn
-
-[scan6show.com] (1 removed)
-  - secure.scan6show.com
+[savethereef.xyz] (2 removed)
+  - go-v4.savethereef.xyz
+  - go.savethereef.xyz
 
 [scarabresearch.com] (1 removed)
   - static.scarabresearch.com
 
-[scotlandnewstoday.com] (1 removed)
-  - www.scotlandnewstoday.com
-
-[sdausa.online] (1 removed)
-  - xml-v4.sdausa.online
+[sdausa.online] (2 removed)
+  - tq-eu.sdausa.online
+  - tq.sdausa.online
 
 [seadform.net] (3 removed)
   - a1.seadform.net
   - asia.seadform.net
   - server.seadform.net
-
-[secondstreetapp.com] (2 removed)
-  - api.secondstreetapp.com
-  - embed.secondstreetapp.com
-
-[segment.io] (1 removed)
-  - cdn.segment.io
-
-[semuadisini.xyz] (1 removed)
-  - adspyglass.semuadisini.xyz
 
 [sensic.net] (24 removed)
   - at1-s2s.sensic.net
@@ -6712,8 +5679,8 @@
 [servicemagic.com] (1 removed)
   - smetrics.servicemagic.com
 
-[sexyxxx.biz] (1 removed)
-  - delivery.sexyxxx.biz
+[sexsearchcom.com] (1 removed)
+  - textad.sexsearchcom.com
 
 [sgtm.20bet.com] (1 removed)
   - load.sgtm.20bet.com
@@ -6811,14 +5778,8 @@
 [sgtm.tripster.com] (1 removed)
   - load.sgtm.tripster.com
 
-[sgtmeu.mycnhstore.com] (1 removed)
-  - load.sgtmeu.mycnhstore.com
-
 [sgtmus.mycnhistore.com] (1 removed)
   - load.sgtmus.mycnhistore.com
-
-[shalltry.com] (1 removed)
-  - ire-oneid.shalltry.com
 
 [sharethis.com] (23 removed)
   - buttons-config.sharethis.com
@@ -6845,35 +5806,18 @@
   - wd-edge.sharethis.com
   - wd.sharethis.com
 
-[sharethru.com] (1 removed)
-  - s.update.sharethru.com
-
-[shidareyanagi.com] (2 removed)
-  - am5x86january.shidareyanagi.com
+[shidareyanagi.com] (1 removed)
   - j0lz8si2.shidareyanagi.com
+
+[shieldcheckerservices.com] (2 removed)
+  - filter-eu.shieldcheckerservices.com
+  - filter.shieldcheckerservices.com
 
 [shirem.com] (1 removed)
   - offer.shirem.com
 
-[shopathome.com] (1 removed)
-  - www.shopathome.com
-
 [shorte.st] (1 removed)
   - analytics.shorte.st
-
-[shouaa.com] (1 removed)
-  - www.shouaa.com
-
-[shouji.360.cn] (1 removed)
-  - aicleaner.shouji.360.cn
-
-[siftscience.com] (3 removed)
-  - b.siftscience.com
-  - cdn.siftscience.com
-  - engineering.siftscience.com
-
-[simpleanalytics.com] (1 removed)
-  - external.simpleanalytics.com
 
 [singular.net] (10 removed)
   - i.singular.net
@@ -6912,24 +5856,26 @@
   - t.skimresources.com
   - x.skimresources.com
 
-[skymedia.co.uk] (2 removed)
-  - c5ads.ott.skymedia.co.uk
-  - skyads.ott.skymedia.co.uk
+[skyword.com] (1 removed)
+  - tracking.skyword.com
 
 [sleeknote.com] (1 removed)
   - analytics.sleeknote.com
 
-[smart-business-365.com] (1 removed)
-  - secure.smart-business-365.com
+[smaad.jp] (1 removed)
+  - ad.smaad.jp
 
-[smart-business-foresight.com] (1 removed)
-  - secure.smart-business-foresight.com
+[smartadserver.com.edgesuite.net] (1 removed)
+  - apps.smartadserver.com.edgesuite.net
 
 [smartclick.com] (1 removed)
   - ads.smartclick.com
 
 [smartclicks.com] (1 removed)
   - ads.smartclicks.com
+
+[smartproinvest.com] (1 removed)
+  - nul.smartproinvest.com
 
 [snigelweb.com] (7 removed)
   - adengine.snigelweb.com
@@ -6943,14 +5889,15 @@
 [snplow.net] (1 removed)
   - collector.snplow.net
 
-[solemnlybuck.com] (1 removed)
-  - fowl.solemnlybuck.com
-
-[soundrussian.com] (1 removed)
+[soundrussian.com] (2 removed)
   - asg.soundrussian.com
+  - testcommon.soundrussian.com
 
-[sprig.com] (1 removed)
-  - api.sprig.com
+[speedcurve.com] (1 removed)
+  - beacon.speedcurve.com
+
+[springbot.com] (1 removed)
+  - etl.springbot.com
 
 [springserve.com] (9 removed)
   - bc-ssb-iad.springserve.com
@@ -6963,22 +5910,21 @@
   - vid.springserve.com
   - vpaid.springserve.com
 
-[srvcs.tumblr.com] (2 removed)
-  - ls.srvcs.tumblr.com
-  - px.srvcs.tumblr.com
-
 [srvqck20.com] (1 removed)
   - static.srvqck20.com
 
-[srvqck21.com] (2 removed)
+[srvqck21.com] (3 removed)
+  - filter-eu.srvqck21.com
+  - filter.srvqck21.com
   - static.srvqck21.com
-  - xml-v4.srvqck21.com
 
-[srvqck23.com] (1 removed)
-  - xml-v4.srvqck23.com
+[srvqck23.com] (2 removed)
+  - filter-eu.srvqck23.com
+  - filter.srvqck23.com
 
-[srvqck25.com] (1 removed)
-  - xml-v4.srvqck25.com
+[srvqck25.com] (2 removed)
+  - filter-eu.srvqck25.com
+  - filter.srvqck25.com
 
 [srvtax.com] (1 removed)
   - asg.srvtax.com
@@ -6986,32 +5932,20 @@
 [ss.aikido.dev] (1 removed)
   - load.ss.aikido.dev
 
-[stape.bokksu.com] (1 removed)
-  - load.stape.bokksu.com
-
 [stape.cips.org] (1 removed)
   - load.stape.cips.org
 
 [stat24.com] (1 removed)
   - tp.hit.stat24.com
 
-[stevbade1.online] (1 removed)
-  - xml-v4.stevbade1.online
+[streamray.com] (1 removed)
+  - affiliates.streamray.com
 
-[suavecitoo.org] (1 removed)
-  - c4n.suavecitoo.org
+[svdva-e.online] (1 removed)
+  - tq.svdva-e.online
 
-[summerwaveadventures.com] (1 removed)
-  - redir.summerwaveadventures.com
-
-[sunnyshore.xyz] (1 removed)
-  - redir.sunnyshore.xyz
-
-[superadbox.com] (1 removed)
-  - u.superadbox.com
-
-[swetrix.com] (1 removed)
-  - api.swetrix.com
+[symplr.de] (1 removed)
+  - cockpit.symplr.de
 
 [t.eloqua.com] (3 removed)
   - p06k.t.eloqua.com
@@ -7025,57 +5959,60 @@
 [tanabase.com] (1 removed)
   - stape.tanabase.com
 
-[tapinfluence.com] (2 removed)
-  - a.tapinfluence.com
-  - influencers.tapinfluence.com
-
 [taplytics.com] (1 removed)
   - api.taplytics.com
 
 [tapstream.com] (1 removed)
   - api.tapstream.com
 
-[target.ihg.com] (1 removed)
-  - secure.target.ihg.com
+[teams-live.com] (1 removed)
+  - microsoft.teams-live.com
 
 [telecommandsvc.microsoft.com] (1 removed)
   - www.telecommandsvc.microsoft.com
 
-[tent0mown.com] (1 removed)
-  - www.tent0mown.com
-
-[terra.es] (1 removed)
-  - adserver.terra.es
-
-[terrapops.com] (1 removed)
-  - www.terrapops.com
-
-[the-lead-tracker.com] (1 removed)
-  - www.the-lead-tracker.com
-
 [thebidex.net] (1 removed)
-  - xml-v4.thebidex.net
+  - filter.thebidex.net
 
-[thegioibaove.com] (1 removed)
-  - www.thegioibaove.com
+[themarketiq.com] (1 removed)
+  - analytics.themarketiq.com
 
-[thehighercontent.com] (1 removed)
-  - www.thehighercontent.com
+[themediaplanets.com] (1 removed)
+  - banner.themediaplanets.com
 
-[thetrafficboss.com] (1 removed)
+[themetronewstoday.com] (1 removed)
+  - www.themetronewstoday.com
+
+[thetrafficboss.com] (2 removed)
+  - filter.thetrafficboss.com
   - login.thetrafficboss.com
 
-[thk4.com] (1 removed)
-  - cdn.thk4.com
+[theyashotel.com] (1 removed)
+  - www.theyashotel.com
+
+[thickcash.com] (1 removed)
+  - www.thickcash.com
+
+[thoughtmetric.io] (1 removed)
+  - data.thoughtmetric.io
 
 [tianmu.mobi] (1 removed)
   - tracker.tianmu.mobi
 
+[tinkfrog.com] (1 removed)
+  - www.tinkfrog.com
+
 [tivan.naver.com] (1 removed)
   - g.tivan.naver.com
 
-[tncrun.net] (1 removed)
-  - emily.tncrun.net
+[tnx.net] (1 removed)
+  - www.tnx.net
+
+[togethernetworks.com] (1 removed)
+  - www.togethernetworks.com
+
+[toolbarcounter.com] (1 removed)
+  - www.toolbarcounter.com
 
 [top100.ru] (1 removed)
   - st.top100.ru
@@ -7083,11 +6020,17 @@
 [top4top.io] (1 removed)
   - d.top4top.io
 
-[toplaygame.ru] (1 removed)
-  - r.toplaygame.ru
+[topicza.com] (1 removed)
+  - www.topicza.com
 
-[touch-moblie.com] (1 removed)
-  - api.touch-moblie.com
+[toplistim.com] (1 removed)
+  - www.toplistim.com
+
+[topsiteguide.com] (1 removed)
+  - www.topsiteguide.com
+
+[topsites24.net] (1 removed)
+  - www.topsites24.net
 
 [tpdads.com] (1 removed)
   - analytics.tpdads.com
@@ -7095,11 +6038,11 @@
 [tpmn.io] (1 removed)
   - ad.tpmn.io
 
+[tr.line.me] (1 removed)
+  - lap-click.tr.line.me
+
 [tr1net.com] (1 removed)
   - o.tr1net.com
-
-[tracker.zappyrent.com] (1 removed)
-  - load.tracker.zappyrent.com
 
 [trackjs.com] (5 removed)
   - docs.trackjs.com
@@ -7142,11 +6085,15 @@
   - tl.tradetracker.net
   - ts.tradetracker.net
 
-[trafficfactory.com] (1 removed)
-  - api.trafficfactory.com
+[trafficfactory.com] (2 removed)
+  - admin.trafficfactory.com
+  - rtb.trafficfactory.com
 
-[trafficsyndicate.com] (1 removed)
-  - adserver.trafficsyndicate.com
+[trafficmarketplace.com] (1 removed)
+  - www.trafficmarketplace.com
+
+[trakit19.com] (1 removed)
+  - go1.trakit19.com
 
 [trbo.com] (3 removed)
   - collect.trbo.com
@@ -7162,50 +6109,55 @@
 [tresensa.com] (1 removed)
   - analytics.tresensa.com
 
-[triver.jp] (1 removed)
-  - api.triver.jp
-
-[tropicalsummer.xyz] (1 removed)
-  - redir.tropicalsummer.xyz
+[tribegadzooks.com] (1 removed)
+  - silk.tribegadzooks.com
 
 [tropintech.com] (1 removed)
-  - xml-v4.tropintech.com
+  - filter.tropintech.com
+
+[trustedstack.com] (1 removed)
+  - prebid.trustedstack.com
 
 [trysera.com] (1 removed)
   - pd.trysera.com
 
-[tula9mari.com] (1 removed)
-  - secure.tula9mari.com
-
-[tw.cx] (1 removed)
-  - e.tw.cx
-
-[ucfly.com] (1 removed)
-  - u.ucfly.com
+[ublock.org] (1 removed)
+  - ping.ublock.org
 
 [ultrads.net] (1 removed)
   - static.ultrads.net
 
+[umami.is] (4 removed)
+  - analytics.umami.is
+  - app.umami.is
+  - cloud.umami.is
+  - gateway.umami.is
+
 [uniconsent.com] (1 removed)
   - log.uniconsent.com
 
-[upqzfile.com] (1 removed)
-  - mobilelog.upqzfile.com
+[univlyon2.fr] (1 removed)
+  - www.univlyon2.fr
 
-[uptownleads.com] (2 removed)
+[upscore.com] (3 removed)
+  - files.upscore.com
+  - hit-error.upscore.com
+  - hit-pool.upscore.com
+
+[uptownleads.com] (1 removed)
   - calls.uptownleads.com
-  - leads.uptownleads.com
 
-[urbanairship.com] (35 removed)
+[uptowntraction.com] (1 removed)
+  - filter.uptowntraction.com
+
+[urbanairship.com] (33 removed)
   - c00028-dl.urbanairship.com
   - c00029-dl.urbanairship.com
-  - c00035-dl.urbanairship.com
   - c00049-dl.urbanairship.com
   - c00050-dl.urbanairship.com
   - c00093-dl.urbanairship.com
   - c00096-dl.urbanairship.com
   - c00098-dl.urbanairship.com
-  - c00112-dl.urbanairship.com
   - c00119-dl.urbanairship.com
   - c00157-dl.urbanairship.com
   - c00158-dl.urbanairship.com
@@ -7214,13 +6166,13 @@
   - c00178-dl.urbanairship.com
   - c00180-dl.urbanairship.com
   - c00190-dl.urbanairship.com
+  - c00191-dl.urbanairship.com
   - c00197-dl.urbanairship.com
   - c00241-dl.urbanairship.com
   - c00304-dl.urbanairship.com
   - c00307-dl.urbanairship.com
   - c00316-dl.urbanairship.com
   - c00331-dl.urbanairship.com
-  - c00338-dl.urbanairship.com
   - c00354-dl.urbanairship.com
   - c00355-dl.urbanairship.com
   - c00358-dl.urbanairship.com
@@ -7237,6 +6189,18 @@
   - api.usabilla.com
   - w.usabilla.com
 
+[usermaven.com] (1 removed)
+  - t.usermaven.com
+
+[userzoom.com] (4 removed)
+  - analytics.manager2.userzoom.com
+  - cdn3.userzoom.com
+  - cdn4.userzoom.com
+  - cdn5.userzoom.com
+
+[ushimairi.com] (1 removed)
+  - zoneff10.ushimairi.com
+
 [utop.ir] (1 removed)
   - ad.utop.ir
 
@@ -7249,30 +6213,11 @@
   - atq.ad.valuecommerce.com
   - trj.valuecommerce.com
 
-[vanderweelegroup.com] (1 removed)
-  - www.vanderweelegroup.com
-
-[vane3alga.com] (2 removed)
-  - secure.vane3alga.com
-  - www.vane3alga.com
-
 [vashoot.com] (1 removed)
   - static.vashoot.com
 
-[veeseo.com] (1 removed)
-  - tracking-rce.veeseo.com
-
-[venture-enterprising.com] (1 removed)
-  - secure.venture-enterprising.com
-
-[viaarena.com] (1 removed)
-  - adserve.viaarena.com
-
 [vibe.co] (1 removed)
-  - s.vibe.co
-
-[vicp.cc] (1 removed)
-  - serconsole.vicp.cc
+  - t.vibe.co
 
 [videoplaza.tv] (6 removed)
   - be-rtl.videoplaza.tv
@@ -7286,27 +6231,26 @@
   - api.viglink.com
   - cdn.viglink.com
 
-[visionarybusiness7.com] (1 removed)
-  - secure.visionarybusiness7.com
+[virtumundo.com] (1 removed)
+  - www.virtumundo.com
 
-[visionarybusinessacumen.com] (1 removed)
-  - secure.visionarybusinessacumen.com
+[visitorqueue.com] (1 removed)
+  - t.visitorqueue.com
 
-[visionarycompany52.com] (1 removed)
-  - secure.visionarycompany52.com
+[visx.net] (1 removed)
+  - t.visx.net
 
-[vols7feed.com] (1 removed)
-  - secure.vols7feed.com
+[vitalstatistics.info] (1 removed)
+  - www.vitalstatistics.info
 
-[vortex-win.data.microsoft.com] (2 removed)
-  - v10.vortex-win.data.microsoft.com
-  - v20.vortex-win.data.microsoft.com
+[voicecloud.cn] (1 removed)
+  - log.voicecloud.cn
 
 [vpptechnologies.com] (1 removed)
   - static.vpptechnologies.com
 
-[vrcteam.ru] (1 removed)
-  - tds.vrcteam.ru
+[vrtcal.com] (1 removed)
+  - adplatform.vrtcal.com
 
 [vue-js.cyou] (1 removed)
   - img.vue-js.cyou
@@ -7314,26 +6258,35 @@
 [vwo.com] (1 removed)
   - dacdn.vwo.com
 
+[washingtontimesnewstoday.com] (1 removed)
+  - www.washingtontimesnewstoday.com
+
 [waterchamber.com] (1 removed)
   - www.waterchamber.com
 
 [watergate.tv] (1 removed)
   - www.watergate.tv
 
-[weareknitters.co.uk] (1 removed)
-  - a.weareknitters.co.uk
+[wauk1care.com] (1 removed)
+  - www.wauk1care.com
 
-[weareknitters.com] (1 removed)
-  - a.weareknitters.com
+[wctc.net] (1 removed)
+  - www.wctc.net
 
-[weareknitters.dk] (1 removed)
-  - a.weareknitters.dk
+[web-marketing.ai] (4 removed)
+  - afi.biyou.web-marketing.ai
+  - afi.iryou.web-marketing.ai
+  - afi.school.web-marketing.ai
+  - afi.sougou.web-marketing.ai
 
-[weareknitters.nl] (1 removed)
-  - a.weareknitters.nl
+[webanalytics.europa.eu] (1 removed)
+  - www.webanalytics.europa.eu
 
-[webads.co.uk] (1 removed)
-  - adserver.webads.co.uk
+[webdeki-analyze.com] (1 removed)
+  - www.webdeki-analyze.com
+
+[webdevotee.com] (1 removed)
+  - www.webdevotee.com
 
 [webengage.com] (11 removed)
   - afiles.webengage.com
@@ -7348,25 +6301,49 @@
   - widgets.ksa.webengage.com
   - wsdk-files.webengage.com
 
-[webeyez.com] (1 removed)
-  - sec.webeyez.com
-
-[webithr.com] (1 removed)
+[webithr.com] (2 removed)
+  - rtb2-uswest.webithr.com
   - win-rtb2-useast.webithr.com
+
+[webmasterplan.com] (2 removed)
+  - act.webmasterplan.com
+  - banners.webmasterplan.com
+
+[webmoblink.com] (1 removed)
+  - www.webmoblink.com
 
 [weborama.fr] (2 removed)
   - cstatic.weborama.fr
   - frontend.weborama.fr
 
+[webscouter.net] (2 removed)
+  - ja.webscouter.net
+  - jaicon.webscouter.net
+
+[websitealive3.com] (1 removed)
+  - www.websitealive3.com
+
+[webxion.com] (1 removed)
+  - www.webxion.com
+
+[weeblysite.com] (1 removed)
+  - banvoucher-vn.weeblysite.com
+
+[weighted.com.akadns.net] (2 removed)
+  - bfp.global.dual.dotomi.weighted.com.akadns.net
+  - convex-rr.global.dual.dotomi.weighted.com.akadns.net
+
 [weisseres-lacheln.at] (1 removed)
   - ss.weisseres-lacheln.at
 
-[whitesmoke.com] (1 removed)
-  - get.whitesmoke.com
+[wereport-atelier.fr] (1 removed)
+  - www.wereport-atelier.fr
 
-[widebluetrue.xyz] (2 removed)
-  - redir-v4.widebluetrue.xyz
-  - redir.widebluetrue.xyz
+[whitesmoke.com] (1 removed)
+  - www.whitesmoke.com
+
+[whitesmoke.us] (1 removed)
+  - www.whitesmoke.us
 
 [wieistmeineip.de] (2 removed)
   - as.wieistmeineip.de
@@ -7374,6 +6351,9 @@
 
 [wifi33.com] (1 removed)
   - a.wifi33.com
+
+[wild0army.com] (1 removed)
+  - www.wild0army.com
 
 [wildtangent.com] (1 removed)
   - analytics.wildtangent.com
@@ -7388,16 +6368,27 @@
   - activity.wisepops.com
   - tracking.wisepops.com
 
-[wootric.com] (3 removed)
-  - eligibility.wootric.com
-  - production.wootric.com
-  - survey.wootric.com
+[wnyherp.org] (1 removed)
+  - www.wnyherp.org
 
-[xhost.ro] (1 removed)
-  - ayerbo.xhost.ro
+[worldata.com] (1 removed)
+  - www.worldata.com
 
-[xn--42c9bsq2d4fsbu.com] (1 removed)
-  - www.xn--42c9bsq2d4fsbu.com
+[wowostar.cn] (1 removed)
+  - www.wowostar.cn
+
+[wple.net] (1 removed)
+  - www.wple.net
+
+[wyxcb6.top] (1 removed)
+  - www.wyxcb6.top
+
+[x9.eu] (2 removed)
+  - serwisinformacyjny.x9.eu
+  - wiadomosci-naszemiasto24.x9.eu
+
+[xaqsl.com] (1 removed)
+  - www.xaqsl.com
 
 [xn--mgbkt9eckr.net] (3 removed)
   - mgbkt9eckr.xn--mgbkt9eckr.net
@@ -7411,8 +6402,39 @@
   - ax.xrea.com
   - imgj.xrea.com
 
-[yext.com] (1 removed)
-  - realtimeanalytics.yext.com
+[xtremepush.com] (2 removed)
+  - api.xtremepush.com
+  - s3.xtremepush.com
+
+[xxxpornhd.pro] (1 removed)
+  - pihu.xxxpornhd.pro
+
+[ynuf.aliapp.org] (1 removed)
+  - us.ynuf.aliapp.org
+
+[ynxjf.com] (1 removed)
+  - www.ynxjf.com
+
+[youbora.com] (1 removed)
+  - qa-smartplugin.youbora.com
+
+[yourfuckbook.com] (1 removed)
+  - www.yourfuckbook.com
+
+[yourhobby.ru] (1 removed)
+  - www.yourhobby.ru
+
+[ysm.yahoo.com] (1 removed)
+  - js-apac-ss.ysm.yahoo.com
+
+[yueyuego.com] (1 removed)
+  - www.yueyuego.com
+
+[yumekin.com] (1 removed)
+  - www.yumekin.com
+
+[yymh1113.com] (1 removed)
+  - www.yymh1113.com
 
 [zdbb.net] (4 removed)
   - gurgle.zdbb.net
@@ -7420,20 +6442,19 @@
   - ns.zdbb.net
   - static.zdbb.net
 
-[zhugeapi.net] (1 removed)
-  - u.zhugeapi.net
-
 [ziffdavis.com] (1 removed)
   - static.ziffdavis.com
 
-[zmaticoo.com] (3 removed)
-  - cdn.zmaticoo.com
+[zmaticoo.com] (2 removed)
   - gw-usa-tracker.zmaticoo.com
   - tracker.zmaticoo.com
 
+[zmxncb5.com] (1 removed)
+  - www.zmxncb5.com
+
+[znq.tt.se] (1 removed)
+  - load.znq.tt.se
+
 [zryydi.com] (1 removed)
   - ssp.zryydi.com
-
-[ztod.com] (1 removed)
-  - www.ztod.com
 
