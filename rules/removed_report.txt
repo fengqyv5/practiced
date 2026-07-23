@@ -1,4 +1,4 @@
-# Removed Subdomains Report (8,199 total)
+# Removed Subdomains Report (8,212 total)
 # Format: [Parent Domain] -> Removed Subdomains
 
 [000dn.com] (1 removed)
@@ -147,6 +147,9 @@
 
 [106778d1a7.com] (1 removed)
   - fcfa9c85a8.106778d1a7.com
+
+[10gbfreehost.com] (1 removed)
+  - raiderfanzone.10gbfreehost.com
 
 [10thkitchen.com] (1 removed)
   - www.10thkitchen.com
@@ -405,7 +408,7 @@
 [2kan.org] (1 removed)
   - www.2kan.org
 
-[2o7.net] (317 removed)
+[2o7.net] (318 removed)
   - 102.112.2o7.net
   - 1stcentralinsurancelive.112.2o7.net
   - 1und1drillisch.112.2o7.net
@@ -428,7 +431,6 @@
   - atiprod.112.2o7.net
   - atlanticmedia.122.2o7.net
   - aubankprod.112.2o7.net
-  - audiag.112.2o7.net
   - autozone.com.102.122.2o7.net
   - avalaradev.112.2o7.net
   - avalaraprod.112.2o7.net
@@ -438,6 +440,7 @@
   - bancobradescoportalprod.112.2o7.net
   - barclaysglobalcm.112.2o7.net
   - bbc.112.2o7.net
+  - bcacinchprod.112.2o7.net
   - bcaeuprod.112.2o7.net
   - bcbslailinkblueprod.112.2o7.net
   - bekbprd.112.2o7.net
@@ -502,6 +505,7 @@
   - dfbdfbnetprod.112.2o7.net
   - dfbfussballdeprod.112.2o7.net
   - dfbpunktespielprod.112.2o7.net
+  - dfbsciene2goalprod.112.2o7.net
   - dgag.112.2o7.net
   - discoverbankprod.112.2o7.net
   - dragerwerk.122.2o7.net
@@ -1486,6 +1490,9 @@
 [addwish.com] (1 removed)
   - www.addwish.com
 
+[addynamix.com] (1 removed)
+  - www.addynamix.com
+
 [adflores.com] (4 removed)
   - filter.adflores.com
   - login.adflores.com
@@ -2284,9 +2291,10 @@
 [animeonline.net] (1 removed)
   - www.animeonline.net
 
-[aniview.com] (17 removed)
+[aniview.com] (18 removed)
   - go1.aniview.com
   - gov.aniview.com
+  - manage.aniview.com
   - owserv.aniview.com
   - player.aniview.com
   - premiumsrv.aniview.com
@@ -2322,7 +2330,8 @@
 [api.qgraph.io] (1 removed)
   - sdk.api.qgraph.io
 
-[api.useinsider.com] (21 removed)
+[api.useinsider.com] (22 removed)
+  - arabam.api.useinsider.com
   - aryuder.api.useinsider.com
   - assets.api.useinsider.com
   - cnnturk.api.useinsider.com
@@ -2650,9 +2659,6 @@
 [baminw.cn] (2 removed)
   - h.baminw.cn
   - j.baminw.cn
-
-[bandexperts.com] (1 removed)
-  - www.bandexperts.com
 
 [banghra.com] (1 removed)
   - www.banghra.com
@@ -3117,7 +3123,7 @@
 [cda84af905.com] (1 removed)
   - f373c4c8d6.cda84af905.com
 
-[cdn.optimizely.com] (1099 removed)
+[cdn.optimizely.com] (1101 removed)
   - a10083930701.cdn.optimizely.com
   - a1010542634.cdn.optimizely.com
   - a10135402646.cdn.optimizely.com
@@ -3256,7 +3262,6 @@
   - a16909830060.cdn.optimizely.com
   - a16943174984.cdn.optimizely.com
   - a16954880846.cdn.optimizely.com
-  - a17024231970.cdn.optimizely.com
   - a17026340012.cdn.optimizely.com
   - a17026851333.cdn.optimizely.com
   - a17053551565.cdn.optimizely.com
@@ -3276,6 +3281,7 @@
   - a17432131820.cdn.optimizely.com
   - a17445442224.cdn.optimizely.com
   - a17448560028.cdn.optimizely.com
+  - a17461830014.cdn.optimizely.com
   - a17476411934.cdn.optimizely.com
   - a17477841202.cdn.optimizely.com
   - a17495331463.cdn.optimizely.com
@@ -3394,6 +3400,7 @@
   - a208064236.cdn.optimizely.com
   - a20807430341.cdn.optimizely.com
   - a20843150475.cdn.optimizely.com
+  - a20864490461.cdn.optimizely.com
   - a20864580600.cdn.optimizely.com
   - a20883850312.cdn.optimizely.com
   - a20896371799.cdn.optimizely.com
@@ -4106,6 +4113,7 @@
   - a61135178.cdn.optimizely.com
   - a6131884851.cdn.optimizely.com
   - a6136581106.cdn.optimizely.com
+  - a6147442509348864.cdn.optimizely.com
   - a6147784059912192.cdn.optimizely.com
   - a6157793305034752.cdn.optimizely.com
   - a6169963916951552.cdn.optimizely.com
@@ -4709,6 +4717,9 @@
 [cruzit.com] (1 removed)
   - www.cruzit.com
 
+[cruzresorts.com] (1 removed)
+  - www.cruzresorts.com
+
 [crypto-webminer.com] (1 removed)
   - www.crypto-webminer.com
 
@@ -4852,9 +4863,6 @@
 
 [dd795a9d50.com] (1 removed)
   - b78b08af88.dd795a9d50.com
-
-[ddzimu.com] (1 removed)
-  - www.ddzimu.com
 
 [deanowens.com] (1 removed)
   - www.deanowens.com
@@ -5344,10 +5352,9 @@
 [edd41b7f68.com] (1 removed)
   - ba4f24e107.edd41b7f68.com
 
-[edgeone.app] (3 removed)
+[edgeone.app] (2 removed)
   - dimupdate.edgeone.app
   - modeel-dpuxqwbcglha.edgeone.app
-  - tms21.edgeone.app
 
 [edigest.ru] (1 removed)
   - nanofantiki.edigest.ru
@@ -5869,7 +5876,6 @@
   - 29ccd.v.fwmrm.net
   - 2e6f8.v.fwmrm.net
   - 5af10.v.fwmrm.net
-  - 5c910.v.fwmrm.net
   - 5cae3.v.fwmrm.net
   - 5d0b6.v.fwmrm.net
   - 5d3e9.v.fwmrm.net
@@ -5940,6 +5946,7 @@
   - 82b3a.v.fwmrm.net
   - 82b67.v.fwmrm.net
   - 82c6c.v.fwmrm.net
+  - 82d2b.v.fwmrm.net
   - 82df6.v.fwmrm.net
   - 82df7.v.fwmrm.net
   - 82e00.v.fwmrm.net
@@ -6474,6 +6481,9 @@
 [hi1222.com] (1 removed)
   - m.hi1222.com
 
+[hightidesuffolk.com] (1 removed)
+  - kkid.hightidesuffolk.com
+
 [hiiir.com] (1 removed)
   - log.hiiir.com
 
@@ -6782,10 +6792,6 @@
 [insightful-company-52.com] (2 removed)
   - secure.insightful-company-52.com
   - www.insightful-company-52.com
-
-[insplanet.com] (2 removed)
-  - di.insplanet.com
-  - www.insplanet.com
 
 [instaforex.com] (1 removed)
   - banners.instaforex.com
@@ -7156,6 +7162,9 @@
 [leadsrx.com] (1 removed)
   - app.leadsrx.com
 
+[leanback.digital] (1 removed)
+  - www.leanback.digital
+
 [leanlab.co] (2 removed)
   - invite.leanlab.co
   - track.leanlab.co
@@ -7169,9 +7178,6 @@
 
 [leibish.com] (1 removed)
   - www.leibish.com
-
-[lemrock.com] (1 removed)
-  - cdn.lemrock.com
 
 [lenta.tech] (1 removed)
   - otel-collector.lenta.tech
@@ -7345,9 +7351,6 @@
 
 [lightad.com] (1 removed)
   - sync.platform.lightad.com
-
-[lightstylist.com] (1 removed)
-  - www.lightstylist.com
 
 [linicom.com] (1 removed)
   - www.linicom.com
@@ -7945,10 +7948,6 @@
   - www.meuble-design.net.jumia.ug
   - www.nil-egypte.net.jumia.ug
 
-[netcommunities.com] (2 removed)
-  - ads.netcommunities.com
-  - www.netcommunities.com
-
 [netcoresmartech.com] (1 removed)
   - cdnt.netcoresmartech.com
 
@@ -8141,7 +8140,7 @@
   - videos.oms.eu
   - www.oms.eu
 
-[omtrdc.net] (1771 removed)
+[omtrdc.net] (1783 removed)
   - 1und1.de.ssl.sc.omtrdc.net
   - 247sports.com.ssl.sc.omtrdc.net
   - 53.com.ssl.d2.sc.omtrdc.net
@@ -8286,6 +8285,7 @@
   - audible.sc.omtrdc.net
   - aunica.d1.sc.omtrdc.net
   - australianewzealandb.tt.omtrdc.net
+  - autobild.de.ssl.sc.omtrdc.net
   - autoclubgroup.tt.omtrdc.net
   - autodesk.com.ssl.sc.omtrdc.net
   - autodesk.tt.omtrdc.net
@@ -8320,7 +8320,6 @@
   - bankofamerica1.sc.omtrdc.net
   - bankofmontreal.tt.omtrdc.net
   - bankwest.sc.omtrdc.net
-  - bankwithunited.tt.omtrdc.net
   - banquepopulaire.d3.sc.omtrdc.net
   - barcalicensingandmerchandising.sc.omtrdc.net
   - barcelogestionhotele.tt.omtrdc.net
@@ -8380,6 +8379,7 @@
   - bjsrestaurants.tt.omtrdc.net
   - blackhawknet.tt.omtrdc.net
   - blackhawknetwork.tt.omtrdc.net
+  - blackwoods.tt.omtrdc.net
   - bluecross.tt.omtrdc.net
   - bmo.com.ssl.d1.sc.omtrdc.net
   - bmwag.d3.sc.omtrdc.net
@@ -8431,6 +8431,7 @@
   - cadence.tt.omtrdc.net
   - caesars.com.ssl.sc.omtrdc.net
   - caixabank.es.ssl.sc.omtrdc.net
+  - calgary.tt.omtrdc.net
   - canada.sc.omtrdc.net
   - canada.tt.omtrdc.net
   - canadamediafund.sc.omtrdc.net
@@ -8586,6 +8587,7 @@
   - crutchfield.com.ssl.sc.omtrdc.net
   - css.ch.ssl.sc.omtrdc.net
   - ctie.d3.sc.omtrdc.net
+  - ctshirts.com.ssl.d2.sc.omtrdc.net
   - currys.co.uk.ssl.sc.omtrdc.net
   - cvag.d3.sc.omtrdc.net
   - cvs.sc.omtrdc.net
@@ -8671,7 +8673,6 @@
   - dteenergy.tt.omtrdc.net
   - dtveg.sc.omtrdc.net
   - dufryinternationalag.tt.omtrdc.net
-  - duluthtrading.com.ssl.d2.sc.omtrdc.net
   - duluthtrading.tt.omtrdc.net
   - dumontnet.d3.sc.omtrdc.net
   - dumontnet.sc.omtrdc.net
@@ -8682,6 +8683,7 @@
   - dyson.tt.omtrdc.net
   - eatoncorporation.tt.omtrdc.net
   - ecampus.tt.omtrdc.net
+  - edu.au.ssl.sc.omtrdc.net
   - edu.ssl.sc.omtrdc.net
   - educationfirst.tt.omtrdc.net
   - ee.co.uk.d3.sc.omtrdc.net
@@ -8811,6 +8813,7 @@
   - foxsports.com.ssl.d2.sc.omtrdc.net
   - foxtel.d2.sc.omtrdc.net
   - foxtel.tt.omtrdc.net
+  - fpl.com.ssl.sc.omtrdc.net
   - fressnapf.de.ssl.sc.omtrdc.net
   - fressnapftiernahrung.tt.omtrdc.net
   - frontiercomm.tt.omtrdc.net
@@ -8830,6 +8833,8 @@
   - generalmotorscorpora.tt.omtrdc.net
   - genuinepartscompany.tt.omtrdc.net
   - georgfischerag.tt.omtrdc.net
+  - gepowerandwater.d2.sc.omtrdc.net
+  - gepowerandwater.tt.omtrdc.net
   - glaxosmithklinebeech.tt.omtrdc.net
   - gmc.com.ssl.sc.omtrdc.net
   - gmfinancial.tt.omtrdc.net
@@ -8963,6 +8968,7 @@
   - insper.tt.omtrdc.net
   - integryssjc.d1.sc.omtrdc.net
   - intelligence.sc.omtrdc.net
+  - intelligence.tt.omtrdc.net
   - interbank.sc.omtrdc.net
   - interbank.tt.omtrdc.net
   - interface.tt.omtrdc.net
@@ -8983,6 +8989,7 @@
   - jcpenney.com.ssl.sc.omtrdc.net
   - jcpenney.sc.omtrdc.net
   - jcpenney.tt.omtrdc.net
+  - jjill.com.ssl.sc.omtrdc.net
   - johnhancockfinancial.tt.omtrdc.net
   - johnhancockfinancialservices.sc.omtrdc.net
   - johnlewis.sc.omtrdc.net
@@ -9128,6 +9135,7 @@
   - medscape.com.ssl.sc.omtrdc.net
   - medtronicinc.tt.omtrdc.net
   - meijer.tt.omtrdc.net
+  - memberdeals.com.ssl.sc.omtrdc.net
   - membertoolsapp.sc.omtrdc.net
   - mercer.sc.omtrdc.net
   - mercer.tt.omtrdc.net
@@ -9248,6 +9256,7 @@
   - nissanheliosna.tt.omtrdc.net
   - nissanheliossa.d3.sc.omtrdc.net
   - nissanheliossa.tt.omtrdc.net
+  - nissanjp.sc.omtrdc.net
   - norauto.d3.sc.omtrdc.net
   - norauto.tt.omtrdc.net
   - nordea.d3.sc.omtrdc.net
@@ -9261,6 +9270,7 @@
   - novomineemeapartnersandbox.sc.omtrdc.net
   - novonordisk.tt.omtrdc.net
   - novonordiskas.d1.sc.omtrdc.net
+  - nuffieldhealth.sc.omtrdc.net
   - nutanix.tt.omtrdc.net
   - nvda.d2.sc.omtrdc.net
   - nvidia.com.ssl.sc.omtrdc.net
@@ -9325,6 +9335,7 @@
   - petco.tt.omtrdc.net
   - pfapension.tt.omtrdc.net
   - pfizer.sc.omtrdc.net
+  - pfizer.tt.omtrdc.net
   - pge.tt.omtrdc.net
   - philipselectronicsne.tt.omtrdc.net
   - philipslighting.d3.sc.omtrdc.net
@@ -9372,7 +9383,7 @@
   - quill.com.ssl.d1.sc.omtrdc.net
   - r8ghmxxpnj.tt.omtrdc.net
   - radio-canada.ca.ssl.sc.omtrdc.net
-  - raiservices.sc.omtrdc.net
+  - radissonhotels.com.ssl.sc.omtrdc.net
   - ralphlauren.com.ssl.sc.omtrdc.net
   - rand.d1.sc.omtrdc.net
   - ray-ban.com.ssl.d2.sc.omtrdc.net
@@ -9427,7 +9438,6 @@
   - rsicajarural.sc.omtrdc.net
   - rtldisneyfernsehengm.tt.omtrdc.net
   - rtve.d1.sc.omtrdc.net
-  - rtve.es.ssl.sc.omtrdc.net
   - rtve.sc.omtrdc.net
   - sacombank.tt.omtrdc.net
   - safeway.com.ssl.sc.omtrdc.net
@@ -9593,7 +9603,6 @@
   - sumitomomitsuicard.tt.omtrdc.net
   - sunbeltrentals.tt.omtrdc.net
   - suncorpmetwayltd.tt.omtrdc.net
-  - sunglasshut.com.ssl.sc.omtrdc.net
   - sunlife.com.ssl.sc.omtrdc.net
   - sunlife.sc.omtrdc.net
   - sunrise.d3.sc.omtrdc.net
@@ -9646,7 +9655,6 @@
   - tescomobile.tt.omtrdc.net
   - tescostores.sc.omtrdc.net
   - theamericannationalr.tt.omtrdc.net
-  - theaustralian.com.au.ssl.sc.omtrdc.net
   - theboeingcompany.tt.omtrdc.net
   - thechannelcompany.d1.sc.omtrdc.net
   - thecontainerstore.sc.omtrdc.net
@@ -9658,6 +9666,7 @@
   - thermofisher.com.ssl.d2.sc.omtrdc.net
   - thesalvationarmy.sc.omtrdc.net
   - thesalvationarmy.tt.omtrdc.net
+  - thestar.com.ssl.sc.omtrdc.net
   - thetjxcompaniesinc.tt.omtrdc.net
   - thevanguardgroup.tt.omtrdc.net
   - thomsonreuterscorporategroupweb.sc.omtrdc.net
@@ -9673,6 +9682,7 @@
   - tirerack.tt.omtrdc.net
   - titan.tt.omtrdc.net
   - titancompanylimited.sc.omtrdc.net
+  - tlc.com.ssl.sc.omtrdc.net
   - tmd.sc.omtrdc.net
   - tmobile.sc.omtrdc.net
   - tmobile.tt.omtrdc.net
@@ -9776,6 +9786,7 @@
   - vanguard.d2.sc.omtrdc.net
   - vanityfair.com.sc.omtrdc.net
   - verisk.d1.sc.omtrdc.net
+  - veritivoperatingcomp.tt.omtrdc.net
   - verizon.com.ssl.d1.sc.omtrdc.net
   - verizonenterprisesol.tt.omtrdc.net
   - verizontelecom.sc.omtrdc.net
@@ -9996,15 +10007,14 @@
 [orbengine.com] (1 removed)
   - cdn.orbengine.com
 
+[orderis-online.club] (1 removed)
+  - olx.orderis-online.club
+
 [organicgardeninfo.com] (1 removed)
   - www.organicgardeninfo.com
 
 [originalicons.com] (1 removed)
   - www.originalicons.com
-
-[orredersi.click] (2 removed)
-  - olx.orredersi.click
-  - poczta-polska.orredersi.click
 
 [ostr.io] (1 removed)
   - analytics.ostr.io
@@ -10111,7 +10121,7 @@
 [perimentu.com] (1 removed)
   - www.perimentu.com
 
-[perimeterx.net] (120 removed)
+[perimeterx.net] (119 removed)
   - collector-a.perimeterx.net
   - collector-dl82i3ui.perimeterx.net
   - collector-px0n3xmol0.perimeterx.net
@@ -10164,7 +10174,6 @@
   - collector-pxgm4fv3vc.perimeterx.net
   - collector-pxgnttli3a.perimeterx.net
   - collector-pxgw9avgdm.perimeterx.net
-  - collector-pxhi2twrim.perimeterx.net
   - collector-pxhs8nb9wj.perimeterx.net
   - collector-pxhxem8del.perimeterx.net
   - collector-pxhyx10rg3.perimeterx.net
@@ -10515,7 +10524,7 @@
 [pushnative.com] (1 removed)
   - go.pushnative.com
 
-[pushwoosh.com] (25 removed)
+[pushwoosh.com] (24 removed)
   - 117948.pushwoosh.com
   - aajtak.pushwoosh.com
   - agora.pushwoosh.com
@@ -10534,7 +10543,6 @@
   - ha.pushwoosh.com
   - help.pushwoosh.com
   - media-files.pushwoosh.com
-  - media24.pushwoosh.com
   - nestle-waters.pushwoosh.com
   - nestle.pushwoosh.com
   - post-log.pushwoosh.com
@@ -10550,9 +10558,6 @@
 
 [qertewrt.com] (1 removed)
   - hlok.qertewrt.com
-
-[qishuimusic.org] (1 removed)
-  - www.qishuimusic.org
 
 [quantcast.com] (2 removed)
   - aboutads.quantcast.com
@@ -10821,9 +10826,6 @@
 [roverinvolv.bid] (1 removed)
   - prk.roverinvolv.bid
 
-[rs6.net] (1 removed)
-  - a.rs6.net
-
 [rsptrack.com] (1 removed)
   - www.rsptrack.com
 
@@ -10847,12 +10849,13 @@
   - 11.rtcode.com
   - www.rtcode.com
 
-[rubiconproject.com] (45 removed)
+[rubiconproject.com] (46 removed)
   - ads-dev0.rubiconproject.com
   - ads.rubiconproject.com
   - beacon-ams3.rubiconproject.com
   - beacon-fra2.rubiconproject.com
   - beacon-iad6.rubiconproject.com
+  - beacon-nf-sin1.rubiconproject.com
   - beacon-nf.rubiconproject.com
   - beacon-sin1.rubiconproject.com
   - beacon-sjc4.rubiconproject.com
@@ -11547,6 +11550,9 @@
 [stape.bokksu.com] (1 removed)
   - load.stape.bokksu.com
 
+[stape.cips.org] (1 removed)
+  - load.stape.cips.org
+
 [startnow.com] (1 removed)
   - adserver.startnow.com
 
@@ -12059,8 +12065,9 @@
   - cloud.umami.is
   - gateway.umami.is
 
-[unaux.com] (2 removed)
+[unaux.com] (3 removed)
   - aaaaaaa.unaux.com
+  - mensajeriapocz8080000.unaux.com
   - voxnypod.unaux.com
 
 [unibet.com] (1 removed)
@@ -12100,7 +12107,7 @@
   - filter.uptowntraction.com
   - xml.uptowntraction.com
 
-[urbanairship.com] (54 removed)
+[urbanairship.com] (55 removed)
   - c00001-dl.urbanairship.com
   - c00028-dl.urbanairship.com
   - c00029-dl.urbanairship.com
@@ -12132,6 +12139,7 @@
   - c00252-dl.urbanairship.com
   - c00253-dl.urbanairship.com
   - c00304-dl.urbanairship.com
+  - c00305-dl.urbanairship.com
   - c00307-dl.urbanairship.com
   - c00316-dl.urbanairship.com
   - c00328-dl.urbanairship.com
@@ -12419,6 +12427,9 @@
 
 [webdeki-analyze.com] (1 removed)
   - www.webdeki-analyze.com
+
+[webdesignmetric.com] (1 removed)
+  - www.webdesignmetric.com
 
 [webdevotee.com] (1 removed)
   - www.webdevotee.com
