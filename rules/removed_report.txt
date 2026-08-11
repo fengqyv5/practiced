@@ -1,4 +1,4 @@
-# Removed Subdomains Report (8,299 total)
+# Removed Subdomains Report (8,329 total)
 # Format: [Parent Domain] -> Removed Subdomains
 
 [000dn.com] (1 removed)
@@ -36,6 +36,9 @@
 
 [03c4e4cc73.com] (1 removed)
   - d55b071143.03c4e4cc73.com
+
+[03d756a534.com] (1 removed)
+  - ed4d4f79a7.03d756a534.com
 
 [0491166852.com] (1 removed)
   - c7ca525b2e.0491166852.com
@@ -138,6 +141,9 @@
 [131076.com] (1 removed)
   - www.131076.com
 
+[13121e3d88.com] (1 removed)
+  - dcc3de1f8b.13121e3d88.com
+
 [13311tower.com] (1 removed)
   - www.13311tower.com
 
@@ -173,6 +179,9 @@
 
 [171starbucks.com] (1 removed)
   - www.171starbucks.com
+
+[17282cd89c.com] (1 removed)
+  - 3629b5de24.17282cd89c.com
 
 [1748dejateseducir.com] (1 removed)
   - www.1748dejateseducir.com
@@ -761,6 +770,9 @@
 [3boyutludestek.org] (1 removed)
   - www.3boyutludestek.org
 
+[3dedca7f84.com] (1 removed)
+  - d6cc6c0a1c.3dedca7f84.com
+
 [3deepspace.com] (1 removed)
   - www.3deepspace.com
 
@@ -939,6 +951,9 @@
 [5e3d5f480f.com] (1 removed)
   - 05e76a16b8.5e3d5f480f.com
 
+[5e9cb65c2c.com] (1 removed)
+  - be8f770864.5e9cb65c2c.com
+
 [5ea748c035.com] (1 removed)
   - 1fe6b5ca5a.5ea748c035.com
 
@@ -972,6 +987,9 @@
 
 [66wen.com] (1 removed)
   - www.66wen.com
+
+[676759a2a4.com] (1 removed)
+  - fdf7da59b4.676759a2a4.com
 
 [680e6a23f1.com] (1 removed)
   - 737d5238dc.680e6a23f1.com
@@ -1016,6 +1034,9 @@
 
 [7d2f96eee0.com] (1 removed)
   - 2811a831e2.7d2f96eee0.com
+
+[7d44c6ba4d.com] (1 removed)
+  - baff667d7a.7d44c6ba4d.com
 
 [7d909fb540.com] (1 removed)
   - 963a45e65f.7d909fb540.com
@@ -1152,6 +1173,9 @@
 [a567dda4c2.com] (1 removed)
   - 0eab70c429.a567dda4c2.com
 
+[a6c5669865.com] (1 removed)
+  - 27f271a51c.a6c5669865.com
+
 [a8.net] (37 removed)
   - ad-verification.a8.net
   - ad.a8.net
@@ -1193,6 +1217,9 @@
 
 [a910d264c4.com] (1 removed)
   - 3b30612d89.a910d264c4.com
+
+[aaa8f4d18b.com] (1 removed)
+  - 75cec2c697.aaa8f4d18b.com
 
 [aaee5b74e1.com] (1 removed)
   - 76de0a4b08.aaee5b74e1.com
@@ -1906,7 +1933,8 @@
 [alohasafealert.org] (1 removed)
   - www.alohasafealert.org
 
-[alt.com] (3 removed)
+[alt.com] (4 removed)
+  - ads.alt.com
   - adserver.alt.com
   - banners.alt.com
   - geobanner.alt.com
@@ -2494,6 +2522,9 @@
 [b173280abe.com] (1 removed)
   - 01466b626e.b173280abe.com
 
+[b1814392f8.com] (1 removed)
+  - 5ea8bf8a93.b1814392f8.com
+
 [b4a03471a7.com] (1 removed)
   - 708ec1c33c.b4a03471a7.com
 
@@ -2509,6 +2540,9 @@
 
 [b8763ae795.com] (1 removed)
   - 85dcec5317.b8763ae795.com
+
+[b9e2865ec3.com] (1 removed)
+  - 76929a9d41.b9e2865ec3.com
 
 [babybubblestore.com] (1 removed)
   - sst.babybubblestore.com
@@ -2656,9 +2690,6 @@
 
 [bigoption.com] (1 removed)
   - www.bigoption.com
-
-[bigpremiere.com] (1 removed)
-  - www.bigpremiere.com
 
 [bio-identical-testosterone.com] (1 removed)
   - www.bio-identical-testosterone.com
@@ -2882,8 +2913,14 @@
   - zdjecienago2.c.pl
   - zebywybielanie.c.pl
 
+[c3a36bbaca.com] (1 removed)
+  - 5110f56bf0.c3a36bbaca.com
+
 [c40e234db8.com] (1 removed)
   - 201c741203.c40e234db8.com
+
+[c4ff1123f0.com] (1 removed)
+  - 1099d89511.c4ff1123f0.com
 
 [c4tdownload.com] (1 removed)
   - www.c4tdownload.com
@@ -4718,6 +4755,14 @@
 [dcurtis.com] (1 removed)
   - www.dcurtis.com
 
+[ddns.info] (6 removed)
+  - clientennota-webnl.ddns.info
+  - secure-verify-account.ddns.info
+  - secure-verify-info.ddns.info
+  - secure-verify-update.ddns.info
+  - security-update.ddns.info
+  - update-security.ddns.info
+
 [ddzimu.com] (1 removed)
   - www.ddzimu.com
 
@@ -5147,6 +5192,9 @@
 [e5ad8b54ee.com] (1 removed)
   - 00c6c88efd.e5ad8b54ee.com
 
+[e6c84e5378.com] (1 removed)
+  - e696432950.e6c84e5378.com
+
 [e7d783f480.com] (1 removed)
   - 1c0ec60324.e7d783f480.com
 
@@ -5158,6 +5206,9 @@
 
 [eacla.com] (1 removed)
   - c.eacla.com
+
+[earnapp.com] (1 removed)
+  - client.earnapp.com
 
 [earnmydegree.com] (1 removed)
   - forms.earnmydegree.com
@@ -5319,8 +5370,15 @@
   - media.espace-plus.net
   - regie.espace-plus.net
 
-[eu.viatrisconnect.com] (1 removed)
+[ethereuminfracon.com] (1 removed)
+  - www.ethereuminfracon.com
+
+[etropo.com] (1 removed)
+  - www.etropo.com
+
+[eu.viatrisconnect.com] (2 removed)
   - pm.eu.viatrisconnect.com
+  - www.eu.viatrisconnect.com
 
 [eum-appdynamics.com] (10 removed)
   - bom-col.eum-appdynamics.com
@@ -5523,6 +5581,9 @@
 [feedify.net] (1 removed)
   - cdn.feedify.net
 
+[feedstermedia.com] (1 removed)
+  - www.feedstermedia.com
+
 [fef49e81cc.com] (1 removed)
   - a66fcca10a.fef49e81cc.com
 
@@ -5539,8 +5600,9 @@
 [ff5860d583.com] (1 removed)
   - c47eefb591.ff5860d583.com
 
-[fhserve.com] (1 removed)
+[fhserve.com] (2 removed)
   - secure.fhserve.com
+  - www.fhserve.com
 
 [fileparade.com] (1 removed)
   - www.fileparade.com
@@ -5667,6 +5729,9 @@
   - banners.friendfinder.com
   - geobanner.friendfinder.com
   - openads.friendfinder.com
+
+[frodo.space] (1 removed)
+  - a.frodo.space
 
 [frodx.com] (1 removed)
   - tracking-sap.frodx.com
@@ -5813,6 +5878,9 @@
 
 [g00.msn.com] (1 removed)
   - c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
+
+[gaicodon.com] (1 removed)
+  - www.gaicodon.com
 
 [gaiis.com] (1 removed)
   - www.gaiis.com
@@ -6138,6 +6206,9 @@
 
 [gplate.de] (1 removed)
   - load.gtm.gplate.de
+
+[grandmatootsy.com] (1 removed)
+  - et.grandmatootsy.com
 
 [grandtables.com] (1 removed)
   - www.grandtables.com
@@ -6598,8 +6669,9 @@
 [insight.rakuten.us] (1 removed)
   - member.insight.rakuten.us
 
-[insplanet.com] (1 removed)
+[insplanet.com] (2 removed)
   - di.insplanet.com
+  - www.insplanet.com
 
 [instaforex.com] (1 removed)
   - banners.instaforex.com
@@ -6864,9 +6936,6 @@
 
 [knkpublishingsoftware.com] (1 removed)
   - www.knkpublishingsoftware.com
-
-[knobbyrefrigerator.pro] (1 removed)
-  - www.knobbyrefrigerator.pro
 
 [knowyourapps.com] (1 removed)
   - www.knowyourapps.com
@@ -7716,6 +7785,9 @@
 [mondoperaio.net] (1 removed)
   - www.mondoperaio.net
 
+[moninas.store] (1 removed)
+  - a.moninas.store
+
 [moov.com] (1 removed)
   - www.moov.com
 
@@ -7724,6 +7796,9 @@
   - collect.mopinion.com
   - fonts.mopinion.com
   - metrics.mopinion.com
+
+[motionlink.jp] (1 removed)
+  - www.motionlink.jp
 
 [mozzila.org] (2 removed)
   - addons.mozzila.org
@@ -10958,6 +11033,9 @@
   - o209266.ingest.us.sentry.io
   - o861134.ingest.sentry.io
 
+[servenobids.com] (1 removed)
+  - events.servenobids.com
+
 [service.just.nl] (2 removed)
   - tracking.service.just.nl
   - www.service.just.nl
@@ -11319,9 +11397,6 @@
 [sobrecesped.com] (1 removed)
   - www.sobrecesped.com
 
-[softpebble.com] (1 removed)
-  - www.softpebble.com
-
 [solemnlybuck.com] (1 removed)
   - fowl.solemnlybuck.com
 
@@ -11491,9 +11566,6 @@
 [studiostack.com] (1 removed)
   - sr.studiostack.com
 
-[stylistnet.com] (1 removed)
-  - www.stylistnet.com
-
 [suavecitoo.org] (1 removed)
   - c4n.suavecitoo.org
 
@@ -11506,9 +11578,6 @@
 
 [sunnyshore.xyz] (1 removed)
   - redir.sunnyshore.xyz
-
-[superacionpobreza.cl] (1 removed)
-  - www.superacionpobreza.cl
 
 [superchatlive.com] (1 removed)
   - creative.superchatlive.com
@@ -11993,9 +12062,6 @@
 
 [univparis1.fr] (1 removed)
   - www.univparis1.fr
-
-[untrueaddition.pro] (1 removed)
-  - www.untrueaddition.pro
 
 [upqzfile.com] (3 removed)
   - mobilelog.upqzfile.com
@@ -12581,6 +12647,10 @@
   - ax.xrea.com
   - ct1.xrea.com
   - imgj.xrea.com
+
+[xtremepush.com] (2 removed)
+  - api.xtremepush.com
+  - s3.xtremepush.com
 
 [xxxpornhd.pro] (2 removed)
   - crumpet.xxxpornhd.pro
