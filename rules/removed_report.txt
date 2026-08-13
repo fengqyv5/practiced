@@ -1,4 +1,4 @@
-# Removed Subdomains Report (8,355 total)
+# Removed Subdomains Report (8,333 total)
 # Format: [Parent Domain] -> Removed Subdomains
 
 [000dn.com] (1 removed)
@@ -2534,10 +2534,6 @@
 [b4b00ff6ab.com] (1 removed)
   - b6ed49d650.b4b00ff6ab.com
 
-[b6vcmy.qpon] (2 removed)
-  - oi-lx-nc61-poc.b6vcmy.qpon
-  - oy14x-vo71.b6vcmy.qpon
-
 [b73f89c4ab.com] (1 removed)
   - 6fa14d5b18.b73f89c4ab.com
 
@@ -2693,6 +2689,9 @@
 
 [bigoption.com] (1 removed)
   - www.bigoption.com
+
+[bigpremiere.com] (1 removed)
+  - www.bigpremiere.com
 
 [bio-identical-testosterone.com] (1 removed)
   - www.bio-identical-testosterone.com
@@ -5257,9 +5256,6 @@
 [eda4dc1ffe.com] (1 removed)
   - 138124e964.eda4dc1ffe.com
 
-[edgeone.app] (1 removed)
-  - dimupdate.edgeone.app
-
 [edigest.ru] (1 removed)
   - nanofantiki.edigest.ru
 
@@ -6253,6 +6249,9 @@
 [gtm.tarpofix.com] (1 removed)
   - load.gtm.tarpofix.com
 
+[guance.com] (1 removed)
+  - rum-openway.guance.com
+
 [guardianapps.co.uk] (1 removed)
   - embedded-video.guardianapps.co.uk
 
@@ -6960,12 +6959,6 @@
 
 [kreps.xyz] (1 removed)
   - a.kreps.xyz
-
-[ks6gdt.qpon] (4 removed)
-  - 2g2wz.ks6gdt.qpon
-  - g2.ks6gdt.qpon
-  - lw9.ks6gdt.qpon
-  - xh.ks6gdt.qpon
 
 [ksds.jp] (2 removed)
   - s1919315.ksds.jp
@@ -8061,9 +8054,6 @@
 [node7seat.com] (2 removed)
   - secure.node7seat.com
   - www.node7seat.com
-
-[noosha.icu] (1 removed)
-  - olx.noosha.icu
 
 [norm0care.com] (3 removed)
   - capture.norm0care.com
@@ -10948,9 +10938,6 @@
 [salesmanago.pl] (1 removed)
   - sy.salesmanago.pl
 
-[salinaocnelemari.ro] (1 removed)
-  - www.salinaocnelemari.ro
-
 [salliemaebenefits.com] (1 removed)
   - www.salliemaebenefits.com
 
@@ -11874,9 +11861,6 @@
 [tr1net.com] (1 removed)
   - o.tr1net.com
 
-[trackapp.io] (1 removed)
-  - www.trackapp.io
-
 [trackbee.io] (1 removed)
   - www.trackbee.io
 
@@ -12032,10 +12016,6 @@
 
 [txart.me] (1 removed)
   - www.txart.me
-
-[u4utck.top] (2 removed)
-  - o11x-labqk88.u4utck.top
-  - o1i-1x-8k94-up.u4utck.top
 
 [ublock.org] (1 removed)
   - ping.ublock.org
@@ -12463,9 +12443,6 @@
 [webeyez.com] (1 removed)
   - sec.webeyez.com
 
-[webindicator.ru] (1 removed)
-  - www.webindicator.ru
-
 [webithr.com] (3 removed)
   - rtb2-uswest.webithr.com
   - win-rtb2-useast.webithr.com
@@ -12613,14 +12590,6 @@
 [x2lt.com] (1 removed)
   - creatives.x2lt.com
 
-[x8xmho.cfd] (6 removed)
-  - 3b84d.x8xmho.cfd
-  - 3r.x8xmho.cfd
-  - 9kvb.x8xmho.cfd
-  - ljqlt.x8xmho.cfd
-  - s4f.x8xmho.cfd
-  - x7.x8xmho.cfd
-
 [x9.eu] (14 removed)
   - dziennik-info.x9.eu
   - dziennik-polski.x9.eu
@@ -12750,13 +12719,6 @@
 
 [yxrcr.com] (1 removed)
   - cdn.yxrcr.com
-
-[z8wnap.cfd] (5 removed)
-  - 52l59.z8wnap.cfd
-  - 8mz.z8wnap.cfd
-  - k8hh6.z8wnap.cfd
-  - v6v7.z8wnap.cfd
-  - xd3lz.z8wnap.cfd
 
 [zalify.com] (1 removed)
   - pixels.zalify.com
