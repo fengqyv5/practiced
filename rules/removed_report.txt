@@ -1,4 +1,4 @@
-# Removed Subdomains Report (5,435 total)
+# Removed Subdomains Report (5,438 total)
 # Format: [Parent Domain] -> Removed Subdomains
 
 [000dn.com] (1 removed)
@@ -112,13 +112,14 @@
 [2lyikhpb5bigj64nj7.cyou] (1 removed)
   - 5l4f8bq.2lyikhpb5bigj64nj7.cyou
 
-[2o7.net] (253 removed)
+[2o7.net] (258 removed)
   - 102.112.2o7.net
   - 1und1drillisch.112.2o7.net
   - abbotteuadceuprod.112.2o7.net
   - abbotteuanpediasureit.112.2o7.net
   - abcb2b.112.2o7.net
   - activecampaignsubsdev.112.2o7.net
+  - adobemobile.112.2o7.net
   - aeg.112.2o7.net
   - algbotox.112.2o7.net
   - amazonhrhvhuat.112.2o7.net
@@ -129,6 +130,7 @@
   - apl.112.2o7.net
   - appleglobal.112.2o7.net
   - atlanticmedia.122.2o7.net
+  - aubankprod.112.2o7.net
   - audiag.112.2o7.net
   - audiblecreativeexchange.112.2o7.net
   - austrianairlines.122.2o7.net
@@ -155,6 +157,7 @@
   - bpizzabpproduction.112.2o7.net
   - bradycorporation.122.2o7.net
   - brangista.122.2o7.net
+  - bredproduction.112.2o7.net
   - brvknwldgcntrb2bbrvknowledgecenter.112.2o7.net
   - bvbdeprod.112.2o7.net
   - ca.102.122.2o7.net
@@ -230,6 +233,7 @@
   - intintervalworldemail.122.2o7.net
   - jcaholdingclubegiroprodesntls.112.2o7.net
   - jcaholdingjcaprodesntls.112.2o7.net
+  - jcaholdingwemobiprod.112.2o7.net
   - jpmcibmarketsprod.112.2o7.net
   - kakakucom.112.2o7.net
   - kao.112.2o7.net
@@ -270,6 +274,7 @@
   - napaonlinestedicalive.112.2o7.net
   - ncaa.com.102.122.2o7.net
   - ncmecprod.112.2o7.net
+  - ngeo1xxpspnwtouregypt.112.2o7.net
   - nhlbi.122.2o7.net
   - nike.112.2o7.net
   - norautoproduction.112.2o7.net
@@ -899,10 +904,9 @@
 [actiflex.org] (1 removed)
   - cdn.actiflex.org
 
-[actonsoftware.com] (4 removed)
+[actonsoftware.com] (3 removed)
   - a21703.actonsoftware.com
   - ci300.actonsoftware.com
-  - forpci3.actonsoftware.com
   - mktg.actonsoftware.com
 
 [ad-shield.dev] (1 removed)
@@ -2390,7 +2394,6 @@
   - a20775730060.cdn.optimizely.com
   - a208064236.cdn.optimizely.com
   - a20807430341.cdn.optimizely.com
-  - a20837760342.cdn.optimizely.com
   - a20843150475.cdn.optimizely.com
   - a20864580600.cdn.optimizely.com
   - a20883850312.cdn.optimizely.com
@@ -2619,7 +2622,6 @@
   - a24946400112.cdn.optimizely.com
   - a24946920078.cdn.optimizely.com
   - a24948720649.cdn.optimizely.com
-  - a24953040345.cdn.optimizely.com
   - a24953240271.cdn.optimizely.com
   - a24955131524.cdn.optimizely.com
   - a24965780337.cdn.optimizely.com
@@ -2741,6 +2743,7 @@
   - a2605830644.cdn.optimizely.com
   - a26068080745.cdn.optimizely.com
   - a26099350684.cdn.optimizely.com
+  - a261316073.cdn.optimizely.com
   - a26148131217.cdn.optimizely.com
   - a26148840652.cdn.optimizely.com
   - a26152850206.cdn.optimizely.com
@@ -2972,6 +2975,7 @@
   - a4567492492787712.cdn.optimizely.com
   - a4571260584198144.cdn.optimizely.com
   - a4579770793459712.cdn.optimizely.com
+  - a4602001816813568.cdn.optimizely.com
   - a4614783295553536.cdn.optimizely.com
   - a4621041136.cdn.optimizely.com
   - a4638032.cdn.optimizely.com
@@ -3026,6 +3030,7 @@
   - a5294740418068480.cdn.optimizely.com
   - a5324015129067520.cdn.optimizely.com
   - a5334142238326784.cdn.optimizely.com
+  - a5340463188672512.cdn.optimizely.com
   - a5349239316807680.cdn.optimizely.com
   - a5354424722259968.cdn.optimizely.com
   - a5364082103025664.cdn.optimizely.com
@@ -3103,7 +3108,6 @@
   - a6372928330137600.cdn.optimizely.com
   - a6376052200046592.cdn.optimizely.com
   - a6447876130209792.cdn.optimizely.com
-  - a6451678757519360.cdn.optimizely.com
   - a6460373360967680.cdn.optimizely.com
   - a6462871603773440.cdn.optimizely.com
   - a6502622515.cdn.optimizely.com
@@ -3395,9 +3399,6 @@
 
 [collabollc.com] (1 removed)
   - sdk.collabollc.com
-
-[collector.etiketlageret.dk] (1 removed)
-  - load.collector.etiketlageret.dk
 
 [colourpike.com] (1 removed)
   - kit.colourpike.com
@@ -4251,6 +4252,9 @@
 [flarelane.com] (1 removed)
   - service-api.flarelane.com
 
+[fls-na.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.vendorcentral.jobs.amazon.co.za] (1 removed)
+  - jobsnwebdisk.fls-na.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.vendorcentral.jobs.amazon.co.za
+
 [fluencyinc.co] (1 removed)
   - ftm.fluencyinc.co
 
@@ -4733,9 +4737,6 @@
 
 [gjirafa.net] (1 removed)
   - bisko.gjirafa.net
-
-[glb.clouddn.com] (1 removed)
-  - 7xi9g1.com1.z0.glb.clouddn.com
 
 [glgr7orbugl393ehlx5.cyou] (1 removed)
   - igyeqq1g5j4fey55grj.glgr7orbugl393ehlx5.cyou
@@ -5936,9 +5937,6 @@
 [meteora.us] (1 removed)
   - pixel.meteora.us
 
-[metrics.foxy.ai] (1 removed)
-  - load.metrics.foxy.ai
-
 [metrics.quiltingcompany.com] (1 removed)
   - s.metrics.quiltingcompany.com
 
@@ -6378,6 +6376,9 @@
 [oopl4cigu9m95goihb2.cyou] (1 removed)
   - m9ch5.oopl4cigu9m95goihb2.cyou
 
+[oortstorages.com] (1 removed)
+  - adolfoqsalondmacha.standard.us-east-1.oortstorages.com
+
 [ootoo.co.kr] (1 removed)
   - api.ootoo.co.kr
 
@@ -6799,6 +6800,9 @@
 [prebid-server.com] (2 removed)
   - aditude.prebid-server.com
   - cache.prebid-server.com
+
+[premierleague.com.data.adobedc.net] (1 removed)
+  - data.email.premierleague.com.data.adobedc.net
 
 [presscommtech.com] (1 removed)
   - adv.presscommtech.com
@@ -7733,13 +7737,16 @@
 [sportbagsshop.com] (1 removed)
   - www.sportbagsshop.com
 
+[sportlandlv.com] (1 removed)
+  - ochnik.sportlandlv.com
+
 [sportsevents365.com] (1 removed)
   - track.sportsevents365.com
 
 [spoteffects.net] (1 removed)
   - trck.spoteffects.net
 
-[springserve.com] (23 removed)
+[springserve.com] (22 removed)
   - assets.springserve.com
   - aud.springserve.com
   - bc-ssb-dub.springserve.com
@@ -7754,7 +7761,6 @@
   - sync.springserve.com
   - tiles.springserve.com
   - tools.springserve.com
-  - update.morgdog.springserve.com
   - vid-io-cle.springserve.com
   - vid-io-dub.springserve.com
   - vid-io-iad.springserve.com
@@ -8279,18 +8285,19 @@
 [ur5tyhny69q53nntcz.cyou] (1 removed)
   - 8nqp2.ur5tyhny69q53nntcz.cyou
 
-[urbanairship.com] (48 removed)
+[urbanairship.com] (47 removed)
   - c00001-dl.urbanairship.com
   - c00028-dl.urbanairship.com
   - c00029-dl.urbanairship.com
   - c00033-dl.urbanairship.com
   - c00035-dl.urbanairship.com
-  - c00044-dl.urbanairship.com
   - c00049-dl.urbanairship.com
+  - c00050-dl.urbanairship.com
   - c00093-dl.urbanairship.com
   - c00096-dl.urbanairship.com
   - c00098-dl.urbanairship.com
   - c00119-dl.urbanairship.com
+  - c00122-dl.urbanairship.com
   - c00150-dl.urbanairship.com
   - c00157-dl.urbanairship.com
   - c00158-dl.urbanairship.com
@@ -8300,7 +8307,6 @@
   - c00190-dl.urbanairship.com
   - c00191-dl.urbanairship.com
   - c00197-dl.urbanairship.com
-  - c00241-dl.urbanairship.com
   - c00247-dl.urbanairship.com
   - c00250-dl.urbanairship.com
   - c00252-dl.urbanairship.com
@@ -8313,9 +8319,7 @@
   - c00351-dl.urbanairship.com
   - c00354-dl.urbanairship.com
   - c00355-dl.urbanairship.com
-  - c00358-dl.urbanairship.com
   - c00359-dl.urbanairship.com
-  - c00366-dl.urbanairship.com
   - c00375-dl.urbanairship.com
   - c00382-dl.urbanairship.com
   - c00387-dl.urbanairship.com
@@ -8326,6 +8330,7 @@
   - combine.urbanairship.com
   - remote-data.urbanairship.com
   - sbux-dl.urbanairship.com
+  - sky-dl.urbanairship.com
   - web-push-api.urbanairship.com
   - web-sdk.urbanairship.com
 
