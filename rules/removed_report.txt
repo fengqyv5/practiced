@@ -1,11 +1,8 @@
-# Removed Subdomains Report (17,378 total)
+# Removed Subdomains Report (17,338 total)
 # Format: [Parent Domain] -> Removed Subdomains
 
 [0012e30263.com] (1 removed)
   - fd01ce9a02.0012e30263.com
-
-[00sexus.com] (1 removed)
-  - www.00sexus.com
 
 [012dadaa06.com] (1 removed)
   - 0db65504c2.012dadaa06.com
@@ -60,9 +57,6 @@
 
 [12b2xh3i9culz5v8xbj5vkgknr.cyou] (1 removed)
   - 89.12b2xh3i9culz5v8xbj5vkgknr.cyou
-
-[12luxury.com] (1 removed)
-  - m.12luxury.com
 
 [13b1e60d7e.com] (1 removed)
   - ab208fce17.13b1e60d7e.com
@@ -235,7 +229,7 @@
 [2mydns.net] (1 removed)
   - polufredsoa.2mydns.net
 
-[2o7.net] (2597 removed)
+[2o7.net] (2600 removed)
   - 032lexusdealers.112.2o7.net
   - 1-2-fly.com.102.122.2o7.net
   - 102.112.2o7.net
@@ -265,6 +259,7 @@
   - aatbs.com.102.122.2o7.net
   - abbotteuadceuprod.112.2o7.net
   - abbotteuanpediasureit.112.2o7.net
+  - abbotteugpocglobal.112.2o7.net
   - abbottfamily.co.id.112.2o7.net
   - abbottlabs.112.2o7.net
   - abcb2b.112.2o7.net
@@ -1474,6 +1469,7 @@
   - homestore.122.2o7.net
   - honeywell.112.2o7.net
   - honfurniture.122.2o7.net
+  - hospitalityebusiness.112.2o7.net
   - hostdomainpeople.112.2o7.net
   - hostdomainpeopleca.112.2o7.net
   - hostpowermedium.112.2o7.net
@@ -2832,6 +2828,7 @@
   - ziffdavisfilefront.112.2o7.net
   - ziffdavisglobal.112.2o7.net
   - ziffdavispennyarcade.112.2o7.net
+  - zimzbdotcomprod.112.2o7.net
   - zipzoomfly.122.2o7.net
 
 [2o7fn6gvj2c6l971mhx88okj8x5.cyou] (1 removed)
@@ -2878,6 +2875,9 @@
 
 [31d.net] (1 removed)
   - www.31d.net
+
+[31fbcecdf2.com] (1 removed)
+  - www.31fbcecdf2.com
 
 [31m2m7ptpemp831.cyou] (1 removed)
   - jfvh.31m2m7ptpemp831.cyou
@@ -3266,9 +3266,6 @@
 [6ygo1wvgfe6f5gg57mr3ggcq4.cyou] (1 removed)
   - lu2vbbjz4tmmm8.6ygo1wvgfe6f5gg57mr3ggcq4.cyou
 
-[7060.la] (1 removed)
-  - p.7060.la
-
 [72ckgctit6mngwqbbo2ln.cyou] (1 removed)
   - b.72ckgctit6mngwqbbo2ln.cyou
 
@@ -3277,6 +3274,9 @@
 
 [74n1nr5lwgfgk1ghk2fi88cjq15cpq.cyou] (1 removed)
   - euz8m.74n1nr5lwgfgk1ghk2fi88cjq15cpq.cyou
+
+[777casinofrance.fr] (1 removed)
+  - www.777casinofrance.fr
 
 [777tool.com] (1 removed)
   - www.777tool.com
@@ -3492,6 +3492,9 @@
 [97f477047f.com] (1 removed)
   - 0f85bcb09c.97f477047f.com
 
+[984a6ddeb1.com] (1 removed)
+  - www.984a6ddeb1.com
+
 [98ab3242f8.com] (1 removed)
   - 6446fb7d55.98ab3242f8.com
 
@@ -3546,6 +3549,9 @@
 
 [a23debcead.com] (1 removed)
   - 1bcaa290ff.a23debcead.com
+
+[a29f24b2a6.com] (1 removed)
+  - www.a29f24b2a6.com
 
 [a2uu36g43l.download] (1 removed)
   - www.a2uu36g43l.download
@@ -5184,9 +5190,6 @@
 [ad.playstation.net] (1 removed)
   - a.ad.playstation.net
 
-[ad1data.com] (1 removed)
-  - go.ad1data.com
-
 [adactioninteractive.com] (1 removed)
   - tracking.adactioninteractive.com
 
@@ -5284,9 +5287,6 @@
 
 [admarketplace.net.akadns.net] (1 removed)
   - adlanding.admarketplace.net.akadns.net
-
-[admaster.net] (1 removed)
-  - a1.admaster.net
 
 [admitad.com] (1 removed)
   - cdn.admitad.com
@@ -5414,20 +5414,23 @@
 [ads2live.com] (1 removed)
   - www.ads2live.com
 
-[adsafeprotected.com] (61 removed)
-  - 5726.bapi.adsafeprotected.com
-  - 6063.bapi.adsafeprotected.com
+[adsafeprotected.com] (62 removed)
   - appvast.adsafeprotected.com
   - aufw.adsafeprotected.com
   - aufwlb.adsafeprotected.com
   - auk8slb.adsafeprotected.com
   - aupixel.adsafeprotected.com
+  - bapi.adsafeprotected.com
   - cdn.adsafeprotected.com
   - diag.adsafeprotected.com
   - dtvc.adsafeprotected.com
   - fw.adsafeprotected.com
   - fwvc.adsafeprotected.com
+  - ieapi.adsafeprotected.com
+  - ieapilb.adsafeprotected.com
+  - ieci.adsafeprotected.com
   - iefw.adsafeprotected.com
+  - iefwapi.adsafeprotected.com
   - iefwlb.adsafeprotected.com
   - iek8slb.adsafeprotected.com
   - iepixel.adsafeprotected.com
@@ -5463,8 +5466,6 @@
   - staticjs.adsafeprotected.com
   - tp.adsafeprotected.com
   - unified.adsafeprotected.com
-  - vadt.adsafeprotected.com
-  - vadtlb.adsafeprotected.com
   - vafw.adsafeprotected.com
   - vafwlb.adsafeprotected.com
   - vak8slb.adsafeprotected.com
@@ -5649,9 +5650,6 @@
 
 [advertyz.com] (1 removed)
   - www.advertyz.com
-
-[advisorquaint.com] (1 removed)
-  - www.advisorquaint.com
 
 [advrstcdn.com] (1 removed)
   - adserver.advrstcdn.com
@@ -5861,9 +5859,6 @@
 
 [albaraka-bank.net] (1 removed)
   - www.albaraka-bank.net
-
-[alcoholcheckoccur.com] (1 removed)
-  - www.alcoholcheckoccur.com
 
 [aldarcommunications.com] (1 removed)
   - www.aldarcommunications.com
@@ -6106,9 +6101,6 @@
 [ameblojp.live] (1 removed)
   - choice.ameblojp.live
 
-[amuckafternoon.com] (1 removed)
-  - www.amuckafternoon.com
-
 [amung.us] (1 removed)
   - widgets.amung.us
 
@@ -6184,6 +6176,9 @@
 [analytics.prod.deadorbit.net] (1 removed)
   - frontdoor-prod-client.fd.analytics.prod.deadorbit.net
 
+[analytics.sayyar.com] (1 removed)
+  - load.analytics.sayyar.com
+
 [analytics.stanwith.me] (1 removed)
   - api.analytics.stanwith.me
 
@@ -6192,9 +6187,6 @@
 
 [analytics.tescloud.com] (1 removed)
   - analytics.public.live.analytics.tescloud.com
-
-[androidplayhack.com] (1 removed)
-  - www.androidplayhack.com
 
 [angorch-cdr7.com] (1 removed)
   - www.angorch-cdr7.com
@@ -6335,9 +6327,6 @@
 [aqualakefy.name] (1 removed)
   - www.aqualakefy.name
 
-[aquawin-fr.fr] (1 removed)
-  - www.aquawin-fr.fr
-
 [aragontrack.com] (1 removed)
   - jump.aragontrack.com
 
@@ -6397,9 +6386,6 @@
 [auslogics.com] (1 removed)
   - ads.auslogics.com
 
-[authenticangry.com] (1 removed)
-  - www.authenticangry.com
-
 [auto-runmz.com] (1 removed)
   - www.auto-runmz.com
 
@@ -6423,9 +6409,6 @@
 [av-clean.com] (1 removed)
   - www.av-clean.com
 
-[avbsqhunnykee.site] (1 removed)
-  - www.avbsqhunnykee.site
-
 [avct.cloud] (1 removed)
   - measure.lamp.avct.cloud
 
@@ -6440,9 +6423,6 @@
 
 [avnads.com] (1 removed)
   - www.avnads.com
-
-[avzaqmaoryehd.website] (1 removed)
-  - www.avzaqmaoryehd.website
 
 [awin1.com] (1 removed)
   - a1.awin1.com
@@ -6515,17 +6495,11 @@
 [backingguitar.garden] (1 removed)
   - www.backingguitar.garden
 
-[badasspups.com] (1 removed)
-  - www.badasspups.com
-
 [bagin.com] (1 removed)
   - data.bagin.com
 
 [bam-x.com] (1 removed)
   - static.bam-x.com
-
-[bancaleafe.xyz] (1 removed)
-  - www.bancaleafe.xyz
 
 [bandexperts.com] (1 removed)
   - www.bandexperts.com
@@ -6591,9 +6565,6 @@
 [belgiantrain.be.data.adobedc.net] (1 removed)
   - data.email.belgiantrain.be.data.adobedc.net
 
-[bellamyamusement.com] (1 removed)
-  - www.bellamyamusement.com
-
 [berg-6-82.com] (1 removed)
   - www.berg-6-82.com
 
@@ -6632,6 +6603,9 @@
 [bettertextads.com] (1 removed)
   - www.bettertextads.com
 
+[bidiology.com] (1 removed)
+  - xml.bidiology.com
+
 [bidmyads.com] (3 removed)
   - filter.bidmyads.com
   - login.bidmyads.com
@@ -6657,9 +6631,6 @@
 
 [biodynamiyycs.info] (1 removed)
   - www.biodynamiyycs.info
-
-[bitchat.live] (1 removed)
-  - www.bitchat.live
 
 [biyolojisitesi.net] (1 removed)
   - www.biyolojisitesi.net
@@ -6798,14 +6769,8 @@
   - fra-02.braze.eu
   - p-euc-1.braze.eu
 
-[breakfastsinew.com] (1 removed)
-  - www.breakfastsinew.com
-
 [brf5235kt5i6vz.cyou] (1 removed)
   - h925j21rm4v755k7y3l8l3.brf5235kt5i6vz.cyou
-
-[bridalplums.com] (1 removed)
-  - www.bridalplums.com
 
 [brightedge.com] (1 removed)
   - analytics.brightedge.com
@@ -6833,9 +6798,6 @@
   - httpdns.browser.miui.com
   - r.browser.miui.com
   - security.browser.miui.com
-
-[brzjthsubtlwj.site] (1 removed)
-  - www.brzjthsubtlwj.site
 
 [bsadcmesynzyb.store] (1 removed)
   - www.bsadcmesynzyb.store
@@ -6895,14 +6857,8 @@
 [bvvagos.pt] (1 removed)
   - www.bvvagos.pt
 
-[bvyhpxikzylmn.space] (1 removed)
-  - www.bvyhpxikzylmn.space
-
 [by31x2o62bknl6996wv.cyou] (1 removed)
   - 42.by31x2o62bknl6996wv.cyou
-
-[byethost7.com] (1 removed)
-  - shopcardvnmb.byethost7.com
 
 [bywebsite.com] (1 removed)
   - www.bywebsite.com
@@ -6920,6 +6876,12 @@
 
 [c40e234db8.com] (1 removed)
   - 201c741203.c40e234db8.com
+
+[c4ptainn3lson.xyz] (1 removed)
+  - go.c4ptainn3lson.xyz
+
+[c4ptainr0berts.xyz] (1 removed)
+  - go.c4ptainr0berts.xyz
 
 [c63b91ca50.com] (1 removed)
   - a1db6a0384.c63b91ca50.com
@@ -6995,9 +6957,6 @@
 [careertake.com] (1 removed)
   - www.careertake.com
 
-[carefreefootball.pro] (1 removed)
-  - www.carefreefootball.pro
-
 [cartoonnetworkla.com] (2 removed)
   - analytics.cartoonnetworkla.com
   - sanalytics.cartoonnetworkla.com
@@ -7007,6 +6966,9 @@
 
 [cashsurfers.com] (1 removed)
   - ads.cashsurfers.com
+
+[casino-myempire.fr] (1 removed)
+  - www.casino-myempire.fr
 
 [casinorankerhub.com] (1 removed)
   - www.casinorankerhub.com
@@ -7054,7 +7016,7 @@
 [cdert34.com] (1 removed)
   - www.cdert34.com
 
-[cdn.optimizely.com] (1079 removed)
+[cdn.optimizely.com] (1082 removed)
   - a10083930701.cdn.optimizely.com
   - a1010542634.cdn.optimizely.com
   - a10135402646.cdn.optimizely.com
@@ -7495,6 +7457,7 @@
   - a24234250625.cdn.optimizely.com
   - a24286810370.cdn.optimizely.com
   - a24312020311.cdn.optimizely.com
+  - a24317050096.cdn.optimizely.com
   - a24344740158.cdn.optimizely.com
   - a24356330475.cdn.optimizely.com
   - a24389681160.cdn.optimizely.com
@@ -7913,6 +7876,7 @@
   - a4681871666184192.cdn.optimizely.com
   - a4703309404045312.cdn.optimizely.com
   - a4706980296654848.cdn.optimizely.com
+  - a4728235229970432.cdn.optimizely.com
   - a4744342993108992.cdn.optimizely.com
   - a4762608166240256.cdn.optimizely.com
   - a4804167382859776.cdn.optimizely.com
@@ -8040,6 +8004,7 @@
   - a6451678757519360.cdn.optimizely.com
   - a6460373360967680.cdn.optimizely.com
   - a6462871603773440.cdn.optimizely.com
+  - a6467108339449856.cdn.optimizely.com
   - a6467227315077120.cdn.optimizely.com
   - a6502622515.cdn.optimizely.com
   - a6504733288955904.cdn.optimizely.com
@@ -8162,6 +8127,9 @@
 [cfjump.com] (1 removed)
   - c.cfjump.com
 
+[cgyx.tv] (1 removed)
+  - www.cgyx.tv
+
 [changeavvble.info] (1 removed)
   - www.changeavvble.info
 
@@ -8200,9 +8168,6 @@
 
 [chiarosnncuro.info] (1 removed)
   - www.chiarosnncuro.info
-
-[childrenatriskfoundation.com] (1 removed)
-  - www.childrenatriskfoundation.com
 
 [chiyih.com] (1 removed)
   - www.chiyih.com
@@ -8469,9 +8434,6 @@
 [computerxchange.com] (1 removed)
   - www.computerxchange.com
 
-[concentrationminefield.com] (1 removed)
-  - www.concentrationminefield.com
-
 [conde.digital] (4 removed)
   - ads-static.conde.digital
   - globalservices.conde.digital
@@ -8489,9 +8451,6 @@
   - ins.connatix.com
   - lit.connatix.com
   - pl.connatix.com
-
-[consciousnessquaint.com] (1 removed)
-  - www.consciousnessquaint.com
 
 [consensu.org] (1 removed)
   - webads.mgr.consensu.org
@@ -8519,6 +8478,12 @@
 
 [coolconcepts.nl] (1 removed)
   - www.coolconcepts.nl
+
+[coralreefs.xyz] (1 removed)
+  - go.coralreefs.xyz
+
+[coralsands.xyz] (1 removed)
+  - go.coralsands.xyz
 
 [cosmeticsale.eu] (1 removed)
   - pl.cosmeticsale.eu
@@ -8610,9 +8575,6 @@
 
 [cwi71qq321fi5z2b.cyou] (1 removed)
   - m.cwi71qq321fi5z2b.cyou
-
-[cwtjduacwhhtj.site] (1 removed)
-  - www.cwtjduacwhhtj.site
 
 [cwwjfwvfl.com] (1 removed)
   - www.cwwjfwvfl.com
@@ -8825,9 +8787,6 @@
 [dcm5.com] (1 removed)
   - www.dcm5.com
 
-[dcmbaescepqsq.space] (1 removed)
-  - www.dcmbaescepqsq.space
-
 [dealshaat.com] (1 removed)
   - www.dealshaat.com
 
@@ -8895,9 +8854,6 @@
 [dfba7a73ff.com] (1 removed)
   - f84b63c140.dfba7a73ff.com
 
-[dfuijqrojtvcb.site] (1 removed)
-  - www.dfuijqrojtvcb.site
-
 [dhbfd8trk.com] (1 removed)
   - www.dhbfd8trk.com
 
@@ -8961,12 +8917,6 @@
 
 [disyyenthralpygmyisms.info] (1 removed)
   - www.disyyenthralpygmyisms.info
-
-[dkepsueazpneu.space] (1 removed)
-  - www.dkepsueazpneu.space
-
-[dkfkshfzzmxss.online] (1 removed)
-  - www.dkfkshfzzmxss.online
 
 [dkonto.pl] (1 removed)
   - kopora2.dkonto.pl
@@ -9242,11 +9192,11 @@
 [dragonib.com] (1 removed)
   - www.dragonib.com
 
-[drakerecitalpraised.com] (1 removed)
-  - www.drakerecitalpraised.com
-
 [driftt.com] (1 removed)
   - js.driftt.com
+
+[drivecasinofrance.fr] (1 removed)
+  - www.drivecasinofrance.fr
 
 [drivegoals.com] (1 removed)
   - www.drivegoals.com
@@ -9254,9 +9204,6 @@
 [drmartenbootseu.com] (2 removed)
   - eu.drmartenbootseu.com
   - eur.drmartenbootseu.com
-
-[drtibnixidzrx.space] (1 removed)
-  - www.drtibnixidzrx.space
 
 [dssiacritics.info] (1 removed)
   - www.dssiacritics.info
@@ -9301,9 +9248,8 @@
 [dttemocratized.info] (1 removed)
   - www.dttemocratized.info
 
-[dumb1.com] (2 removed)
+[dumb1.com] (1 removed)
   - exchange.dumb1.com
-  - praskovya-ulyanova.dumb1.com
 
 [duotrader.com] (1 removed)
   - www.duotrader.com
@@ -9654,9 +9600,6 @@
 [eeb201e6da.com] (1 removed)
   - 3082420b7f.eeb201e6da.com
 
-[eebivsjgsjktp.store] (1 removed)
-  - www.eebivsjgsjktp.store
-
 [ef2ktx6834mrhc.cyou] (1 removed)
   - p.ef2ktx6834mrhc.cyou
 
@@ -9749,9 +9692,6 @@
 [embolizawwtionspalliums.info] (1 removed)
   - www.embolizawwtionspalliums.info
 
-[eminentbubble.com] (1 removed)
-  - www.eminentbubble.com
-
 [emkmvkigfexgt.online] (1 removed)
   - www.emkmvkigfexgt.online
 
@@ -9816,6 +9756,9 @@
 
 [erjmzyibsksrq.space] (1 removed)
   - www.erjmzyibsksrq.space
+
+[ernser.org] (1 removed)
+  - www.ernser.org
 
 [errornuker.com] (1 removed)
   - www.errornuker.com
@@ -10092,9 +10035,6 @@
 [fbe7024bc6.com] (1 removed)
   - c48278fffa.fbe7024bc6.com
 
-[fbnimeaujrbup.website] (1 removed)
-  - www.fbnimeaujrbup.website
-
 [fbot.me] (1 removed)
   - campaign.fbot.me
 
@@ -10113,9 +10053,6 @@
 [feathr.co] (1 removed)
   - cdn.feathr.co
 
-[februaryexclusion.com] (1 removed)
-  - www.februaryexclusion.com
-
 [federavvlist.info] (1 removed)
   - www.federavvlist.info
 
@@ -10125,17 +10062,14 @@
 [fef49e81cc.com] (1 removed)
   - a66fcca10a.fef49e81cc.com
 
-[fefrkjfxxazpp.store] (1 removed)
-  - www.fefrkjfxxazpp.store
-
 [feiyang163.com] (4 removed)
   - down.feiyang163.com
   - down2.feiyang163.com
   - down3.feiyang163.com
   - www.feiyang163.com
 
-[fempjfqhpylty.space] (1 removed)
-  - www.fempjfqhpylty.space
+[feqgpykeuppfi.space] (1 removed)
+  - www.feqgpykeuppfi.space
 
 [ferrkkyboats.info] (1 removed)
   - www.ferrkkyboats.info
@@ -10259,9 +10193,6 @@
 [forcedgifting.com] (1 removed)
   - brhu.forcedgifting.com
 
-[forecaststepsixteen.com] (1 removed)
-  - www.forecaststepsixteen.com
-
 [foresee.com] (7 removed)
   - analytics.foresee.com
   - bd-nplb02.foresee.com
@@ -10279,12 +10210,6 @@
 
 [formosahappiness.org] (1 removed)
   - www.formosahappiness.org
-
-[forthrightstudent.pro] (1 removed)
-  - www.forthrightstudent.pro
-
-[fortunacasinofrance.fr] (1 removed)
-  - www.fortunacasinofrance.fr
 
 [fotoidea.com] (1 removed)
   - www.fotoidea.com
@@ -10326,9 +10251,6 @@
 [frennecharras.com] (1 removed)
   - bv.frennecharras.com
 
-[frequentflesh.com] (1 removed)
-  - www.frequentflesh.com
-
 [friend-cards.com] (1 removed)
   - www.friend-cards.com
 
@@ -10359,6 +10281,9 @@
 
 [ft6i5tfnllq3xuvgm9.cyou] (1 removed)
   - x.ft6i5tfnllq3xuvgm9.cyou
+
+[ftdtocbdkvlvj.space] (1 removed)
+  - www.ftdtocbdkvlvj.space
 
 [ftrqzvz16iyr23ur7jt5kbc.cyou] (1 removed)
   - cqf.ftrqzvz16iyr23ur7jt5kbc.cyou
@@ -10537,9 +10462,6 @@
 [fwrt695iz5z66vqn84g3tt.cyou] (1 removed)
   - j77x.fwrt695iz5z66vqn84g3tt.cyou
 
-[fwzvgdqhtxsxc.store] (1 removed)
-  - www.fwzvgdqhtxsxc.store
-
 [fxc5fklv2b43juz3hr35h.cyou] (1 removed)
   - 7imgl76f9cgpbgnh7ik.fxc5fklv2b43juz3hr35h.cyou
 
@@ -10554,9 +10476,6 @@
 
 [fxltsbl.com] (1 removed)
   - a.fxltsbl.com
-
-[fympiumlrnotc.space] (1 removed)
-  - www.fympiumlrnotc.space
 
 [g00.msn.com] (1 removed)
   - c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
@@ -10802,14 +10721,14 @@
 [getsquirrel.co] (1 removed)
   - squirrels.getsquirrel.co
 
+[gfoqmtwpoodsy.space] (1 removed)
+  - www.gfoqmtwpoodsy.space
+
 [gfwpu4re8uxurkkh95.cyou] (1 removed)
   - feyrk8tiop1gerznom92t.gfwpu4re8uxurkkh95.cyou
 
 [ggzpxymhpceopgtoc.cyou] (1 removed)
   - 41p.ggzpxymhpceopgtoc.cyou
-
-[ghkrndebbziup.online] (1 removed)
-  - www.ghkrndebbziup.online
 
 [ghlp5h7y28qbq74oq.cyou] (1 removed)
   - 8imo7.ghlp5h7y28qbq74oq.cyou
@@ -10825,9 +10744,6 @@
 
 [girlz-high.com] (1 removed)
   - www.girlz-high.com
-
-[givingface.pro] (1 removed)
-  - www.givingface.pro
 
 [gjfyeghpsuxmx.space] (1 removed)
   - www.gjfyeghpsuxmx.space
@@ -10862,9 +10778,6 @@
 
 [gneyjsdv.com] (1 removed)
   - www.gneyjsdv.com
-
-[gnmmbnnbqcwtb.site] (1 removed)
-  - www.gnmmbnnbqcwtb.site
 
 [go-mpulse.net] (3 removed)
   - c.go-mpulse.net
@@ -11484,6 +11397,9 @@
 [hr.data.adobedc.net] (1 removed)
   - 24kitchen.com.hr.data.adobedc.net
 
+[hrknqbbxmyvyo.site] (1 removed)
+  - www.hrknqbbxmyvyo.site
+
 [hs-scripts.com] (2 removed)
   - js-eu1.hs-scripts.com
   - js.hs-scripts.com
@@ -11493,9 +11409,6 @@
 
 [htkcm.com] (1 removed)
   - cdn.htkcm.com
-
-[humdrumtouch.com] (1 removed)
-  - www.humdrumtouch.com
 
 [hvgcfx1.com] (1 removed)
   - www.hvgcfx1.com
@@ -11561,9 +11474,6 @@
 [idealcasino.net] (1 removed)
   - www.idealcasino.net
 
-[identicaldrench.com] (1 removed)
-  - www.identicaldrench.com
-
 [idio.co] (7 removed)
   - a.idio.co
   - api.idio.co
@@ -11578,9 +11488,6 @@
 
 [idol-dvd.com] (1 removed)
   - www.idol-dvd.com
-
-[idx.lat] (1 removed)
-  - www.idx.lat
 
 [ie.data.adobedc.net] (1 removed)
   - energia.ie.data.adobedc.net
@@ -11641,9 +11548,6 @@
 [improvingthe.com] (1 removed)
   - www.improvingthe.com
 
-[imtshvsvjzeob.website] (1 removed)
-  - www.imtshvsvjzeob.website
-
 [incentivenetworks2.com] (1 removed)
   - www.incentivenetworks2.com
 
@@ -11659,10 +11563,6 @@
 
 [infinitcenter.com] (1 removed)
   - www.infinitcenter.com
-
-[infinityfree.me] (2 removed)
-  - 23rq.6yh.infinityfree.me
-  - effectively32.infinityfree.me
 
 [informecadastral.com] (1 removed)
   - www.informecadastral.com
@@ -11821,9 +11721,6 @@
 [iqjh32nrfhguxpucqo4ro7hr9vyg.cyou] (1 removed)
   - 9wmy9.iqjh32nrfhguxpucqo4ro7hr9vyg.cyou
 
-[iqtvvevbydoat.online] (1 removed)
-  - www.iqtvvevbydoat.online
-
 [ir8ofm5xbnwjg1ybzk76h.cyou] (1 removed)
   - n5eburo7gn.ir8ofm5xbnwjg1ybzk76h.cyou
 
@@ -11899,6 +11796,9 @@
 [jfgrpuy5f326nlcovcg.cyou] (1 removed)
   - 8xykxu7.jfgrpuy5f326nlcovcg.cyou
 
+[jglwyxywvsstl.website] (1 removed)
+  - www.jglwyxywvsstl.website
+
 [jgnr1mtuwez8o6viwu9mb89o6u.cyou] (1 removed)
   - c637.jgnr1mtuwez8o6viwu9mb89o6u.cyou
 
@@ -11934,6 +11834,9 @@
   - login.jotterads.com
   - static.jotterads.com
   - traffic.jotterads.com
+
+[joudauhee.com] (1 removed)
+  - www.joudauhee.com
 
 [jp1ypgz6jofm9pfypc5hnv.cyou] (1 removed)
   - 9kygkgyfu.jp1ypgz6jofm9pfypc5hnv.cyou
@@ -12050,9 +11953,6 @@
 [kfy6nw3vlrcp9ieybe7r.cyou] (1 removed)
   - j.kfy6nw3vlrcp9ieybe7r.cyou
 
-[kgguxnrwpqoif.site] (1 removed)
-  - www.kgguxnrwpqoif.site
-
 [kgyniewjoxgngfw8n.cyou] (1 removed)
   - j2lroqu7.kgyniewjoxgngfw8n.cyou
 
@@ -12156,9 +12056,6 @@
 [kvg15c8jnju4m95u.cyou] (1 removed)
   - b.kvg15c8jnju4m95u.cyou
 
-[kvznoubscgeep.website] (1 removed)
-  - www.kvznoubscgeep.website
-
 [kvzz68l2rppz93n.cyou] (1 removed)
   - vl45xz19vt1toghq.kvzz68l2rppz93n.cyou
 
@@ -12200,9 +12097,6 @@
 [l9kqpv4hpbn5l7hpqck9t3.cyou] (1 removed)
   - 8.l9kqpv4hpbn5l7hpqck9t3.cyou
 
-[lacnelmsvgghz.space] (1 removed)
-  - www.lacnelmsvgghz.space
-
 [laketrend.com] (1 removed)
   - ajs.laketrend.com
 
@@ -12220,9 +12114,6 @@
 
 [latrixa.co.in] (1 removed)
   - d9u803e071bc73elvib0.latrixa.co.in
-
-[lbdphmpwmwdzw.online] (1 removed)
-  - www.lbdphmpwmwdzw.online
 
 [lc6y1ex4oxp8fkoz1.cyou] (1 removed)
   - n82bkk8zou53xc5.lc6y1ex4oxp8fkoz1.cyou
@@ -12245,11 +12136,9 @@
 [leadplace.fr] (1 removed)
   - tag.leadplace.fr
 
-[leanplum.com] (4 removed)
+[leanplum.com] (2 removed)
   - api.leanplum.com
   - assets.prod.leanplum.com
-  - event-management-shadow.leanplum.com
-  - event-management.leanplum.com
 
 [learningfound.com] (1 removed)
   - www.learningfound.com
@@ -12300,9 +12189,6 @@
 [lightstylist.com] (1 removed)
   - www.lightstylist.com
 
-[limping-reputation.pro] (1 removed)
-  - www.limping-reputation.pro
-
 [linkhut.com] (1 removed)
   - www.linkhut.com
 
@@ -12325,9 +12211,6 @@
   - api.linkz.net
   - scripts.linkz.net
   - static.linkz.net
-
-[liter1.icu] (1 removed)
-  - www.liter1.icu
 
 [littledata.io] (1 removed)
   - transaction-watcher-2.littledata.io
@@ -12395,9 +12278,6 @@
 
 [livemz.com] (1 removed)
   - www.livemz.com
-
-[lkixslmthwwdf.online] (1 removed)
-  - www.lkixslmthwwdf.online
 
 [lkuxyvrptazgk.online] (1 removed)
   - www.lkuxyvrptazgk.online
@@ -12474,8 +12354,10 @@
 [loveromantic.com] (1 removed)
   - www.loveromantic.com
 
-[lovestoblog.com] (1 removed)
+[lovestoblog.com] (3 removed)
   - 123-vendasvoos25.lovestoblog.com
+  - simplejack.lovestoblog.com
+  - suppliers.lovestoblog.com
 
 [lowvolatilitysolutions.com] (1 removed)
   - www.lowvolatilitysolutions.com
@@ -12489,6 +12371,9 @@
 [lqtxnaqqmbqxm.space] (1 removed)
   - www.lqtxnaqqmbqxm.space
 
+[lstat.youku.com] (1 removed)
+  - urchin.lstat.youku.com
+
 [lt448o9e7on9owy42u4yhyk.cyou] (1 removed)
   - hl9ol32c.lt448o9e7on9owy42u4yhyk.cyou
 
@@ -12497,6 +12382,9 @@
 
 [lu.data.adobedc.net] (1 removed)
   - data.outbound.luxair.lu.data.adobedc.net
+
+[luciotorres.net] (1 removed)
+  - www.luciotorres.net
 
 [lunargrovefx.com] (1 removed)
   - www.lunargrovefx.com
@@ -12564,9 +12452,6 @@
 [macromill.com] (1 removed)
   - img.macromill.com
 
-[madnesscoupon.com] (1 removed)
-  - www.madnesscoupon.com
-
 [mailmunch.co] (2 removed)
   - a.mailmunch.co
   - analytics.mailmunch.co
@@ -12580,9 +12465,6 @@
 [manawa-mai.ac.nz] (2 removed)
   - track.manawa-mai.ac.nz
   - www.manawa-mai.ac.nz
-
-[manconsider.com] (1 removed)
-  - www.manconsider.com
 
 [marchex.io] (2 removed)
   - px.marchex.io
@@ -12986,9 +12868,6 @@
   - yt.mmstat.com
   - yt1.mmstat.com
 
-[mobil177.com] (1 removed)
-  - www.mobil177.com
-
 [mobilityware.com] (3 removed)
   - ads.mobilityware.com
   - apps.mobilityware.com
@@ -13003,6 +12882,9 @@
 
 [monocular-agency.com] (1 removed)
   - widget.monocular-agency.com
+
+[monsterwin-fr.fr] (1 removed)
+  - www.monsterwin-fr.fr
 
 [mopinion.com] (4 removed)
   - cacheorcheck.mopinion.com
@@ -13093,9 +12975,6 @@
 
 [mwxl13ezkz6wctmhj7b4y.cyou] (1 removed)
   - cwgpmf.mwxl13ezkz6wctmhj7b4y.cyou
-
-[mxyaawbtgxomq.online] (1 removed)
-  - www.mxyaawbtgxomq.online
 
 [my-stats.com] (1 removed)
   - www.my-stats.com
@@ -13188,6 +13067,9 @@
 
 [naturwaerme-karow.de] (1 removed)
   - www.naturwaerme-karow.de
+
+[nauticalpingelephant.com] (1 removed)
+  - www.nauticalpingelephant.com
 
 [nbcsearch.com] (2 removed)
   - xml.nbcsearch.com
@@ -13301,9 +13183,6 @@
 [net.jumia.com.eg] (1 removed)
   - marketing.net.jumia.com.eg
 
-[netavenir.com] (1 removed)
-  - engine.espace.netavenir.com
-
 [netgreencolumn.com] (1 removed)
   - obseu.netgreencolumn.com
 
@@ -13362,11 +13241,11 @@
 [nftnavigator.com] (1 removed)
   - www.nftnavigator.com
 
+[ngbixvopoqccq.website] (1 removed)
+  - www.ngbixvopoqccq.website
+
 [ninjadollars.com] (1 removed)
   - www.ninjadollars.com
-
-[nkyhhjrnguuhu.site] (1 removed)
-  - www.nkyhhjrnguuhu.site
 
 [nl.data.adobedc.net] (3 removed)
   - data.emailservice.vattenfall.nl.data.adobedc.net
@@ -13406,6 +13285,9 @@
 
 [np6.eu] (1 removed)
   - www.np6.eu
+
+[npzahkooxkyps.website] (1 removed)
+  - www.npzahkooxkyps.website
 
 [nrich.ai] (3 removed)
   - dsp.nrich.ai
@@ -13497,9 +13379,6 @@
 
 [obesitycheck.com] (1 removed)
   - www.obesitycheck.com
-
-[obigre.ru] (1 removed)
-  - www.obigre.ru
 
 [objectopoly.info] (1 removed)
   - www.objectopoly.info
@@ -13643,7 +13522,7 @@
   - api.omnilocal.ai
   - static.omnilocal.ai
 
-[omtrdc.net] (5907 removed)
+[omtrdc.net] (5911 removed)
   - 1005freshradio.ca.ssl.sc.omtrdc.net
   - 1011bigfm.com.ssl.sc.omtrdc.net
   - 1019rock.ca.ssl.sc.omtrdc.net
@@ -13790,7 +13669,6 @@
   - adobemobiledev.sc.omtrdc.net
   - adobesandbox.com.ssl.sc.omtrdc.net
   - adobevlab.com.ssl.sc.omtrdc.net
-  - adpdl.ssl.d2.sc.omtrdc.net
   - ads.microsoft.com.ssl.sc.omtrdc.net
   - adt.com.ssl.sc.omtrdc.net
   - adult.prevnar13.com.ssl.sc.omtrdc.net
@@ -13836,6 +13714,7 @@
   - agra-net.com.ssl.sc.omtrdc.net
   - aia.com.d1.sc.omtrdc.net
   - aia.com.ssl.d1.sc.omtrdc.net
+  - aiagroup.sc.omtrdc.net
   - airandgo.fr.ssl.sc.omtrdc.net
   - airasia.com.d1.sc.omtrdc.net
   - airasia.com.ssl.d1.sc.omtrdc.net
@@ -14188,7 +14067,6 @@
   - azcompletehealth.com.ssl.sc.omtrdc.net
   - azullinhasaereas.tt.omtrdc.net
   - b-venture.com.ssl.sc.omtrdc.net
-  - b.sc.omtrdc.net
   - ba.tt.omtrdc.net
   - baby-g.com.ssl.sc.omtrdc.net
   - babycenter.tt.omtrdc.net
@@ -15336,6 +15214,8 @@
   - drysolutions.be.ssl.sc.omtrdc.net
   - ds-pharma.com.ssl.sc.omtrdc.net
   - dsg.sc.omtrdc.net
+  - dsmbusinessservices.d3.sc.omtrdc.net
+  - dsmbusinessservices.sc.omtrdc.net
   - dsw.com.sc.omtrdc.net
   - dsw.com.ssl.sc.omtrdc.net
   - dtveg.sc.omtrdc.net
@@ -15853,6 +15733,7 @@
   - fullbeauty.tt.omtrdc.net
   - fullscoperms.com.ssl.sc.omtrdc.net
   - funandseriousgamefestival.com.ssl.sc.omtrdc.net
+  - fundaciongruposocial.tt.omtrdc.net
   - futbolclubbarcelona.tt.omtrdc.net
   - futureelectronics.sc.omtrdc.net
   - futuro360.com.sc.omtrdc.net
@@ -15883,6 +15764,7 @@
   - gamespot.com.sc.omtrdc.net
   - gamespot.com.ssl.sc.omtrdc.net
   - gametimepa.com.ssl.sc.omtrdc.net
+  - ganassurances.d3.sc.omtrdc.net
   - gannettdigital.com.ssl.sc.omtrdc.net
   - gap.eu.ssl.d1.sc.omtrdc.net
   - gapfactory.com.sc.omtrdc.net
@@ -16315,6 +16197,7 @@
   - in.sc.omtrdc.net
   - in.ssl.sc.omtrdc.net
   - inalco.com.ssl.sc.omtrdc.net
+  - incommholdings.sc.omtrdc.net
   - incommholdings.tt.omtrdc.net
   - ind1-pool.tt.omtrdc.net
   - independentcitymarket.ca.ssl.sc.omtrdc.net
@@ -16673,6 +16556,7 @@
   - lagacetadesalamanca.es.ssl.sc.omtrdc.net
   - lahaverivercreditunion.ca.ssl.sc.omtrdc.net
   - lahitapiola.d3.sc.omtrdc.net
+  - lahitapiola.sc.omtrdc.net
   - lahitapiola.tt.omtrdc.net
   - lakecountrynow.com.ssl.sc.omtrdc.net
   - lakeshore.d1.sc.omtrdc.net
@@ -16987,7 +16871,6 @@
   - me.ssl.sc.omtrdc.net
   - meccabingo.com.ssl.sc.omtrdc.net
   - media-global.net.ssl.sc.omtrdc.net
-  - mediacorp.hb-api.omtrdc.net
   - mediacorp.sc.omtrdc.net
   - medichanzo.com.sc.omtrdc.net
   - medichanzo.com.ssl.sc.omtrdc.net
@@ -18630,6 +18513,7 @@
   - sunrise.tt.omtrdc.net
   - sunshinehealth.com.sc.omtrdc.net
   - sunshinehealth.com.ssl.sc.omtrdc.net
+  - sunstarsuissesa.sc.omtrdc.net
   - sunstarsuissesa.tt.omtrdc.net
   - suntrust.com.sc.omtrdc.net
   - supercuts.com.sc.omtrdc.net
@@ -18775,6 +18659,7 @@
   - tennessean.com.ssl.d1.sc.omtrdc.net
   - tesco.com.ssl.sc.omtrdc.net
   - tescomobile.com.sc.omtrdc.net
+  - tescomobile.tt.omtrdc.net
   - tescostores.sc.omtrdc.net
   - test-move-skms.tt-stage-ci1.omtrdc.net
   - testciscosystemsinc.tt.omtrdc.net
@@ -19080,6 +18965,7 @@
   - unilever.d3.sc.omtrdc.net
   - unilever.tt.omtrdc.net
   - unileverapac.sc.omtrdc.net
+  - unileverlatam.sc.omtrdc.net
   - unileverna.sc.omtrdc.net
   - unileverna.tt.omtrdc.net
   - unipol.sc.omtrdc.net
@@ -19248,7 +19134,6 @@
   - vodafone.com.gh.sc.omtrdc.net
   - vodafone.com.gh.ssl.sc.omtrdc.net
   - vodafone.com.tr.ssl.d2.sc.omtrdc.net
-  - vodafone.cz.ssl.d2.sc.omtrdc.net
   - vodafone.it.ssl.sc.omtrdc.net
   - vodafone.qa.sc.omtrdc.net
   - vodafone.sc.omtrdc.net
@@ -19256,7 +19141,6 @@
   - vodafonecz.tt.omtrdc.net
   - vodafonedemogroup.tt.omtrdc.net
   - vodafonees.sc.omtrdc.net
-  - vodafoneespanasa.tt.omtrdc.net
   - vodafonegreece.tt.omtrdc.net
   - vodafonegroup.sc.omtrdc.net
   - vodafonegroupservice.tt.omtrdc.net
@@ -19395,7 +19279,6 @@
   - wholesalepartysupplies.com.ssl.sc.omtrdc.net
   - wibe.com.ssl.sc.omtrdc.net
   - wideroe.no.ssl.sc.omtrdc.net
-  - wienerbergerag.tt.omtrdc.net
   - wildlifereservessing.sc.omtrdc.net
   - wildlifereservessing.tt.omtrdc.net
   - wileypublishing.sc.omtrdc.net
@@ -19933,9 +19816,6 @@
   - rum-collector-2.pingdom.net
   - rum-static.pingdom.net
 
-[pintfunnel.com] (1 removed)
-  - www.pintfunnel.com
-
 [pipepractice.world] (1 removed)
   - www.pipepractice.world
 
@@ -19969,9 +19849,6 @@
 [playtactics-hub.com] (1 removed)
   - www.playtactics-hub.com
 
-[plscllpvblcfq.site] (1 removed)
-  - www.plscllpvblcfq.site
-
 [pluseconomy.com] (1 removed)
   - www.pluseconomy.com
 
@@ -19994,9 +19871,6 @@
 
 [point-experts.com] (1 removed)
   - red.point-experts.com
-
-[poisedbuilding.pro] (1 removed)
-  - www.poisedbuilding.pro
 
 [poker-new.com] (1 removed)
   - www.poker-new.com
@@ -20206,9 +20080,6 @@
 [py2byffhzgvttjmx.cyou] (1 removed)
   - 6l1urunxgil3lr94u.py2byffhzgvttjmx.cyou
 
-[pyerc.com] (1 removed)
-  - m.pyerc.com
-
 [pzheb6rjp9k67g.cyou] (1 removed)
   - 9gr5k374w9x8keg5.pzheb6rjp9k67g.cyou
 
@@ -20369,12 +20240,6 @@
 [realtextads.com] (1 removed)
   - www.realtextads.com
 
-[reaujwzwzkdih.store] (1 removed)
-  - www.reaujwzwzkdih.store
-
-[recklesshumiliated.com] (1 removed)
-  - www.recklesshumiliated.com
-
 [redstarpoker.com] (1 removed)
   - www.redstarpoker.com
 
@@ -20401,12 +20266,6 @@
 
 [relaxingcafe.com] (1 removed)
   - www.relaxingcafe.com
-
-[remedyweek.com] (1 removed)
-  - www.remedyweek.com
-
-[remindwage.com] (1 removed)
-  - www.remindwage.com
 
 [requestmetrics.com] (2 removed)
   - cdn.requestmetrics.com
@@ -20481,9 +20340,6 @@
 [rlexjviqhpwvfjl4hwnf7.cyou] (1 removed)
   - 6k2yw85g9cpf.rlexjviqhpwvfjl4hwnf7.cyou
 
-[rmbn.ru] (1 removed)
-  - post.rmbn.ru
-
 [rmm74xelm3r3wk1ckg8fkj84k8.cyou] (1 removed)
   - n9q6xn.rmm74xelm3r3wk1ckg8fkj84k8.cyou
 
@@ -20503,9 +20359,6 @@
 [rnodernssolution.com] (1 removed)
   - www.rnodernssolution.com
 
-[rocky-spin-casino.fr] (1 removed)
-  - www.rocky-spin-casino.fr
-
 [roistat.com] (2 removed)
   - cllctr.roistat.com
   - collector.roistat.com
@@ -20515,9 +20368,6 @@
 
 [romanticmaui.net] (1 removed)
   - www.romanticmaui.net
-
-[romsxqicvnbvx.store] (1 removed)
-  - www.romsxqicvnbvx.store
 
 [roofcoins.com] (1 removed)
   - www.roofcoins.com
@@ -20627,9 +20477,6 @@
 
 [rum.cdnvideo.ru] (1 removed)
   - stat.rum.cdnvideo.ru
-
-[rumblemeetinglank.com] (1 removed)
-  - www.rumblemeetinglank.com
 
 [rundfunkbeitragportal.de] (1 removed)
   - ssgtm.rundfunkbeitragportal.de
@@ -20931,6 +20778,9 @@
 [sgtm.paulsmith.com] (1 removed)
   - load.sgtm.paulsmith.com
 
+[sgtm.relivital.pl] (1 removed)
+  - load.sgtm.relivital.pl
+
 [sgtm.running-point.at] (1 removed)
   - load.sgtm.running-point.at
 
@@ -21066,13 +20916,14 @@
 [shareaholic.net] (1 removed)
   - cdn.shareaholic.net
 
-[sharethis.com] (15 removed)
+[sharethis.com] (16 removed)
   - count-server.sharethis.com
   - datasphere-sbsvc.sharethis.com
   - edaa.sharethis.com
   - edge.sharethis.com
   - l.sharethis.com
   - pd.sharethis.com
+  - rest.sharethis.com
   - s.sharethis.com
   - sd.sharethis.com
   - seg.sharethis.com
@@ -21082,6 +20933,9 @@
   - w.sharethis.com
   - wd-edge.sharethis.com
   - wd.sharethis.com
+
+[sharethru.com] (1 removed)
+  - s.update.sharethru.com
 
 [shemrec.cc] (3 removed)
   - bnrs.shemrec.cc
@@ -21125,9 +20979,6 @@
 [siftscience.com] (2 removed)
   - b.siftscience.com
   - cdn.siftscience.com
-
-[significantrapid.com] (1 removed)
-  - www.significantrapid.com
 
 [signtechapparels.com] (1 removed)
   - www.signtechapparels.com
@@ -21494,6 +21345,9 @@
 
 [ss.wearedevelopers.com] (1 removed)
   - load.ss.wearedevelopers.com
+
+[ssmtfxdslsvzz.space] (1 removed)
+  - www.ssmtfxdslsvzz.space
 
 [sst.a-meubel.nl] (1 removed)
   - load.sst.a-meubel.nl
@@ -21902,17 +21756,11 @@
 [tivan.naver.com] (1 removed)
   - g.tivan.naver.com
 
-[tj-yijiajing.com] (1 removed)
-  - www.tj-yijiajing.com
-
 [tj8xob2lk1tr3m.cyou] (1 removed)
   - i.tj8xob2lk1tr3m.cyou
 
 [tj9rrm4fwyb7r3jvmo.cyou] (1 removed)
   - jqu5.tj9rrm4fwyb7r3jvmo.cyou
-
-[tjkkyvtyfjjeu.space] (1 removed)
-  - www.tjkkyvtyfjjeu.space
 
 [tlbkbkm2cq18lp9l1xjxe6.cyou] (1 removed)
   - n2yju89pe.tlbkbkm2cq18lp9l1xjxe6.cyou
@@ -22084,9 +21932,6 @@
   - cdn.treasuredata.com
   - in.treasuredata.com
 
-[treasureflowsystem.org] (1 removed)
-  - www.treasureflowsystem.org
-
 [treehousei.com] (1 removed)
   - mv.treehousei.com
 
@@ -22105,11 +21950,14 @@
 [triptease.io] (1 removed)
   - static.ads.triptease.io
 
-[trkwinaff13.com] (1 removed)
-  - www.trkwinaff13.com
+[tropicalsummer.xyz] (1 removed)
+  - redir.tropicalsummer.xyz
 
 [trucktirehotline.com] (1 removed)
   - www.trucktirehotline.com
+
+[trueluck-casino.fr] (1 removed)
+  - www.trueluck-casino.fr
 
 [trueshelterju.pro] (1 removed)
   - www.trueshelterju.pro
@@ -22122,9 +21970,6 @@
 
 [tsgonline.com] (1 removed)
   - www.tsgonline.com
-
-[tswzrqpkvltnx.website] (1 removed)
-  - www.tswzrqpkvltnx.website
 
 [tsyschoicebusiness.com] (1 removed)
   - www.tsyschoicebusiness.com
@@ -22198,9 +22043,6 @@
 [u7q79l7inf4jxr.cyou] (1 removed)
   - yuc8w9rvobiww1wlj.u7q79l7inf4jxr.cyou
 
-[ubbfatevovpkd.site] (1 removed)
-  - www.ubbfatevovpkd.site
-
 [ublock.org] (1 removed)
   - ping.ublock.org
 
@@ -22239,6 +22081,9 @@
 
 [ulaen.com] (1 removed)
   - www.ulaen.com
+
+[ulmoyc.com] (1 removed)
+  - www.ulmoyc.com
 
 [ultimedia.com] (2 removed)
   - dig.ultimedia.com
@@ -22526,9 +22371,6 @@
   - cdn.viglink.com
   - images.viglink.com
 
-[viiian.com] (1 removed)
-  - www.viiian.com
-
 [vionservices.com] (1 removed)
   - analytics.vionservices.com
 
@@ -22655,6 +22497,9 @@
 [waterchamber.com] (1 removed)
   - www.waterchamber.com
 
+[wazambacasino-fr.fr] (1 removed)
+  - www.wazambacasino-fr.fr
+
 [wceqp5pcyg3mjynr662uv1o.cyou] (1 removed)
   - e99on67498rlkzf.wceqp5pcyg3mjynr662uv1o.cyou
 
@@ -22748,6 +22593,11 @@
 [weknow.ac] (1 removed)
   - www.weknow.ac
 
+[weplayer.cc] (3 removed)
+  - ad.weplayer.cc
+  - bugly.weplayer.cc
+  - crosspromotion.weplayer.cc
+
 [werkzeugeersatzteile.com] (1 removed)
   - www.werkzeugeersatzteile.com
 
@@ -22798,9 +22648,6 @@
 [wlj9l6yziu8etr2euq1ktqv9q8.cyou] (1 removed)
   - h3f1fccgc.wlj9l6yziu8etr2euq1ktqv9q8.cyou
 
-[wn68din.cn] (1 removed)
-  - www.wn68din.cn
-
 [wndlkj.com] (1 removed)
   - www.wndlkj.com
 
@@ -22827,6 +22674,9 @@
 
 [wpad.net.ru] (1 removed)
   - www.wpad.net.ru
+
+[wps12.com] (1 removed)
+  - www.wps12.com
 
 [wraploans.com] (1 removed)
   - www.wraploans.com
@@ -23089,6 +22939,9 @@
 [wu5fyol71lmrpftq.cyou] (1 removed)
   - 2v247j25p15kw.wu5fyol71lmrpftq.cyou
 
+[wukcvtbrlyrxd.store] (1 removed)
+  - www.wukcvtbrlyrxd.store
+
 [wveylhgybnc2679f.cyou] (1 removed)
   - 7.wveylhgybnc2679f.cyou
 
@@ -23097,6 +22950,9 @@
 
 [wwwoldnavy.com] (1 removed)
   - www.wwwoldnavy.com
+
+[wwyoyuutoudbf.space] (1 removed)
+  - www.wwyoyuutoudbf.space
 
 [wycc.porn] (1 removed)
   - mobile-ads.wycc.porn
@@ -23164,9 +23020,6 @@
 [xjwrq.com] (1 removed)
   - www.xjwrq.com
 
-[xlbgbzzphvkac.site] (1 removed)
-  - www.xlbgbzzphvkac.site
-
 [xoiiasdpsdoasdpojas.com] (1 removed)
   - www.xoiiasdpsdoasdpojas.com
 
@@ -23192,9 +23045,6 @@
 [xtremepush.com] (2 removed)
   - api.xtremepush.com
   - s3.xtremepush.com
-
-[xtremline.com] (1 removed)
-  - www.xtremline.com
 
 [xu95z5e87w5vl4vtozhervozqfbe3qj2v8b7.cyou] (1 removed)
   - e8.xu95z5e87w5vl4vtozhervozqfbe3qj2v8b7.cyou
@@ -23424,6 +23274,10 @@
 [zxn3766g7m3tbjlx7.cyou] (1 removed)
   - f.zxn3766g7m3tbjlx7.cyou
 
-[zya.me] (1 removed)
+[zxzbjqoyojpza.site] (1 removed)
+  - www.zxzbjqoyojpza.site
+
+[zya.me] (2 removed)
+  - bbogta-cancelarcompra-cop.zya.me
   - businesslnstagram.zya.me
 
